@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\02. Maximal-Sum\bin\Debug\_02.Maximal_Sum.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\02. Maximal-Sum\bin\Debug\_02.Maximal_Sum.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\02. Maximal-Sum\bin\Debug\_02.Maximal_Sum.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\02. Maximal-Sum\obj\Debug\02. Maximal-Sum.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\02. Maximal-Sum\obj\Debug\_02.Maximal_Sum.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\02. Maximal-Sum\obj\Debug\_02.Maximal_Sum.pdb

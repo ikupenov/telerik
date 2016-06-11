@@ -1,0 +1,12 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\08. Number-As-Array\bin\Debug\_08.Number_As_Array.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\08. Number-As-Array\bin\Debug\_08.Number_As_Array.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\08. Number-As-Array\bin\Debug\_08.Number_As_Array.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\08. Number-As-Array\obj\Debug\08. Number-As-Array.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\08. Number-As-Array\obj\Debug\_08.Number_As_Array.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\08. Number-As-Array\obj\Debug\_08.Number_As_Array.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\08. Number-As-Array\bin\Debug\_08.Number_As_Array.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\08. Number-As-Array\obj\Debug\_08.Number_As_Array.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\08. Number-As-Array\obj\Debug\_08.Number_As_Array.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\08. Number-As-Array\bin\Debug\_08.Number_As_Array.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\08. Number-As-Array\bin\Debug\_08.Number_As_Array.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\08. Number-As-Array\obj\Debug\08. Number-As-Array.csprojResolveAssemblyReference.cache

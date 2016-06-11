@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\07. Selection-Sort\bin\Debug\_07.Selection_Sort.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\07. Selection-Sort\bin\Debug\_07.Selection_Sort.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\07. Selection-Sort\bin\Debug\_07.Selection_Sort.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\07. Selection-Sort\obj\Debug\07. Selection-Sort.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\07. Selection-Sort\obj\Debug\_07.Selection_Sort.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\07. Selection-Sort\obj\Debug\_07.Selection_Sort.pdb

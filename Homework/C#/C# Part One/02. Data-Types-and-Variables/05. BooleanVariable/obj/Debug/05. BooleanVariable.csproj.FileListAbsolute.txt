@@ -1,0 +1,4 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\05. BooleanVariable\bin\Debug\_05.BooleanVariable.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\05. BooleanVariable\bin\Debug\_05.BooleanVariable.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\05. BooleanVariable\obj\Debug\_05.BooleanVariable.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\05. BooleanVariable\obj\Debug\_05.BooleanVariable.pdb

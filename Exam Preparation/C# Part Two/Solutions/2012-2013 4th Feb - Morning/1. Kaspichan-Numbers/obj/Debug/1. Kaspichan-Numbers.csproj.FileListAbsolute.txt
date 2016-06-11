@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2012-2013 4th Feb - Morning\1. Kaspichan-Numbers\bin\Debug\_1.Kaspichan_Numbers.exe.config
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2012-2013 4th Feb - Morning\1. Kaspichan-Numbers\bin\Debug\_1.Kaspichan_Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2012-2013 4th Feb - Morning\1. Kaspichan-Numbers\bin\Debug\_1.Kaspichan_Numbers.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2012-2013 4th Feb - Morning\1. Kaspichan-Numbers\obj\Debug\1. Kaspichan-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2012-2013 4th Feb - Morning\1. Kaspichan-Numbers\obj\Debug\_1.Kaspichan_Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2012-2013 4th Feb - Morning\1. Kaspichan-Numbers\obj\Debug\_1.Kaspichan_Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\02. NotDivisibleNumbers\bin\Debug\_02.NotDivisibleNumbers.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\02. NotDivisibleNumbers\bin\Debug\_02.NotDivisibleNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\02. NotDivisibleNumbers\bin\Debug\_02.NotDivisibleNumbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\02. NotDivisibleNumbers\obj\Debug\_02.NotDivisibleNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\02. NotDivisibleNumbers\obj\Debug\_02.NotDivisibleNumbers.pdb

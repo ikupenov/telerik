@@ -1,0 +1,12 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\10. OddAndEvenProduct\obj\Debug\10. OddAndEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\10. OddAndEvenProduct\obj\Debug\_10.OddAndEvenProduct.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\10. OddAndEvenProduct\obj\Debug\_10.OddAndEvenProduct.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\10. OddAndEvenProduct\obj\Debug\_10.OddAndEvenProduct.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\10. OddAndEvenProduct\obj\Debug\_10.OddAndEvenProduct.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\10. OddAndEvenProduct\obj\Debug\10. OddAndEvenProduct.csprojResolveAssemblyReference.cache

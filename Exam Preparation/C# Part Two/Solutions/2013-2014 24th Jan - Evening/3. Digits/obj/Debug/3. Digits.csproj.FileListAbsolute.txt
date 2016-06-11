@@ -1,0 +1,12 @@
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\3. Digits\bin\Debug\_3.Digits.exe.config
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\3. Digits\bin\Debug\_3.Digits.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\3. Digits\bin\Debug\_3.Digits.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\3. Digits\obj\Debug\3. Digits.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\3. Digits\obj\Debug\_3.Digits.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\3. Digits\obj\Debug\_3.Digits.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\3. Digits\bin\Debug\_3.Digits.exe.config
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\3. Digits\obj\Debug\_3.Digits.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\3. Digits\obj\Debug\_3.Digits.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\3. Digits\bin\Debug\_3.Digits.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\3. Digits\bin\Debug\_3.Digits.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\3. Digits\obj\Debug\3. Digits.csprojResolveAssemblyReference.cache

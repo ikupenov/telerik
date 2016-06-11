@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\03. VariableInHexadecimalFormat\bin\Debug\_03.VariableInHexadecimalFormat.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\03. VariableInHexadecimalFormat\bin\Debug\_03.VariableInHexadecimalFormat.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\03. VariableInHexadecimalFormat\obj\Debug\03. VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\03. VariableInHexadecimalFormat\obj\Debug\_03.VariableInHexadecimalFormat.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\03. VariableInHexadecimalFormat\obj\Debug\_03.VariableInHexadecimalFormat.pdb

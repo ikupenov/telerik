@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\08. Sum-Integers\bin\Debug\_07.Sum_Integers.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\08. Sum-Integers\obj\Debug\_07.Sum_Integers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\08. Sum-Integers\obj\Debug\_07.Sum_Integers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\08. Sum-Integers\bin\Debug\_07.Sum_Integers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\08. Sum-Integers\bin\Debug\_07.Sum_Integers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\08. Sum-Integers\obj\Debug\08. Sum-Integers.csprojResolveAssemblyReference.cache

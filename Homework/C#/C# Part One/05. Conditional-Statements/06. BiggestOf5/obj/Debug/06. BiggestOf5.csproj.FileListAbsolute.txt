@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\06. BiggestOf5\bin\Debug\_06.BiggestOf5.exe
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\06. BiggestOf5\bin\Debug\_06.BiggestOf5.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\06. BiggestOf5\obj\Debug\06. BiggestOf5.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\06. BiggestOf5\obj\Debug\_06.BiggestOf5.exe
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\06. BiggestOf5\obj\Debug\_06.BiggestOf5.pdb

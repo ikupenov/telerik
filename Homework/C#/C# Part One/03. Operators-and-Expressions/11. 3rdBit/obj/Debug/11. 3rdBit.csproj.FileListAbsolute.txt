@@ -1,0 +1,7 @@
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\11. 3rdBit\bin\Debug\11. 3rdBit.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\11. 3rdBit\bin\Debug\11. 3rdBit.pdb
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\11. 3rdBit\obj\Debug\11. 3rdBit.csprojResolveAssemblyReference.cache
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\11. 3rdBit\obj\Debug\11. 3rdBit.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\11. 3rdBit\obj\Debug\11. 3rdBit.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\11. 3rdBit\obj\Debug\11. 3rdBit.exe
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\11. 3rdBit\obj\Debug\11. 3rdBit.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Variant-2 (26.06.2013)\Problem 4 – Bat’Goiko Tower\bin\Debug\Problem 4 – Bat’Goiko Tower.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\Variant-2 (26.06.2013)\Problem 4 – Bat’Goiko Tower\bin\Debug\Problem 4 – Bat’Goiko Tower.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Variant-2 (26.06.2013)\Problem 4 – Bat’Goiko Tower\bin\Debug\Problem 4 – Bat’Goiko Tower.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Variant-2 (26.06.2013)\Problem 4 – Bat’Goiko Tower\obj\Debug\Problem 4 – Bat’Goiko Tower.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\Variant-2 (26.06.2013)\Problem 4 – Bat’Goiko Tower\obj\Debug\Problem 4 – Bat’Goiko Tower.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Variant-2 (26.06.2013)\Problem 4 – Bat’Goiko Tower\obj\Debug\Problem 4 – Bat’Goiko Tower.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant-2 (26.06.2013)\Problem 4 – Bat’Goiko Tower\bin\Debug\Problem 4 – Bat’Goiko Tower.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant-2 (26.06.2013)\Problem 4 – Bat’Goiko Tower\obj\Debug\Problem 4 – Bat’Goiko Tower.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant-2 (26.06.2013)\Problem 4 – Bat’Goiko Tower\obj\Debug\Problem 4 – Bat’Goiko Tower.pdb

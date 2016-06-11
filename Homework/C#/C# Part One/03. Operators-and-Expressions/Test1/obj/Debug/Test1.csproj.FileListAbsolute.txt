@@ -1,0 +1,6 @@
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\Test1\bin\Debug\Test1.exe.config
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\Test1\bin\Debug\Test1.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\Test1\bin\Debug\Test1.pdb
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\Test1\obj\Debug\Test1.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\Test1\obj\Debug\Test1.pdb

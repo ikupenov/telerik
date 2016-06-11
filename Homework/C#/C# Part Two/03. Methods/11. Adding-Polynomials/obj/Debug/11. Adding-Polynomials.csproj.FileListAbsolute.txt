@@ -1,0 +1,12 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\11. Adding-Polynomials\bin\Debug\_11.Adding_Polynomials.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\11. Adding-Polynomials\bin\Debug\_11.Adding_Polynomials.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\11. Adding-Polynomials\bin\Debug\_11.Adding_Polynomials.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\11. Adding-Polynomials\obj\Debug\11. Adding-Polynomials.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\11. Adding-Polynomials\obj\Debug\_11.Adding_Polynomials.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\11. Adding-Polynomials\obj\Debug\_11.Adding_Polynomials.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\11. Adding-Polynomials\bin\Debug\_11.Adding_Polynomials.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\11. Adding-Polynomials\obj\Debug\_11.Adding_Polynomials.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\11. Adding-Polynomials\obj\Debug\_11.Adding_Polynomials.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\11. Adding-Polynomials\bin\Debug\_11.Adding_Polynomials.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\11. Adding-Polynomials\bin\Debug\_11.Adding_Polynomials.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\11. Adding-Polynomials\obj\Debug\11. Adding-Polynomials.csprojResolveAssemblyReference.cache

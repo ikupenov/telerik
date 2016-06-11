@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\12. Nth Bit\bin\Debug\_12.Nth_Bit.exe
+C:\Users\Ilian\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\12. Nth Bit\bin\Debug\_12.Nth_Bit.pdb
+C:\Users\Ilian\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\12. Nth Bit\obj\Debug\_12.Nth_Bit.exe
+C:\Users\Ilian\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\12. Nth Bit\obj\Debug\_12.Nth_Bit.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\12. Nth Bit\obj\Debug\_12.Nth_Bit.exe
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\12. Nth Bit\obj\Debug\_12.Nth_Bit.pdb

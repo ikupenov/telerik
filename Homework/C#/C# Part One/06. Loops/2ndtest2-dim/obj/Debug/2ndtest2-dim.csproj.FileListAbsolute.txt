@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\2ndtest2-dim\bin\Debug\2ndtest2-dim.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\2ndtest2-dim\bin\Debug\2ndtest2-dim.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\2ndtest2-dim\bin\Debug\2ndtest2-dim.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\2ndtest2-dim\obj\Debug\2ndtest2-dim.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\2ndtest2-dim\obj\Debug\2ndtest2-dim.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\2ndtest2-dim\obj\Debug\2ndtest2-dim.csprojResolveAssemblyReference.cache

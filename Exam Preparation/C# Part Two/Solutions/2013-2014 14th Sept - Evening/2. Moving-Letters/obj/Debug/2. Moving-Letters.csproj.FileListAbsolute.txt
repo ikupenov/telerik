@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14th Sept 2013 - Evening\2. Moving-Letters\bin\Debug\_2.Moving_Letters.exe.config
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14th Sept 2013 - Evening\2. Moving-Letters\bin\Debug\_2.Moving_Letters.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14th Sept 2013 - Evening\2. Moving-Letters\bin\Debug\_2.Moving_Letters.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14th Sept 2013 - Evening\2. Moving-Letters\obj\Debug\2. Moving-Letters.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14th Sept 2013 - Evening\2. Moving-Letters\obj\Debug\_2.Moving_Letters.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14th Sept 2013 - Evening\2. Moving-Letters\obj\Debug\_2.Moving_Letters.pdb

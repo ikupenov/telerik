@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\02. Compare-Arrays\bin\Debug\_02.Compare_Arrays.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\02. Compare-Arrays\bin\Debug\_02.Compare_Arrays.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\02. Compare-Arrays\bin\Debug\_02.Compare_Arrays.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\02. Compare-Arrays\obj\Debug\_02.Compare_Arrays.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\02. Compare-Arrays\obj\Debug\_02.Compare_Arrays.pdb

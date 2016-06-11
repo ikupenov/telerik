@@ -1,0 +1,7 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\07. Exception-Handling\01. Square-Root\bin\Debug\_01.Square_Root.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\07. Exception-Handling\01. Square-Root\bin\Debug\_01.Square_Root.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\07. Exception-Handling\01. Square-Root\bin\Debug\_01.Square_Root.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\07. Exception-Handling\01. Square-Root\bin\Debug\_01.Square_Root.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\07. Exception-Handling\01. Square-Root\obj\Debug\01. Square-Root.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\07. Exception-Handling\01. Square-Root\obj\Debug\_01.Square_Root.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\07. Exception-Handling\01. Square-Root\obj\Debug\_01.Square_Root.pdb

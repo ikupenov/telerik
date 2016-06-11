@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\09. SumOfNNumbers\obj\Debug\09. SumOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\09. SumOfNNumbers\obj\Debug\_09.SumOfNNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\09. SumOfNNumbers\obj\Debug\_09.SumOfNNumbers.pdb

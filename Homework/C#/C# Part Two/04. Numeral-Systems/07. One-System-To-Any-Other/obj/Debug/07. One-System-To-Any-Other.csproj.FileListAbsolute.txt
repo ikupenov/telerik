@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\07. One-System-To-Any-Other\bin\Debug\_07.One_System_To_Any_Other.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\07. One-System-To-Any-Other\bin\Debug\_07.One_System_To_Any_Other.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\07. One-System-To-Any-Other\bin\Debug\_07.One_System_To_Any_Other.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\07. One-System-To-Any-Other\obj\Debug\07. One-System-To-Any-Other.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\07. One-System-To-Any-Other\obj\Debug\_07.One_System_To_Any_Other.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\07. One-System-To-Any-Other\obj\Debug\_07.One_System_To_Any_Other.pdb

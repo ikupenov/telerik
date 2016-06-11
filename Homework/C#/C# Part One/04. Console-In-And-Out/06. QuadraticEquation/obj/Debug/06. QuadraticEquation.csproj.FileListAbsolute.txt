@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\06. QuadraticEquation\obj\Debug\06. QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.pdb

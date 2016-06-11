@@ -1,0 +1,4 @@
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\03. Circle\bin\Debug\_03.Circle.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\03. Circle\bin\Debug\_03.Circle.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\03. Circle\obj\Debug\_03.Circle.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\03. Circle\obj\Debug\_03.Circle.pdb

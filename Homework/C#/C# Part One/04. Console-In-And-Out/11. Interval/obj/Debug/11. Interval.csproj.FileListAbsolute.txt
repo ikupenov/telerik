@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\11. Interval\bin\Debug\_11.Interval.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\11. Interval\bin\Debug\_11.Interval.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\11. Interval\obj\Debug\11. Interval.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\11. Interval\obj\Debug\_11.Interval.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\11. Interval\obj\Debug\_11.Interval.pdb

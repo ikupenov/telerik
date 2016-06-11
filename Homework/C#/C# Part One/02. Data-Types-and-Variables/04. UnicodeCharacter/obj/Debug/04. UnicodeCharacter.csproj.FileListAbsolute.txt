@@ -1,0 +1,4 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\04. UnicodeCharacter\bin\Debug\_04.UnicodeCharacter.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\04. UnicodeCharacter\bin\Debug\_04.UnicodeCharacter.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\04. UnicodeCharacter\obj\Debug\_04.UnicodeCharacter.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\04. UnicodeCharacter\obj\Debug\_04.UnicodeCharacter.pdb

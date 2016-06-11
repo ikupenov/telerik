@@ -1,0 +1,50 @@
+th, td{
+	border: 1px solid #0d0d0d;
+	color: skyblue;
+	font-size: 25px;
+	height: 93px;
+	font-family: sans-serif;
+}
+
+table {
+	width: 15%;
+	background-color: #333333;
+}
+
+tr:not(:first-child) {
+	text-align: center;
+}
+
+button {
+	background: none;
+	padding: 0;
+	border: transparent;
+	color: skyblue;
+	font-size: 50px;
+	width: 100%;
+	height: 100%;
+}
+
+
+button:hover {
+	background-color: #404040;
+}
+
+button:active {
+	background-color: #383838;
+}
+
+input {
+	background: none;
+	color: skyblue;
+	border: none;
+	height: 50px;
+	width: 97%;
+	font-size: 50px;
+	margin-left: 1px;
+}
+
+::-webkit-input-placeholder {
+   color: skyblue;
+   text-align: right;
+}

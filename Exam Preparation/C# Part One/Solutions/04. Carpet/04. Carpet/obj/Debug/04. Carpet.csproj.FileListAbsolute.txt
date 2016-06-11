@@ -1,0 +1,6 @@
+C:\Users\Ilian\Desktop\04. Carpet\04. Carpet\bin\Debug\_04.Carpet.exe.config
+C:\Users\Ilian\Desktop\04. Carpet\04. Carpet\bin\Debug\_04.Carpet.exe
+C:\Users\Ilian\Desktop\04. Carpet\04. Carpet\bin\Debug\_04.Carpet.pdb
+C:\Users\Ilian\Desktop\04. Carpet\04. Carpet\obj\Debug\04. Carpet.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Desktop\04. Carpet\04. Carpet\obj\Debug\_04.Carpet.exe
+C:\Users\Ilian\Desktop\04. Carpet\04. Carpet\obj\Debug\_04.Carpet.pdb

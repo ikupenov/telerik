@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\06. CalculateAgain!\bin\Debug\_06.CalculateAgain_.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\06. CalculateAgain!\bin\Debug\_06.CalculateAgain_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\06. CalculateAgain!\bin\Debug\_06.CalculateAgain_.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\06. CalculateAgain!\obj\Debug\06. CalculateAgain!.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\06. CalculateAgain!\obj\Debug\_06.CalculateAgain_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\06. CalculateAgain!\obj\Debug\_06.CalculateAgain_.pdb

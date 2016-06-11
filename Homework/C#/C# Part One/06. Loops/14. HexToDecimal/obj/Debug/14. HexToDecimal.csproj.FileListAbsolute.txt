@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\14. HexToDecimal\bin\Debug\_14.HexToDecimal.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\14. HexToDecimal\bin\Debug\_14.HexToDecimal.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\14. HexToDecimal\bin\Debug\_14.HexToDecimal.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\14. HexToDecimal\obj\Debug\_14.HexToDecimal.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\14. HexToDecimal\obj\Debug\_14.HexToDecimal.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\14. HexToDecimal\obj\Debug\14. HexToDecimal.csprojResolveAssemblyReference.cache

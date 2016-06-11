@@ -1,0 +1,4 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\08. IsoscelesTriangle\bin\Debug\_08.IsoscelesTriangle.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\08. IsoscelesTriangle\bin\Debug\_08.IsoscelesTriangle.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\08. IsoscelesTriangle\obj\Debug\_08.IsoscelesTriangle.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\08. IsoscelesTriangle\obj\Debug\_08.IsoscelesTriangle.pdb

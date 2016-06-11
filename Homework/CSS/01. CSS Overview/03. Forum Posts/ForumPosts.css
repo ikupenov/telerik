@@ -1,0 +1,59 @@
+body {
+	background-color: #A9A9A9;
+	font-family: Arial;
+}
+
+header h1 {
+	text-align: center;
+	color: #FAFAD2;
+	font-size: 45px;
+}
+
+ul {
+	list-style-type: none;
+	text-align: center;
+}
+
+nav {
+	font-size: 27px;
+	font-weight: bold;
+}
+
+nav a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+nav a:hover {
+	background-color: #D3D3D3;
+}
+
+nav li:last-child a {
+	text-decoration: underline;
+}
+
+article header h1 {
+	color: #FAFAD2;
+	font-size: 35px;
+	text-align: left;
+}
+
+footer a {
+	text-decoration: none;
+	color: black;
+	font-size: 15px;
+}
+
+section footer p {
+	font-size: 15px;
+}
+
+article p {
+	font-size: 19px;
+	text-align: justify;
+}
+
+body footer {
+	text-align: center;
+	font-size: 25px;
+}

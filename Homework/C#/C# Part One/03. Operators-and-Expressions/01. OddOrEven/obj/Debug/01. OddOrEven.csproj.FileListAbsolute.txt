@@ -1,0 +1,7 @@
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\01. OddOrEven\bin\Debug\_01.OddOrEven.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\01. OddOrEven\bin\Debug\_01.OddOrEven.pdb
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\01. OddOrEven\obj\Debug\01. OddOrEven.csprojResolveAssemblyReference.cache
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\01. OddOrEven\obj\Debug\_01.OddOrEven.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\01. OddOrEven\obj\Debug\_01.OddOrEven.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\01. OddOrEven\obj\Debug\_01.OddOrEven.exe
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\01. OddOrEven\obj\Debug\_01.OddOrEven.pdb

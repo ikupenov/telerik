@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\03. MMSA of N Numbers\bin\Debug\_03.MMSA_of_N_Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\03. MMSA of N Numbers\bin\Debug\_03.MMSA_of_N_Numbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\03. MMSA of N Numbers\obj\Debug\_03.MMSA_of_N_Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\03. MMSA of N Numbers\obj\Debug\_03.MMSA_of_N_Numbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\03. MMSA of N Numbers\obj\Debug\03. MMSA of N Numbers.csprojResolveAssemblyReference.cache

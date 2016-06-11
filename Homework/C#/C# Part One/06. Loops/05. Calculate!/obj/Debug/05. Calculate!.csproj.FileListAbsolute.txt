@@ -1,0 +1,10 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\05. Calculate!\bin\Debug\_05.Calculate_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\05. Calculate!\bin\Debug\_05.Calculate_.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\05. Calculate!\obj\Debug\05. Calculate!.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\05. Calculate!\obj\Debug\_05.Calculate_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\05. Calculate!\obj\Debug\_05.Calculate_.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\05. Calculate!\obj\Debug\_05.Calculate_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\05. Calculate!\obj\Debug\_05.Calculate_.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\05. Calculate!\bin\Debug\_05.Calculate_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\05. Calculate!\bin\Debug\_05.Calculate_.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\05. Calculate!\obj\Debug\05. Calculate!.csprojResolveAssemblyReference.cache

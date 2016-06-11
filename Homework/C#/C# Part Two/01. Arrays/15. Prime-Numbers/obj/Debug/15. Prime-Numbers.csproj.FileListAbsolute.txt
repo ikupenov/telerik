@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\15. Prime-Numbers\bin\Debug\_15.Prime_Numbers.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\15. Prime-Numbers\bin\Debug\_15.Prime_Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\15. Prime-Numbers\bin\Debug\_15.Prime_Numbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\15. Prime-Numbers\obj\Debug\15. Prime-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\15. Prime-Numbers\obj\Debug\_15.Prime_Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\15. Prime-Numbers\obj\Debug\_15.Prime_Numbers.pdb

@@ -1,0 +1,12 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\04. Appearance-Count\bin\Debug\_04.Appearance_Count.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\04. Appearance-Count\bin\Debug\_04.Appearance_Count.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\04. Appearance-Count\bin\Debug\_04.Appearance_Count.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\04. Appearance-Count\obj\Debug\04. Appearance-Count.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\04. Appearance-Count\obj\Debug\_04.Appearance_Count.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\04. Appearance-Count\obj\Debug\_04.Appearance_Count.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\04. Appearance-Count\bin\Debug\_04.Appearance_Count.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\04. Appearance-Count\obj\Debug\_04.Appearance_Count.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\04. Appearance-Count\obj\Debug\_04.Appearance_Count.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\04. Appearance-Count\bin\Debug\_04.Appearance_Count.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\04. Appearance-Count\bin\Debug\_04.Appearance_Count.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\04. Appearance-Count\obj\Debug\04. Appearance-Count.csprojResolveAssemblyReference.cache

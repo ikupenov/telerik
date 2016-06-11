@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 3 - X – Expression\bin\Debug\Problem 3 - X – Expression.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 3 - X – Expression\bin\Debug\Problem 3 - X – Expression.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 3 - X – Expression\bin\Debug\Problem 3 - X – Expression.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 3 - X – Expression\obj\Debug\Problem 3 - X – Expression.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 3 - X – Expression\obj\Debug\Problem 3 - X – Expression.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 3 - X – Expression\obj\Debug\Problem 3 - X – Expression.pdb

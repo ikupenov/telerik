@@ -1,0 +1,8 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  Variant 1 (2013-06-23)\Problem 4 – Fire in the Matrix\bin\Debug\Problem 4 – Fire in the Matrix.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  Variant 1 (2013-06-23)\Problem 4 – Fire in the Matrix\bin\Debug\Problem 4 – Fire in the Matrix.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  Variant 1 (2013-06-23)\Problem 4 – Fire in the Matrix\bin\Debug\Problem 4 – Fire in the Matrix.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  Variant 1 (2013-06-23)\Problem 4 – Fire in the Matrix\obj\Debug\Problem 4 – Fire in the Matrix.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  Variant 1 (2013-06-23)\Problem 4 – Fire in the Matrix\obj\Debug\Problem 4 – Fire in the Matrix.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V1 - 23.06.2013\Problem 4 – Fire in the Matrix\bin\Debug\Problem 4 – Fire in the Matrix.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V1 - 23.06.2013\Problem 4 – Fire in the Matrix\obj\Debug\Problem 4 – Fire in the Matrix.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V1 - 23.06.2013\Problem 4 – Fire in the Matrix\obj\Debug\Problem 4 – Fire in the Matrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\04. Sub-String-In-Text\bin\Debug\_04.Sub_String_In_Text.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\04. Sub-String-In-Text\bin\Debug\_04.Sub_String_In_Text.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\04. Sub-String-In-Text\bin\Debug\_04.Sub_String_In_Text.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\04. Sub-String-In-Text\obj\Debug\04. Sub-String-In-Text.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\04. Sub-String-In-Text\obj\Debug\_04.Sub_String_In_Text.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\04. Sub-String-In-Text\obj\Debug\_04.Sub_String_In_Text.pdb

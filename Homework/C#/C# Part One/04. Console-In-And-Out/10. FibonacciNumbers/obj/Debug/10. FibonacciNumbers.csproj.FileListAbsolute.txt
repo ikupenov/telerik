@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\10. FibonacciNumbers\bin\Debug\_10.FibonacciNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\10. FibonacciNumbers\bin\Debug\_10.FibonacciNumbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\10. FibonacciNumbers\obj\Debug\_10.FibonacciNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\10. FibonacciNumbers\obj\Debug\_10.FibonacciNumbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\10. FibonacciNumbers\obj\Debug\10. FibonacciNumbers.csprojResolveAssemblyReference.cache

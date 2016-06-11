@@ -1,0 +1,4 @@
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\06. Four Digit\bin\Debug\_06.Four_Digit.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\06. Four Digit\bin\Debug\_06.Four_Digit.pdb
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\06. Four Digit\obj\Debug\_06.Four_Digit.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\06. Four Digit\obj\Debug\_06.Four_Digit.pdb

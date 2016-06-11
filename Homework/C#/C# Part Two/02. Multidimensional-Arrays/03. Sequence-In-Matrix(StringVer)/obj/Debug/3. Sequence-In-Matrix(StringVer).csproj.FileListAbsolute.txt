@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\3. Sequence-In-Matrix(StringVer)\bin\Debug\_3.Sequence_In_Matrix_StringVer_.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\3. Sequence-In-Matrix(StringVer)\bin\Debug\_3.Sequence_In_Matrix_StringVer_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\3. Sequence-In-Matrix(StringVer)\bin\Debug\_3.Sequence_In_Matrix_StringVer_.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\3. Sequence-In-Matrix(StringVer)\obj\Debug\_3.Sequence_In_Matrix_StringVer_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\3. Sequence-In-Matrix(StringVer)\obj\Debug\_3.Sequence_In_Matrix_StringVer_.pdb

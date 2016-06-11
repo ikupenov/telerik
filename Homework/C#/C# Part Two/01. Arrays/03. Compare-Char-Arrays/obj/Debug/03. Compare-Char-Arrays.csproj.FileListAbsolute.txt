@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\03. Compare-Char-Arrays\bin\Debug\_03.Compare_Char_Arrays.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\03. Compare-Char-Arrays\bin\Debug\_03.Compare_Char_Arrays.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\03. Compare-Char-Arrays\bin\Debug\_03.Compare_Char_Arrays.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\03. Compare-Char-Arrays\obj\Debug\_03.Compare_Char_Arrays.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\03. Compare-Char-Arrays\obj\Debug\_03.Compare_Char_Arrays.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\03. Compare-Char-Arrays\obj\Debug\03. Compare-Char-Arrays.csprojResolveAssemblyReference.cache

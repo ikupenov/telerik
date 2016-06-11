@@ -1,0 +1,12 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\09. Sorting-Array\bin\Debug\_09.Sorting_Array.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\09. Sorting-Array\bin\Debug\_09.Sorting_Array.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\09. Sorting-Array\bin\Debug\_09.Sorting_Array.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\09. Sorting-Array\obj\Debug\09. Sorting-Array.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\09. Sorting-Array\obj\Debug\_09.Sorting_Array.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\09. Sorting-Array\obj\Debug\_09.Sorting_Array.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\09. Sorting-Array\bin\Debug\_09.Sorting_Array.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\09. Sorting-Array\obj\Debug\_09.Sorting_Array.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\09. Sorting-Array\obj\Debug\_09.Sorting_Array.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\09. Sorting-Array\bin\Debug\_09.Sorting_Array.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\09. Sorting-Array\bin\Debug\_09.Sorting_Array.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\09. Sorting-Array\obj\Debug\09. Sorting-Array.csprojResolveAssemblyReference.cache

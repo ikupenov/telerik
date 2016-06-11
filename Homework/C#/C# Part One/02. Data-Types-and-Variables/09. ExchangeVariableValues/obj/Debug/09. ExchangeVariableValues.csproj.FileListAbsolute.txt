@@ -1,0 +1,4 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\09. ExchangeVariableValues\bin\Debug\_09.ExchangeVariableValues.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\09. ExchangeVariableValues\bin\Debug\_09.ExchangeVariableValues.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\09. ExchangeVariableValues\obj\Debug\_09.ExchangeVariableValues.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\09. ExchangeVariableValues\obj\Debug\_09.ExchangeVariableValues.pdb

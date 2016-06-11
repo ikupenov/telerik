@@ -1,0 +1,8 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\07. Reverse-Numbers\bin\Debug\_07.Reverse_Numbers.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\07. Reverse-Numbers\bin\Debug\_07.Reverse_Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\07. Reverse-Numbers\bin\Debug\_07.Reverse_Numbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\07. Reverse-Numbers\obj\Debug\_07.Reverse_Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\07. Reverse-Numbers\obj\Debug\_07.Reverse_Numbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\07. Reverse-Numbers\bin\Debug\_07.Reverse_Numbers.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\07. Reverse-Numbers\obj\Debug\_07.Reverse_Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\07. Reverse-Numbers\obj\Debug\_07.Reverse_Numbers.pdb

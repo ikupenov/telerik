@@ -1,0 +1,12 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\15. GCD\bin\Debug\_15.GCD.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\15. GCD\bin\Debug\_15.GCD.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\15. GCD\bin\Debug\_15.GCD.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\15. GCD\obj\Debug\15. GCD.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\15. GCD\obj\Debug\_15.GCD.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\15. GCD\obj\Debug\_15.GCD.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\15. GCD\bin\Debug\_15.GCD.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\15. GCD\obj\Debug\_15.GCD.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\15. GCD\obj\Debug\_15.GCD.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\15. GCD\bin\Debug\_15.GCD.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\15. GCD\bin\Debug\_15.GCD.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\15. GCD\obj\Debug\15. GCD.csprojResolveAssemblyReference.cache

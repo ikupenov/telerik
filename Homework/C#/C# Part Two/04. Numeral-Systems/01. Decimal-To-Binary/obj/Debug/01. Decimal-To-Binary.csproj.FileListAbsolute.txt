@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\01. Decimal-To-Binary\bin\Debug\_01.Decimal_To_Binary.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\01. Decimal-To-Binary\bin\Debug\_01.Decimal_To_Binary.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\01. Decimal-To-Binary\bin\Debug\_01.Decimal_To_Binary.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\01. Decimal-To-Binary\obj\Debug\01. Decimal-To-Binary.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\01. Decimal-To-Binary\obj\Debug\_01.Decimal_To_Binary.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\01. Decimal-To-Binary\obj\Debug\_01.Decimal_To_Binary.pdb

@@ -1,0 +1,4 @@
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\07. FormatCode\bin\Debug\_07.FormatCode.exe
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\07. FormatCode\bin\Debug\_07.FormatCode.pdb
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\07. FormatCode\obj\Debug\_07.FormatCode.exe
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\07. FormatCode\obj\Debug\_07.FormatCode.pdb

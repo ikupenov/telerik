@@ -1,0 +1,4 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\06. StringAndObjects\bin\Debug\_06.StringAndObjects.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\06. StringAndObjects\bin\Debug\_06.StringAndObjects.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\06. StringAndObjects\obj\Debug\_06.StringAndObjects.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\06. StringAndObjects\obj\Debug\_06.StringAndObjects.pdb

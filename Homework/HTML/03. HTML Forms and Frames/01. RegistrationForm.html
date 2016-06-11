@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="RegistrationForm.css">
+	<title>Register</title>
+</head>
+<body>
+	<form>
+	<table border="1px">
+		<tr>
+			<td class="leftCol">Last Name</td>
+			<td><input type="textbox"></input></td>
+		</tr>
+
+		<tr>
+			<td class="leftCol">First Name</td>
+			<td><input type="textbox"></input></td>
+		</tr>
+
+		<tr>
+			<td class="leftCol" rowspan="3">Address</td>
+			<td><textarea style="margin-top: 5px" rows="3" cols="25px"></textarea></td>
+		</tr>
+		
+		<tr></tr>
+		<tr></tr>
+
+		<tr>
+			<td class="leftCol">City</td>
+			<td><input style="width: 50%" type="textbox"></input> State <input style="width: 25%" type="textbox"></input></td>
+		</tr>
+
+		<tr>
+			<td class="leftCol">Zip/Postal/Copy</td>
+			<td><input style="width: 25%" type="textbox"></input></td>
+		</tr>
+
+		<tr>
+			<td class="leftCol">Country</td>
+			<td>
+			<select name="country">
+				<option value="Bulgaria"
+				selected="Bulgaria">Bulgaria</option>
+
+				<option value="Spain">Spain</option>
+				<option value="UnitedKingdom">United Kingdom</option>		
+			</select>
+			</td>
+		</tr>
+
+		<tr>
+			<td class="leftCol">Phone (country code, area code, number)</td>
+			<td>(+<input style="width: 20%" type="textbox"></input>) <input style="width:20%" type="textbox"></input> <input style="width: 30%" type="textbox"></input></td>
+		</tr>
+
+		<tr>
+			<td class="leftCol">Email</td>
+			<td><input type="email"></input></td>
+		</tr>
+
+		<tr>
+			<td class="leftCol">Birth Date</td>
+			<td><input placeholder="DD. MM. YYYY" type="textbox"></input></td>
+		</tr>
+
+		<tr>
+			<td class="leftCol">Gender</td>
+			<td>
+			<select name="gender">
+				<option value="male"
+				selected="Male">Male</option>
+				<option value="female">Female</option>
+			</select>
+			</td>
+		</tr>
+
+		<tr>
+			<td class="leftCol">Starting date</td>
+			<td>
+				<input name="date" type="radio">Spring 2015</input>
+				<input name="date" type="radio">Summer 2015</input>
+			</td>
+		</tr>
+
+		<tr>
+			<td rowspan="3" class="leftCol">Comments/Questions</td>
+			<td><textarea style="margin-top: 5px" cols="25px" rows="3"></textarea></td>
+		</tr>
+		
+		<tr></tr>
+		<tr></tr>
+
+		<tr class="botbuttons">
+			<td style="text-align: center" colspan="2" class="botbuttons"><button type="submit">Submit</button> <button type="reset">Clean this form</button> </td>
+		</tr>
+	</table>
+	</form>
+	
+</body>
+</html>

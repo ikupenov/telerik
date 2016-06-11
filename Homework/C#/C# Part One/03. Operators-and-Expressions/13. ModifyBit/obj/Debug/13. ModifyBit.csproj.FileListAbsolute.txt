@@ -1,0 +1,7 @@
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\13. ModifyBit\bin\Debug\_13.ModifyBit.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\13. ModifyBit\bin\Debug\_13.ModifyBit.pdb
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\13. ModifyBit\obj\Debug\13. ModifyBit.csprojResolveAssemblyReference.cache
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\13. ModifyBit\obj\Debug\_13.ModifyBit.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\13. ModifyBit\obj\Debug\_13.ModifyBit.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\13. ModifyBit\obj\Debug\_13.ModifyBit.exe
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\13. ModifyBit\obj\Debug\_13.ModifyBit.pdb

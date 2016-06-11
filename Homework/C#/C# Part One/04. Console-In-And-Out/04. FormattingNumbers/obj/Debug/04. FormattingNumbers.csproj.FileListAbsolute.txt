@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\04. FormattingNumbers\bin\Debug\_04.FormattingNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\04. FormattingNumbers\bin\Debug\_04.FormattingNumbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\04. FormattingNumbers\obj\Debug\04. FormattingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\04. FormattingNumbers\obj\Debug\_04.FormattingNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\04. FormattingNumbers\obj\Debug\_04.FormattingNumbers.pdb

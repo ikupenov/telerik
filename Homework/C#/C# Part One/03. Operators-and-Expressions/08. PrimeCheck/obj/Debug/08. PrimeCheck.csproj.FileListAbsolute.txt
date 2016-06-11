@@ -1,0 +1,10 @@
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\08. PrimeCheck\bin\Debug\_08.PrimeCheck.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\08. PrimeCheck\bin\Debug\_08.PrimeCheck.pdb
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\08. PrimeCheck\obj\Debug\_08.PrimeCheck.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\08. PrimeCheck\obj\Debug\_08.PrimeCheck.pdb
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\08. PrimeCheck\obj\Debug\08. PrimeCheck.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\08. PrimeCheck\obj\Debug\_08.PrimeCheck.exe
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\08. PrimeCheck\obj\Debug\_08.PrimeCheck.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\08. PrimeCheck\bin\Debug\_08.PrimeCheck.exe
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\08. PrimeCheck\bin\Debug\_08.PrimeCheck.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\08. PrimeCheck\obj\Debug\08. PrimeCheck.csprojResolveAssemblyReference.cache

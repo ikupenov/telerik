@@ -1,0 +1,9 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\01. NumbersFrom1ToN\bin\Debug\_01.NumbersFrom1ToN.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\01. NumbersFrom1ToN\bin\Debug\_01.NumbersFrom1ToN.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\01. NumbersFrom1ToN\obj\Debug\01. NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\01. NumbersFrom1ToN\obj\Debug\_01.NumbersFrom1ToN.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\01. NumbersFrom1ToN\obj\Debug\_01.NumbersFrom1ToN.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\01. NumbersFrom1ToN\obj\Debug\_01.NumbersFrom1ToN.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\01. NumbersFrom1ToN\obj\Debug\_01.NumbersFrom1ToN.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part One\06. Loops\01. NumbersFrom1ToN\obj\Debug\_01.NumbersFrom1ToN.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part One\06. Loops\01. NumbersFrom1ToN\obj\Debug\_01.NumbersFrom1ToN.pdb

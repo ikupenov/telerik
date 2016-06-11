@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\08. Maximal-Sum\bin\Debug\_08.Maximal_Sum.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\08. Maximal-Sum\bin\Debug\_08.Maximal_Sum.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\08. Maximal-Sum\bin\Debug\_08.Maximal_Sum.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\08. Maximal-Sum\obj\Debug\08. Maximal-Sum.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\08. Maximal-Sum\obj\Debug\_08.Maximal_Sum.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\08. Maximal-Sum\obj\Debug\_08.Maximal_Sum.pdb

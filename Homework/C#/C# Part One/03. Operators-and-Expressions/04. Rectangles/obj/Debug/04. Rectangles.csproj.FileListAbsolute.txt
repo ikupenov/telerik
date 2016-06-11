@@ -1,0 +1,5 @@
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\04. Rectangles\bin\Debug\_04.Rectangles.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\04. Rectangles\bin\Debug\_04.Rectangles.pdb
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\04. Rectangles\obj\Debug\04. Rectangles.csprojResolveAssemblyReference.cache
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\04. Rectangles\obj\Debug\_04.Rectangles.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\04. Rectangles\obj\Debug\_04.Rectangles.pdb

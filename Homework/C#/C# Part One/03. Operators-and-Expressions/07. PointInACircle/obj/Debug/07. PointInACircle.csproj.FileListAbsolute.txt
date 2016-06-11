@@ -1,0 +1,5 @@
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\07. PointInACircle\bin\Debug\_07.PointInACircle.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\07. PointInACircle\bin\Debug\_07.PointInACircle.pdb
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\07. PointInACircle\obj\Debug\07. PointInACircle.csprojResolveAssemblyReference.cache
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\07. PointInACircle\obj\Debug\_07.PointInACircle.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\07. PointInACircle\obj\Debug\_07.PointInACircle.pdb

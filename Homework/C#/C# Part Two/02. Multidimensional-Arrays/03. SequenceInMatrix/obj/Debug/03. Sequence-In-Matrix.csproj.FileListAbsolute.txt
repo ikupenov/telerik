@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\03. SequenceInMatrix\bin\Debug\_03.SequenceInMatrix.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\03. SequenceInMatrix\obj\Debug\_03.SequenceInMatrix.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\03. SequenceInMatrix\obj\Debug\_03.SequenceInMatrix.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\03. SequenceInMatrix\bin\Debug\_03.SequenceInMatrix.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\03. SequenceInMatrix\bin\Debug\_03.SequenceInMatrix.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\03. SequenceInMatrix\obj\Debug\03. Sequence-In-Matrix.csprojResolveAssemblyReference.cache

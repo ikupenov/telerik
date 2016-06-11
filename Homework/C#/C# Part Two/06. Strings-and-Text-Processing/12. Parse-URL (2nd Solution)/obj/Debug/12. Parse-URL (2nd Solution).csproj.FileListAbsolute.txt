@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\12. Parse-URL (2nd Solution)\bin\Debug\_12.Parse_URL__2nd_Solution_.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\12. Parse-URL (2nd Solution)\bin\Debug\_12.Parse_URL__2nd_Solution_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\12. Parse-URL (2nd Solution)\bin\Debug\_12.Parse_URL__2nd_Solution_.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\12. Parse-URL (2nd Solution)\obj\Debug\_12.Parse_URL__2nd_Solution_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\12. Parse-URL (2nd Solution)\obj\Debug\_12.Parse_URL__2nd_Solution_.pdb

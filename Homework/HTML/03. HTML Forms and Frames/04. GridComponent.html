@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="GridComp.css">
+	<title>Grid Component</title>
+</head>
+<body>
+
+	<table>
+		<tr>
+			<td id="header" colspan="6">Drag a column header and drop it here to group by that column</td>
+		</tr>
+
+		<tr>
+			<td style="text-align: center" class="firstCol">ProductID</td>
+			<td class="secondCol">Product name</td>
+			<td class="thirdCol">Unit price</td>
+			<td class="forthCol">Quanity per unit</td>
+			<td class="fifthCol">Unit in stock</td>
+			<td style="text-align: center" class="sixthCol">Discontinued</td>
+		</tr>
+
+		<tr>
+			<td class="firstCol"><input id="IDTextBox" type="textbox"></input></td>
+			<td class="secondCol"><input id="nameTextBox" type="textbox"></input></td>
+			<td class="thirdCol"><input id="priceTextBox" type="textbox"><button class="topButton">&#x87</button></input></td>
+			<td class="forthCol"><input id="quanityTextBox" type="textbox"></input></td>
+			<td class="fifthCol"><input id="stockTextBox" type="textbox"><button class="topButton">&#x87</button></input></td>
+			<td class="sixthCol"><input type="checkbox"><button class="topButton">&#x87</button></input></td>
+		</tr>
+
+		<tr bgcolor="white">
+			<td class="firstCol">1</td>
+			<td class="secondCol">Chai</td>
+			<td class="thirdCol">$18.00</td>
+			<td class="forthCol">10 boxes x 20 bags</td>
+			<td class="fifthCol">39</td>
+			<td class="sixthCol"><input type="checkbox"></input></td>
+		</tr>
+
+		<tr bgcolor="white">
+			<td class="firstCol">2</td>
+			<td class="secondCol">Chang</td>
+			<td class="thirdCol">$19.00</td>
+			<td class="forthCol">24 - 12 oz bottles</td>
+			<td class="fifthCol">17</td>
+			<td class="sixthCol"><input type="checkbox"></input></td>
+		</tr>
+
+		<tr bgcolor="white">
+			<td class="firstCol">3</td>
+			<td class="secondCol">Aniseed Syrup</td>
+			<td class="thirdCol">$10.00</td>
+			<td class="forthCol">12 - 550 ml bottles</td>
+			<td class="fifthCol">13</td>
+			<td class="sixthCol"><input type="checkbox"></input></td>
+		</tr>
+
+		<tr bgcolor="white">
+			<td class="firstCol">4</td>
+			<td class="secondCol">Chef Anton's Cajun Seasoning</td>
+			<td class="thirdCol">$22.00</td>
+			<td class="forthCol">48 - 6 oz jars</td>
+			<td class="fifthCol">53</td>
+			<td class="sixthCol"><input type="checkbox"></input></td>
+		</tr>
+
+		<tr bgcolor="white">
+			<td class="firstCol">5</td>
+			<td class="secondCol">Chef Anton's Gumbo Mix</td>
+			<td class="thirdCol">$21.35</td>
+			<td class="forthCol">36 boxes</td>
+			<td class="fifthCol">0</td>
+			<td class="sixthCol"><input type="checkbox"></input></td>
+		</tr>
+
+		<tr bgcolor="white">
+			<td class="firstCol">6</td>
+			<td class="secondCol">Grandma's Boysenberry Spread</td>
+			<td class="thirdCol">$25.00</td>
+			<td class="forthCol">12 - 8 oz jars</td>
+			<td class="fifthCol">120</td>
+			<td class="sixthCol"><input type="checkbox"></input></td>
+		</tr>
+
+		<tr bgcolor="white">
+			<td class="firstCol">7</td>
+			<td class="secondCol">Uncle Bob's Organic Dried Pears</td>
+			<td class="thirdCol">$30.00</td>
+			<td class="forthCol">12 - 1 lb pkgs.</td>
+			<td class="fifthCol">15</td>
+			<td class="sixthCol"><input type="checkbox"></input></td>
+		</tr>
+
+		<tr bgcolor="white">
+			<td class="firstCol">8</td>
+			<td class="secondCol">Northwoods Cranberry Sauce</td>
+			<td class="thirdCol">$40.00</td>
+			<td class="forthCol">12 - 12 oz jars</td>
+			<td class="fifthCol">6</td>
+			<td class="sixthCol"><input type="checkbox"></input></td>
+		</tr>
+
+		<tr bgcolor="white">
+			<td class="firstCol">9</td>
+			<td class="secondCol">Mishi Kobe Niku</td>
+			<td class="thirdCol">$97.00</td>
+			<td class="forthCol">18 - 500 g pkgs.</td>
+			<td class="fifthCol">29</td>
+			<td class="sixthCol"><input type="checkbox"></input></td>
+		</tr>
+
+		<tr bgcolor="white">
+			<td class="firstCol">10</td>
+			<td class="secondCol">Ikura</td>
+			<td class="thirdCol">$31.00</td>
+			<td class="forthCol">12 - 200 ml jars</td>
+			<td class="fifthCol">31</td>
+			<td class="sixthCol"><input type="checkbox"></input></td>
+		</tr>
+
+		<tr>
+			<td colspan="6">
+				<button class="botButtons">&#171</button>
+
+				<button class="botButtons">&#x8B</button> 
+
+				<ul>
+					<li><a href="04. GridComponent.html">1</a></li>
+					<li><a href="04. GridComponent.html">2</a></li>
+					<li><a href="04. GridComponent.html">3</a></li>
+					<li><a href="04. GridComponent.html">4</a></li>
+					<li><a href="04. GridComponent.html">5</a></li>
+					<li><a href="04. GridComponent.html">6</a></li>
+					<li><a href="04. GridComponent.html">7</a></li>
+					<li><a href="04. GridComponent.html">8</a></li>
+					<li><a href="04. GridComponent.html">9</a></li>
+					<li><a href="04. GridComponent.html">10</a></li>
+					<li><a href="04. GridComponent.html">...</a></li>
+				</ul>
+
+				<button class="botButtons">&#x3E</button>
+				<button class="botButtons">&#xBB</button>
+
+				<span>Page size:</span>
+				<select name="pageSize">
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option value="8">8</option>
+					<option value="9">9</option>
+					<option value="10" selected="10">10</option>
+
+				</select>
+
+				<span id="counter">335104 items in 33511 pages</span>
+			</td>
+		</tr>
+	</table>
+
+</body>
+</html>

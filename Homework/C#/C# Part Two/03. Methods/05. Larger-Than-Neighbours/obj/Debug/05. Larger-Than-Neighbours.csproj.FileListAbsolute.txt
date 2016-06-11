@@ -1,0 +1,9 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\05. Larger-Than-Neighbours\bin\Debug\_05.Larger_Than_Neighbours.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\05. Larger-Than-Neighbours\bin\Debug\_05.Larger_Than_Neighbours.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\05. Larger-Than-Neighbours\bin\Debug\_05.Larger_Than_Neighbours.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\05. Larger-Than-Neighbours\obj\Debug\05. Larger-Than-Neighbours.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\05. Larger-Than-Neighbours\obj\Debug\_05.Larger_Than_Neighbours.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\05. Larger-Than-Neighbours\obj\Debug\_05.Larger_Than_Neighbours.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\05. Larger-Than-Neighbours\bin\Debug\_05.Larger_Than_Neighbours.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\05. Larger-Than-Neighbours\obj\Debug\_05.Larger_Than_Neighbours.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\05. Larger-Than-Neighbours\obj\Debug\_05.Larger_Than_Neighbours.pdb

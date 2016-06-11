@@ -1,0 +1,9 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\16. Trailing0InN!\bin\Debug\_16.Trailing0InN_.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\16. Trailing0InN!\bin\Debug\_16.Trailing0InN_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\16. Trailing0InN!\bin\Debug\_16.Trailing0InN_.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\16. Trailing0InN!\obj\Debug\_16.Trailing0InN_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\16. Trailing0InN!\obj\Debug\_16.Trailing0InN_.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\16. Trailing0InN!\obj\Debug\16. Trailing0InN!.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\16. Trailing0InN!\bin\Debug\_16.Trailing0InN_.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\16. Trailing0InN!\obj\Debug\_16.Trailing0InN_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\16. Trailing0InN!\obj\Debug\_16.Trailing0InN_.pdb

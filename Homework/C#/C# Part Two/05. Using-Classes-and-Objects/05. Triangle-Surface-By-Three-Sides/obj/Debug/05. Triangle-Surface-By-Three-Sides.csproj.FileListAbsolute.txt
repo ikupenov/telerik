@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\05. Triangle-Surface-By-Three-Sides\bin\Debug\_05.Triangle_Surface_By_Three_Sides.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\05. Triangle-Surface-By-Three-Sides\bin\Debug\_05.Triangle_Surface_By_Three_Sides.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\05. Triangle-Surface-By-Three-Sides\bin\Debug\_05.Triangle_Surface_By_Three_Sides.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\05. Triangle-Surface-By-Three-Sides\obj\Debug\_05.Triangle_Surface_By_Three_Sides.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\05. Triangle-Surface-By-Three-Sides\obj\Debug\_05.Triangle_Surface_By_Three_Sides.pdb

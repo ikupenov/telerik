@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\10. Find-Sum-In-Array\bin\Debug\_10.Find_Sum_In_Array.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\10. Find-Sum-In-Array\bin\Debug\_10.Find_Sum_In_Array.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\10. Find-Sum-In-Array\bin\Debug\_10.Find_Sum_In_Array.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\10. Find-Sum-In-Array\obj\Debug\10. Find-Sum-In-Array.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\10. Find-Sum-In-Array\obj\Debug\_10.Find_Sum_In_Array.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\10. Find-Sum-In-Array\obj\Debug\_10.Find_Sum_In_Array.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2012-2013 4th Feb - Morning\2. Greedy-Dwarf\bin\Debug\_2.Greedy_Dwarf.exe.config
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2012-2013 4th Feb - Morning\2. Greedy-Dwarf\bin\Debug\_2.Greedy_Dwarf.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2012-2013 4th Feb - Morning\2. Greedy-Dwarf\bin\Debug\_2.Greedy_Dwarf.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2012-2013 4th Feb - Morning\2. Greedy-Dwarf\obj\Debug\_2.Greedy_Dwarf.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2012-2013 4th Feb - Morning\2. Greedy-Dwarf\obj\Debug\_2.Greedy_Dwarf.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2012-2013 4th Feb - Morning\2. Greedy-Dwarf\obj\Debug\2. Greedy-Dwarf.csprojResolveAssemblyReference.cache

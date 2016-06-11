@@ -1,0 +1,12 @@
+C:\Users\Ilian\Documents\Telerik\Homework\CSharp P1 -  2013 - Variant 1\02. DrunkenNumbers\bin\Debug\_02.DrunkenNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\CSharp P1 -  2013 - Variant 1\02. DrunkenNumbers\bin\Debug\_02.DrunkenNumbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\CSharp P1 -  2013 - Variant 1\02. DrunkenNumbers\obj\Debug\_02.DrunkenNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\CSharp P1 -  2013 - Variant 1\02. DrunkenNumbers\obj\Debug\_02.DrunkenNumbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\CSharp P1 -  2013 - Variant 1\02. DrunkenNumbers\obj\Debug\02. DrunkenNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  Variant 1 (2013-06-23)\02. DrunkenNumbers\obj\Debug\_02.DrunkenNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  Variant 1 (2013-06-23)\02. DrunkenNumbers\obj\Debug\_02.DrunkenNumbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  Variant 1 (2013-06-23)\02. DrunkenNumbers\bin\Debug\_02.DrunkenNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  Variant 1 (2013-06-23)\02. DrunkenNumbers\bin\Debug\_02.DrunkenNumbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  Variant 1 (2013-06-23)\02. DrunkenNumbers\obj\Debug\02. DrunkenNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V1 - 23.06.2013\02. DrunkenNumbers\obj\Debug\_02.DrunkenNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V1 - 23.06.2013\02. DrunkenNumbers\obj\Debug\_02.DrunkenNumbers.pdb

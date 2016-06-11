@@ -1,0 +1,12 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\13. Solve-Tasks\bin\Debug\_13.Solve_Tasks.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\13. Solve-Tasks\bin\Debug\_13.Solve_Tasks.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\13. Solve-Tasks\bin\Debug\_13.Solve_Tasks.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\13. Solve-Tasks\obj\Debug\_13.Solve_Tasks.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\13. Solve-Tasks\obj\Debug\_13.Solve_Tasks.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\13. Solve-Tasks\obj\Debug\13. Solve-Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\13. Solve-Tasks\bin\Debug\_13.Solve_Tasks.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\13. Solve-Tasks\obj\Debug\_13.Solve_Tasks.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\13. Solve-Tasks\obj\Debug\_13.Solve_Tasks.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\13. Solve-Tasks\bin\Debug\_13.Solve_Tasks.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\13. Solve-Tasks\bin\Debug\_13.Solve_Tasks.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\13. Solve-Tasks\obj\Debug\13. Solve-Tasks.csprojResolveAssemblyReference.cache

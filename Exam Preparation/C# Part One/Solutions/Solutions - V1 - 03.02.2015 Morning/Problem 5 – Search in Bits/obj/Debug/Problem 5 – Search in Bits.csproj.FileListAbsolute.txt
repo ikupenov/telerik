@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 5 – Search in Bits\bin\Debug\Problem 5 – Search in Bits.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 5 – Search in Bits\bin\Debug\Problem 5 – Search in Bits.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 5 – Search in Bits\bin\Debug\Problem 5 – Search in Bits.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 5 – Search in Bits\obj\Debug\Problem 5 – Search in Bits.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 5 – Search in Bits\obj\Debug\Problem 5 – Search in Bits.pdb

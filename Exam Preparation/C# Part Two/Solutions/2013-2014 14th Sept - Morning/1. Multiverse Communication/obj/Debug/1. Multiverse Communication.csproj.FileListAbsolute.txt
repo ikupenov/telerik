@@ -1,0 +1,9 @@
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\1. Multiverse Communication\bin\Debug\_1.Multiverse_Communication.exe.config
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\1. Multiverse Communication\bin\Debug\_1.Multiverse_Communication.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\1. Multiverse Communication\bin\Debug\_1.Multiverse_Communication.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\1. Multiverse Communication\obj\Debug\1. Multiverse Communication.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\1. Multiverse Communication\obj\Debug\_1.Multiverse_Communication.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\1. Multiverse Communication\obj\Debug\_1.Multiverse_Communication.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 14th Sept - Morning\1. Multiverse Communication\bin\Debug\_1.Multiverse_Communication.exe.config
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 14th Sept - Morning\1. Multiverse Communication\obj\Debug\_1.Multiverse_Communication.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 14th Sept - Morning\1. Multiverse Communication\obj\Debug\_1.Multiverse_Communication.pdb

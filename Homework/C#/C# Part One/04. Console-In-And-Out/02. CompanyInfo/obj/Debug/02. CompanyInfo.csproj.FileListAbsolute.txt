@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\02. CompanyInfo\bin\Debug\_02.CompanyInfo.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\02. CompanyInfo\bin\Debug\_02.CompanyInfo.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\02. CompanyInfo\obj\Debug\_02.CompanyInfo.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\02. CompanyInfo\obj\Debug\_02.CompanyInfo.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\02. CompanyInfo\obj\Debug\02. CompanyInfo.csprojResolveAssemblyReference.cache

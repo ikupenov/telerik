@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\08. NumbersFrom1toN\bin\Debug\_08.NumbersFrom1toN.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\08. NumbersFrom1toN\bin\Debug\_08.NumbersFrom1toN.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\08. NumbersFrom1toN\bin\Debug\_08.NumbersFrom1toN.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\08. NumbersFrom1toN\obj\Debug\_08.NumbersFrom1toN.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\08. NumbersFrom1toN\obj\Debug\_08.NumbersFrom1toN.pdb

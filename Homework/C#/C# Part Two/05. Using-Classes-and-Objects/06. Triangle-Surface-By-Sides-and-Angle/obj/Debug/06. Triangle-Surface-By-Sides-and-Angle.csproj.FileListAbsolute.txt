@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\06. Triangle-Surface-By-Sides-and-Angle\bin\Debug\_06.Triangle_Surface_By_Sides_and_Angle.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\06. Triangle-Surface-By-Sides-and-Angle\bin\Debug\_06.Triangle_Surface_By_Sides_and_Angle.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\06. Triangle-Surface-By-Sides-and-Angle\bin\Debug\_06.Triangle_Surface_By_Sides_and_Angle.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\06. Triangle-Surface-By-Sides-and-Angle\obj\Debug\_06.Triangle_Surface_By_Sides_and_Angle.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\06. Triangle-Surface-By-Sides-and-Angle\obj\Debug\_06.Triangle_Surface_By_Sides_and_Angle.pdb

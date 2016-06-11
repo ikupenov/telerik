@@ -1,0 +1,4 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\02. FloatOrDouble\obj\Debug\_02.FloatOrDouble.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\02. FloatOrDouble\obj\Debug\_02.FloatOrDouble.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\1. TRES4-Numbers\bin\Debug\_1.TRES4_Numbers.exe.config
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\1. TRES4-Numbers\bin\Debug\_1.TRES4_Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\1. TRES4-Numbers\bin\Debug\_1.TRES4_Numbers.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\1. TRES4-Numbers\obj\Debug\_1.TRES4_Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\1. TRES4-Numbers\obj\Debug\_1.TRES4_Numbers.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\1. TRES4-Numbers\obj\Debug\1. TRES4-Numbers.csprojResolveAssemblyReference.cache

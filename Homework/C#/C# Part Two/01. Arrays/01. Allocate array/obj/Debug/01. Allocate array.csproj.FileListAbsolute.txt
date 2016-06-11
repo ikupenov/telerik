@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\01. Allocate array\bin\Debug\_01.Allocate_array.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\01. Allocate array\bin\Debug\_01.Allocate_array.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\01. Allocate array\bin\Debug\_01.Allocate_array.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\01. Allocate array\obj\Debug\01. Allocate array.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\01. Allocate array\obj\Debug\_01.Allocate_array.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\01. Allocate array\obj\Debug\_01.Allocate_array.pdb

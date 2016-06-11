@@ -1,0 +1,6 @@
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

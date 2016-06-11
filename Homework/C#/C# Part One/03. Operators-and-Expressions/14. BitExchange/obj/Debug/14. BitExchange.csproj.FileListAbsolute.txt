@@ -1,0 +1,7 @@
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\14. BitExchange\bin\Debug\_14.BitExchange.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\14. BitExchange\bin\Debug\_14.BitExchange.pdb
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\14. BitExchange\obj\Debug\14. BitExchange.csprojResolveAssemblyReference.cache
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\14. BitExchange\obj\Debug\_14.BitExchange.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\14. BitExchange\obj\Debug\_14.BitExchange.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\14. BitExchange\obj\Debug\_14.BitExchange.exe
+C:\Users\Ilian\Documents\Telerik\Homework\03. Operators-and-Expressions\14. BitExchange\obj\Debug\_14.BitExchange.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\15. Prime-Number (2nd Solution)\bin\Debug\_15.Prime_Number__2nd_Solution_.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\15. Prime-Number (2nd Solution)\bin\Debug\_15.Prime_Number__2nd_Solution_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\15. Prime-Number (2nd Solution)\bin\Debug\_15.Prime_Number__2nd_Solution_.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\15. Prime-Number (2nd Solution)\obj\Debug\_15.Prime_Number__2nd_Solution_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\15. Prime-Number (2nd Solution)\obj\Debug\_15.Prime_Number__2nd_Solution_.pdb

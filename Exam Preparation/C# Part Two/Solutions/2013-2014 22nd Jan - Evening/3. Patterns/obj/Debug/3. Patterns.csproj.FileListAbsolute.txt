@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\3. Patterns\bin\Debug\_3.Patterns.exe.config
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\3. Patterns\bin\Debug\_3.Patterns.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\3. Patterns\bin\Debug\_3.Patterns.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\3. Patterns\obj\Debug\3. Patterns.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\3. Patterns\obj\Debug\_3.Patterns.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\3. Patterns\obj\Debug\_3.Patterns.pdb

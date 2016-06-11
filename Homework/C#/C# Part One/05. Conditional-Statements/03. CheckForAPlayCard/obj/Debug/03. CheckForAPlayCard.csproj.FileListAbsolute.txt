@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\03. CheckForAPlayCard\bin\Debug\_03.CheckForAPlayCard.exe
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\03. CheckForAPlayCard\bin\Debug\_03.CheckForAPlayCard.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\03. CheckForAPlayCard\obj\Debug\03. CheckForAPlayCard.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\03. CheckForAPlayCard\obj\Debug\_03.CheckForAPlayCard.exe
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\03. CheckForAPlayCard\obj\Debug\_03.CheckForAPlayCard.pdb

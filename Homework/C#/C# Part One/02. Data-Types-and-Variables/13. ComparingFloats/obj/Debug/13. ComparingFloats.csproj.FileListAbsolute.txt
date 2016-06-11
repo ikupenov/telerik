@@ -1,0 +1,10 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\13. ComparingFloats\bin\Debug\_13.ComparingFloats.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\13. ComparingFloats\bin\Debug\_13.ComparingFloats.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\13. ComparingFloats\obj\Debug\_13.ComparingFloats.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\13. ComparingFloats\obj\Debug\_13.ComparingFloats.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\13. ComparingFloats\obj\Debug\13. ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\02. Data-Types-and-Variables\13. ComparingFloats\obj\Debug\_13.ComparingFloats.exe
+C:\Users\Ilian\Documents\Telerik\Homework\02. Data-Types-and-Variables\13. ComparingFloats\obj\Debug\_13.ComparingFloats.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\02. Data-Types-and-Variables\13. ComparingFloats\bin\Debug\_13.ComparingFloats.exe
+C:\Users\Ilian\Documents\Telerik\Homework\02. Data-Types-and-Variables\13. ComparingFloats\bin\Debug\_13.ComparingFloats.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\02. Data-Types-and-Variables\13. ComparingFloats\obj\Debug\13. ComparingFloats.csprojResolveAssemblyReference.cache

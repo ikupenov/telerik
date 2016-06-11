@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14th Sept 2013 - Evening\1. (02) Zerg\bin\Debug\_1._02__Zerg.exe.config
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14th Sept 2013 - Evening\1. (02) Zerg\bin\Debug\_1._02__Zerg.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14th Sept 2013 - Evening\1. (02) Zerg\bin\Debug\_1._02__Zerg.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14th Sept 2013 - Evening\1. (02) Zerg\obj\Debug\1. (02) Zerg.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14th Sept 2013 - Evening\1. (02) Zerg\obj\Debug\_1._02__Zerg.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14th Sept 2013 - Evening\1. (02) Zerg\obj\Debug\_1._02__Zerg.pdb

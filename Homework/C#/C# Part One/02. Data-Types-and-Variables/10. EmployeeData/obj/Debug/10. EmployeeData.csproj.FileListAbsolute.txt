@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\10. EmployeeData\bin\Debug\_10.EmployeeData.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\10. EmployeeData\bin\Debug\_10.EmployeeData.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\10. EmployeeData\bin\Debug\_10.EmployeeData.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\10. EmployeeData\obj\Debug\_10.EmployeeData.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\10. EmployeeData\obj\Debug\_10.EmployeeData.pdb

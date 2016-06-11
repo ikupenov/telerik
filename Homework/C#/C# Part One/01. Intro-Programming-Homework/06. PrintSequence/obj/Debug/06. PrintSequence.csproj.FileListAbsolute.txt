@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\06. PrintSequence\bin\Debug\_06.PrintSequence.exe
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\06. PrintSequence\bin\Debug\_06.PrintSequence.pdb
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\06. PrintSequence\obj\Debug\_06.PrintSequence.exe
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\06. PrintSequence\obj\Debug\_06.PrintSequence.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Intro-Programming-Homework\06. PrintSequence\obj\Debug\_06.PrintSequence.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Intro-Programming-Homework\06. PrintSequence\obj\Debug\_06.PrintSequence.pdb

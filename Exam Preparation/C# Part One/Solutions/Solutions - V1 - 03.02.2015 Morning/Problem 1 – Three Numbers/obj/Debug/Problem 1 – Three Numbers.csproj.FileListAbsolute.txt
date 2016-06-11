@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 1 – Three Numbers\bin\Debug\Problem 1 – Three Numbers.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 1 – Three Numbers\bin\Debug\Problem 1 – Three Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 1 – Three Numbers\bin\Debug\Problem 1 – Three Numbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 1 – Three Numbers\obj\Debug\Problem 1 – Three Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 1 – Three Numbers\obj\Debug\Problem 1 – Three Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 1 – Three Numbers\obj\Debug\Problem 1 – Three Numbers.pdb

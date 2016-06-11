@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\23. Series-Of-Letters\bin\Debug\_23.Series_Of_Letters.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\23. Series-Of-Letters\bin\Debug\_23.Series_Of_Letters.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\23. Series-Of-Letters\bin\Debug\_23.Series_Of_Letters.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\23. Series-Of-Letters\obj\Debug\_23.Series_Of_Letters.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\23. Series-Of-Letters\obj\Debug\_23.Series_Of_Letters.pdb

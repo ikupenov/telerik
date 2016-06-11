@@ -1,0 +1,4 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\11. BankAccountData\bin\Debug\_11.BankAccountData.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\11. BankAccountData\bin\Debug\_11.BankAccountData.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\11. BankAccountData\obj\Debug\_11.BankAccountData.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\11. BankAccountData\obj\Debug\_11.BankAccountData.pdb

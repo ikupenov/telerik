@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 4 - Kaspichania Boats\bin\Debug\Problem 4 - Kaspichania Boats.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 4 - Kaspichania Boats\bin\Debug\Problem 4 - Kaspichania Boats.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 4 - Kaspichania Boats\bin\Debug\Problem 4 - Kaspichania Boats.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 4 - Kaspichania Boats\obj\Debug\Problem 4 - Kaspichania Boats.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 4 - Kaspichania Boats\obj\Debug\Problem 4 - Kaspichania Boats.pdb

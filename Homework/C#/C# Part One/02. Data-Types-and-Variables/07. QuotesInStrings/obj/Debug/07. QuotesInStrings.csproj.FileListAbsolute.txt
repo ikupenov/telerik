@@ -1,0 +1,4 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\07. QuotesInStrings\bin\Debug\_07.QuotesInStrings.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\07. QuotesInStrings\bin\Debug\_07.QuotesInStrings.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\07. QuotesInStrings\obj\Debug\_07.QuotesInStrings.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Data-Types-and-Variables\07. QuotesInStrings\obj\Debug\_07.QuotesInStrings.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\2. Increasing-Absolute-Difference\bin\Debug\_2.Increasing_Absolute_Difference.exe.config
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\2. Increasing-Absolute-Difference\bin\Debug\_2.Increasing_Absolute_Difference.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\2. Increasing-Absolute-Difference\bin\Debug\_2.Increasing_Absolute_Difference.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\2. Increasing-Absolute-Difference\obj\Debug\_2.Increasing_Absolute_Difference.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\2. Increasing-Absolute-Difference\obj\Debug\_2.Increasing_Absolute_Difference.pdb

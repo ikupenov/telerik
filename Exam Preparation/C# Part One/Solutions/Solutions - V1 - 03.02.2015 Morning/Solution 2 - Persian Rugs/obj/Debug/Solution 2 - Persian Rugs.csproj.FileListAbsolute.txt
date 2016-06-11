@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Solution 2 - Persian Rugs\bin\Debug\Solution 2 - Persian Rugs.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Solution 2 - Persian Rugs\bin\Debug\Solution 2 - Persian Rugs.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Solution 2 - Persian Rugs\bin\Debug\Solution 2 - Persian Rugs.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Solution 2 - Persian Rugs\obj\Debug\Solution 2 - Persian Rugs.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Solution 2 - Persian Rugs\obj\Debug\Solution 2 - Persian Rugs.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Solution 2 - Persian Rugs\obj\Debug\Solution 2 - Persian Rugs.pdb

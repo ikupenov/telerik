@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\Testasd\bin\Debug\Testasd.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\Testasd\bin\Debug\Testasd.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\Testasd\bin\Debug\Testasd.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\Testasd\obj\Debug\Testasd.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\Testasd\obj\Debug\Testasd.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\1. Multiverse-Communication (2nd Sol)\bin\Debug\_1.Multiverse_Communication__2nd_Sol_.exe.config
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\1. Multiverse-Communication (2nd Sol)\bin\Debug\_1.Multiverse_Communication__2nd_Sol_.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\1. Multiverse-Communication (2nd Sol)\bin\Debug\_1.Multiverse_Communication__2nd_Sol_.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\1. Multiverse-Communication (2nd Sol)\obj\Debug\_1.Multiverse_Communication__2nd_Sol_.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\1. Multiverse-Communication (2nd Sol)\obj\Debug\_1.Multiverse_Communication__2nd_Sol_.pdb

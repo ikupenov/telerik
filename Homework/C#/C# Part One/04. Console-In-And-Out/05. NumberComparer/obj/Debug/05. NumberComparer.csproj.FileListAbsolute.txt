@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\05. NumberComparer\bin\Debug\_05.NumberComparer.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\05. NumberComparer\bin\Debug\_05.NumberComparer.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\05. NumberComparer\obj\Debug\05. NumberComparer.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\05. NumberComparer\obj\Debug\_05.NumberComparer.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\05. NumberComparer\obj\Debug\_05.NumberComparer.pdb

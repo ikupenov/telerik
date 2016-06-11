@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\04. Triangle-surface-by-side-and-altitude\bin\Debug\_04.Triangle_surface_by_side_and_altitude.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\04. Triangle-surface-by-side-and-altitude\bin\Debug\_04.Triangle_surface_by_side_and_altitude.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\04. Triangle-surface-by-side-and-altitude\bin\Debug\_04.Triangle_surface_by_side_and_altitude.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\04. Triangle-surface-by-side-and-altitude\obj\Debug\_04.Triangle_surface_by_side_and_altitude.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\04. Triangle-surface-by-side-and-altitude\obj\Debug\_04.Triangle_surface_by_side_and_altitude.pdb

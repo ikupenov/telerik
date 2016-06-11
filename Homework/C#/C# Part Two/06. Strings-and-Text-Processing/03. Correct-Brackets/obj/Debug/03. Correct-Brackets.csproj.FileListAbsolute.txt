@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\03. Correct-Brackets\bin\Debug\_03.Correct_Brackets.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\03. Correct-Brackets\bin\Debug\_03.Correct_Brackets.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\03. Correct-Brackets\bin\Debug\_03.Correct_Brackets.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\03. Correct-Brackets\obj\Debug\_03.Correct_Brackets.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\03. Correct-Brackets\obj\Debug\_03.Correct_Brackets.pdb

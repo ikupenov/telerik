@@ -1,0 +1,48 @@
+body {
+	font-size: 13px;
+}
+
+table {
+	width: 456px;
+	height: 133px;
+	border-collapse: collapse;
+}
+
+td {
+	padding-left: 10px;
+	vertical-align: middle;
+}
+
+img {
+	vertical-align: middle;
+}
+
+div {
+	margin-left: -7px;
+	margin-top: -8px;
+}
+
+.Header {
+	color: white;
+	background-color: #59BD06;
+}
+
+.CellColor {
+	background-color: #ECECD8;
+}
+
+tr.HBBorder td {
+	border-bottom: 1px solid #C4C2A8;
+}
+
+tr.HTBorder td {
+	border-bottom: 1px solid #3B8A12;
+}
+
+tr.VBorder td:not(:last-child) {
+	border-right: 1px solid #D3D1C0;
+}
+
+tr.VTBorder td:not(:last-child) {
+	border-right: 1px solid #489B13;
+}

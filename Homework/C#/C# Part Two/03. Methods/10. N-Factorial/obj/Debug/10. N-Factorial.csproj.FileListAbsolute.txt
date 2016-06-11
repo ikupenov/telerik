@@ -1,0 +1,9 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\10. N-Factorial\bin\Debug\_10.N_Factorial.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\10. N-Factorial\bin\Debug\_10.N_Factorial.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\10. N-Factorial\bin\Debug\_10.N_Factorial.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\10. N-Factorial\obj\Debug\10. N-Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\10. N-Factorial\obj\Debug\_10.N_Factorial.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\10. N-Factorial\obj\Debug\_10.N_Factorial.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\10. N-Factorial\bin\Debug\_10.N_Factorial.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\10. N-Factorial\obj\Debug\_10.N_Factorial.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\10. N-Factorial\obj\Debug\_10.N_Factorial.pdb

@@ -1,0 +1,5 @@
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\05. ThirdDigit\bin\Debug\_05.ThirdDigit.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\05. ThirdDigit\bin\Debug\_05.ThirdDigit.pdb
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\05. ThirdDigit\obj\Debug\05. ThirdDigit.csprojResolveAssemblyReference.cache
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\05. ThirdDigit\obj\Debug\_05.ThirdDigit.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\05. ThirdDigit\obj\Debug\_05.ThirdDigit.pdb

@@ -1,0 +1,12 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\17. SpiralMatrix\bin\Debug\_17.SpiralMatrix.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\17. SpiralMatrix\bin\Debug\_17.SpiralMatrix.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\17. SpiralMatrix\bin\Debug\_17.SpiralMatrix.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\17. SpiralMatrix\obj\Debug\17. SpiralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\17. SpiralMatrix\obj\Debug\_17.SpiralMatrix.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\17. SpiralMatrix\obj\Debug\_17.SpiralMatrix.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\17. SpiralMatrix\bin\Debug\_17.SpiralMatrix.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\17. SpiralMatrix\obj\Debug\_17.SpiralMatrix.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\06. Loops\17. SpiralMatrix\obj\Debug\_17.SpiralMatrix.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part One\06. Loops\17. SpiralMatrix\bin\Debug\_17.SpiralMatrix.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part One\06. Loops\17. SpiralMatrix\obj\Debug\_17.SpiralMatrix.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part One\06. Loops\17. SpiralMatrix\obj\Debug\_17.SpiralMatrix.pdb

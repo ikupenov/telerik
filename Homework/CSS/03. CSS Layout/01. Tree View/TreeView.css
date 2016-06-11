@@ -1,0 +1,44 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+}
+
+    body nav {
+        position: relative;
+        display: inlnie-block;
+        width: 140px;
+        height: 180px;
+    }
+    
+        body nav ul:hover li:first-child{
+            text-decoration: underline;
+        }
+    
+        body nav ul {
+            display: inline-block;
+            position: relative;
+            margin: 0px;
+            padding: 0px;;
+        }
+        
+        body nav ul:first-child {
+            margin-top: 5px;
+        }
+        
+            body nav ul li:first-child {
+                display: block;
+                margin-right: 25px;
+                margin-left: 5px;
+                list-style-type: none;
+            }
+        
+            body nav ul li:not(:first-child) {
+                display: none;
+            }
+        
+            body nav ul:hover li:not(:first-child) {
+                display: block;
+                text-indent: 15px;
+                color: #A69D94;
+            }

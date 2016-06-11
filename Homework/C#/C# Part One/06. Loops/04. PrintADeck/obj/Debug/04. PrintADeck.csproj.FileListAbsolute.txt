@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\04. PrintADeck\bin\Debug\_04.PrintADeck.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\04. PrintADeck\bin\Debug\_04.PrintADeck.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\04. PrintADeck\obj\Debug\_04.PrintADeck.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\04. PrintADeck\obj\Debug\_04.PrintADeck.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\04. PrintADeck\obj\Debug\04. PrintADeck.csprojResolveAssemblyReference.cache

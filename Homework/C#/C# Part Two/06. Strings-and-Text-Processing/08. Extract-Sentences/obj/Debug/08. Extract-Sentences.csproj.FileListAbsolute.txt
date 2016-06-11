@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\08. Extract-Sentences\bin\Debug\_08.Extract_Sentences.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\08. Extract-Sentences\bin\Debug\_08.Extract_Sentences.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\08. Extract-Sentences\bin\Debug\_08.Extract_Sentences.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\08. Extract-Sentences\obj\Debug\_08.Extract_Sentences.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\08. Extract-Sentences\obj\Debug\_08.Extract_Sentences.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\06. Strings-and-Text-Processing\08. Extract-Sentences\obj\Debug\08. Extract-Sentences.csprojResolveAssemblyReference.cache

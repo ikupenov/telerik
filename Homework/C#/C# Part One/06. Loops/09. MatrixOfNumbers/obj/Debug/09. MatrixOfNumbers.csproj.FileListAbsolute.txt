@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\09. MatrixOfNumbers\obj\Debug\09. MatrixOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.pdb

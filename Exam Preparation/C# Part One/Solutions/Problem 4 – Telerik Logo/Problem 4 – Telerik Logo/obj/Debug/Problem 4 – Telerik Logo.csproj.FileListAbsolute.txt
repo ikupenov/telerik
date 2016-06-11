@@ -1,0 +1,6 @@
+C:\Users\Ilian\Desktop\Problem 4 – Telerik Logo\Problem 4 – Telerik Logo\bin\Debug\Problem 4 – Telerik Logo.exe.config
+C:\Users\Ilian\Desktop\Problem 4 – Telerik Logo\Problem 4 – Telerik Logo\bin\Debug\Problem 4 – Telerik Logo.exe
+C:\Users\Ilian\Desktop\Problem 4 – Telerik Logo\Problem 4 – Telerik Logo\bin\Debug\Problem 4 – Telerik Logo.pdb
+C:\Users\Ilian\Desktop\Problem 4 – Telerik Logo\Problem 4 – Telerik Logo\obj\Debug\Problem 4 – Telerik Logo.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Desktop\Problem 4 – Telerik Logo\Problem 4 – Telerik Logo\obj\Debug\Problem 4 – Telerik Logo.exe
+C:\Users\Ilian\Desktop\Problem 4 – Telerik Logo\Problem 4 – Telerik Logo\obj\Debug\Problem 4 – Telerik Logo.pdb

@@ -1,0 +1,119 @@
+html, body {
+    font-family: 'Segoe UI', 'Segoe UI Web', 'Segoe UI Symbol', 'Helvetica Neue', 'BBAlpha Sans', 'S60 Sans', Arial, sans-serif;
+    background-color: #FFFFFF;
+    padding: 0;
+    margin: 0 auto;
+    width: 1000px;
+    font-weight: 400;
+    -webkit-text-stroke-width: 0;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#logo {
+    float: left;
+    content:url(images/logo.png);    
+}
+
+.separator {
+    float: left;
+    width: 5px;
+    height: 45px;
+    background: black;
+    margin-top: 10px;
+}
+
+#headerTitle {
+    float: left;
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+#search {
+    clear: both;
+    height: 50px;
+    background: #0078D7;
+    text-align: center;
+    padding-top: 15px;
+}
+
+input[type="search"] 
+{
+    width: 395px;
+    height: 35px;
+}
+
+#main {
+    text-align: justify;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+    #main h1 {
+        font-size: 30px;
+    }
+    
+    #main h2 {
+        font-size: 24px;
+        font-weight: 400;
+    }
+    
+    #main hr {
+        height: 5px;
+        width: 970px;
+        background: #333333;
+        margin-top: 7px;
+        margin-bottom: 15px;
+    }
+
+    #main p {
+        font-size: 16px;
+        margin-bottom: 20px;
+        width: 970px;
+    }
+
+#footer {
+    position: relative;
+    height: 40px;
+    background: #505050;
+    color: #CCCCCC;
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-right: 15px;
+    font-size: 14px;
+    padding-top: 20px;
+}
+
+    #footer a {
+        text-decoration: none;
+        color: #CCCCCC;
+    }
+    
+    #footer ul {
+        list-style-type: none;
+    }
+    
+        #footer ul li {
+            display: inline-block;
+            padding-right: 15px;
+        }
+        
+    #language {
+        display: inline-block;
+    }
+        
+    #copyright {
+        clear: both;
+        float: right;
+        font-weight: bold;
+    }    
+    
+    #footerMenu {
+        float: right;
+    }

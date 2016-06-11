@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\02. Random-Numbers\bin\Debug\_02.Random_Numbers.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\02. Random-Numbers\bin\Debug\_02.Random_Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\02. Random-Numbers\bin\Debug\_02.Random_Numbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\02. Random-Numbers\obj\Debug\_02.Random_Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\05. Using-Classes-and-Objects\02. Random-Numbers\obj\Debug\_02.Random_Numbers.pdb

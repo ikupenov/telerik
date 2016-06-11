@@ -1,0 +1,3 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Variant-2 (26.06.2013)\Problem 5 – Bittris\bin\Debug\Problem 5 – Bittris.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant-2 (26.06.2013)\Problem 5 – Bittris\bin\Debug\Problem 5 – Bittris.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V2 - 26.06.2013\Problem 5 – Bittris\bin\Debug\Problem 5 – Bittris.exe.config

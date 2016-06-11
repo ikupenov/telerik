@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\13. DecimalToHex\bin\Debug\_13.DecimalToHex.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\13. DecimalToHex\bin\Debug\_13.DecimalToHex.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\13. DecimalToHex\bin\Debug\_13.DecimalToHex.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\13. DecimalToHex\obj\Debug\13. DecimalToHex.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\13. DecimalToHex\obj\Debug\_13.DecimalToHex.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\13. DecimalToHex\obj\Debug\_13.DecimalToHex.pdb

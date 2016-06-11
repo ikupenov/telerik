@@ -1,0 +1,8 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\14. Integer-Calculations\bin\Debug\_14.Integer_Calculations.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\14. Integer-Calculations\bin\Debug\_14.Integer_Calculations.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\14. Integer-Calculations\bin\Debug\_14.Integer_Calculations.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\14. Integer-Calculations\obj\Debug\_14.Integer_Calculations.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\14. Integer-Calculations\obj\Debug\_14.Integer_Calculations.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\14. Integer-Calculations\bin\Debug\_14.Integer_Calculations.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\14. Integer-Calculations\obj\Debug\_14.Integer_Calculations.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\14. Integer-Calculations\obj\Debug\_14.Integer_Calculations.pdb

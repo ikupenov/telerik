@@ -1,0 +1,9 @@
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2015-2016 5 March-Evening\3. Lover-Of-3\bin\Debug\_3.Lover_Of_3.exe.config
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2015-2016 5 March-Evening\3. Lover-Of-3\bin\Debug\_3.Lover_Of_3.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2015-2016 5 March-Evening\3. Lover-Of-3\bin\Debug\_3.Lover_Of_3.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2015-2016 5 March-Evening\3. Lover-Of-3\obj\Debug\3. Lover-Of-3.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2015-2016 5 March-Evening\3. Lover-Of-3\obj\Debug\_3.Lover_Of_3.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2015-2016 5 March-Evening\3. Lover-Of-3\obj\Debug\_3.Lover_Of_3.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 5th March - Evening\3. Lover-Of-3\bin\Debug\_3.Lover_Of_3.exe.config
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 5th March - Evening\3. Lover-Of-3\obj\Debug\_3.Lover_Of_3.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 5th March - Evening\3. Lover-Of-3\obj\Debug\_3.Lover_Of_3.pdb

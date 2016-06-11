@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\07. SumOf5Numbers\bin\Debug\_07.SumOf5Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\07. SumOf5Numbers\bin\Debug\_07.SumOf5Numbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\07. SumOf5Numbers\obj\Debug\07. SumOf5Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\07. SumOf5Numbers\obj\Debug\_07.SumOf5Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\04. Console-In-And-Out\07. SumOf5Numbers\obj\Debug\_07.SumOf5Numbers.pdb

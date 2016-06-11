@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 4 - Diamond Trolls\bin\Debug\Problem 4 - Diamond Trolls.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 4 - Diamond Trolls\bin\Debug\Problem 4 - Diamond Trolls.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 4 - Diamond Trolls\bin\Debug\Problem 4 - Diamond Trolls.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 4 - Diamond Trolls\obj\Debug\Problem 4 - Diamond Trolls.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 4 - Diamond Trolls\obj\Debug\Problem 4 - Diamond Trolls.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 4 - Diamond Trolls\obj\Debug\Problem 4 - Diamond Trolls.pdb

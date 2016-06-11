@@ -1,0 +1,4 @@
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\04. PrintFirstAndLastName\bin\Debug\_04.PrintFirstAndLastName.exe
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\04. PrintFirstAndLastName\bin\Debug\_04.PrintFirstAndLastName.pdb
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\04. PrintFirstAndLastName\obj\Debug\_04.PrintFirstAndLastName.exe
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\04. PrintFirstAndLastName\obj\Debug\_04.PrintFirstAndLastName.pdb

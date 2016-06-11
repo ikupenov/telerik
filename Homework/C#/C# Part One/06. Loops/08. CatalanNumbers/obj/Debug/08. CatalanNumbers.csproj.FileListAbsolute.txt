@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\08. CatalanNumbers\obj\Debug\08. CatalanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.pdb

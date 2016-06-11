@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\12. Index-Of-Letters\bin\Debug\_12.Index_Of_Letters.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\12. Index-Of-Letters\bin\Debug\_12.Index_Of_Letters.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\12. Index-Of-Letters\bin\Debug\_12.Index_Of_Letters.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\12. Index-Of-Letters\obj\Debug\12. Index-Of-Letters.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\12. Index-Of-Letters\obj\Debug\_12.Index_Of_Letters.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\12. Index-Of-Letters\obj\Debug\_12.Index_Of_Letters.pdb

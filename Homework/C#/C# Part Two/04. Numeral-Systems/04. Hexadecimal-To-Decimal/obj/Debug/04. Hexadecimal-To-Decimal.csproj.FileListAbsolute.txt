@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\04. Hexadecimal-To-Decimal\bin\Debug\_04.Hexadecimal_To_Decimal.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\04. Hexadecimal-To-Decimal\bin\Debug\_04.Hexadecimal_To_Decimal.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\04. Hexadecimal-To-Decimal\bin\Debug\_04.Hexadecimal_To_Decimal.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\04. Hexadecimal-To-Decimal\obj\Debug\04. Hexadecimal-To-Decimal.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\04. Hexadecimal-To-Decimal\obj\Debug\_04.Hexadecimal_To_Decimal.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\04. Hexadecimal-To-Decimal\obj\Debug\_04.Hexadecimal_To_Decimal.pdb

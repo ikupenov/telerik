@@ -1,0 +1,5 @@
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\10. PointCircleRectangle\bin\Debug\_10.PointCircleRectangle.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\10. PointCircleRectangle\bin\Debug\_10.PointCircleRectangle.pdb
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\10. PointCircleRectangle\obj\Debug\10. PointCircleRectangle.csprojResolveAssemblyReference.cache
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\10. PointCircleRectangle\obj\Debug\_10.PointCircleRectangle.exe
+c:\users\ilian\documents\visual studio 2015\Projects\03. Operators-and-Expressions\10. PointCircleRectangle\obj\Debug\_10.PointCircleRectangle.pdb

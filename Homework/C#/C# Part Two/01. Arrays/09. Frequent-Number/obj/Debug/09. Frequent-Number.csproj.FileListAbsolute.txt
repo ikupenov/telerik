@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\09. Frequent-Number\bin\Debug\_09.Frequent_Number.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\09. Frequent-Number\bin\Debug\_09.Frequent_Number.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\09. Frequent-Number\bin\Debug\_09.Frequent_Number.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\09. Frequent-Number\obj\Debug\09. Frequent-Number.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\09. Frequent-Number\obj\Debug\_09.Frequent_Number.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\09. Frequent-Number\obj\Debug\_09.Frequent_Number.pdb

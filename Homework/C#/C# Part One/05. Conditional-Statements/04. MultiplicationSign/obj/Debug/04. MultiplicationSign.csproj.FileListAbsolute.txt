@@ -1,0 +1,4 @@
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.exe
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.pdb

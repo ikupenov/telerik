@@ -1,0 +1,116 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+    body header {
+        position: absolute;
+        display: block;
+        height: 30px;
+        width: 650px;
+        margin-top: 15px;
+        margin-left: 10px;
+    }
+
+        body header nav a {
+            display: block;
+            float: left;
+            text-decoration: none;
+            color: #8AA7B4;
+            font-size: 13px;
+            padding-right: 15px;
+        }
+        
+        #First-a {
+            display: block;
+            float: left;
+            text-decoration: none;
+            color: #EEF6E9;
+            font-size: 12px;
+            margin-top: 2px;
+        }
+        
+        body header nav a:hover {
+            text-decoration: underline;
+        }
+        
+        .Menu {
+            float: left;
+            height: 10px;
+            background-color: #4B5F67;
+            margin-right: 2px;
+            margin-top: -5px;
+            padding: 15px;
+            padding-top: 7px;
+            padding-right: 0px;
+        }
+        
+#Main {
+    position: relative;
+    width: 620px;
+    height: 325px;
+    border-radius: 5px;
+    background-color: #1E3741;
+}
+
+   #Main aside {
+       position: absolute;
+       width: 220px;
+       height: 270px;
+       margin-top: 50px;
+       margin-left: 5px;
+       padding-right: 5px;
+   } 
+
+        #Main aside h2 {
+            display: inline-block;
+            height: 15px;
+            width: 205px;
+            border-radius: 3px;
+            font-size: 12px;
+            color: #EEF6E9;
+            background-color: #00968C;
+            padding: 10px;
+            margin-bottom: 0px;
+        }
+        
+        #Main aside h3 {
+            display: inline-block;
+            font-size: 13px;
+            color: #8AA7B4;
+            margin-bottom: 0px;
+            margin-top: 0px;
+            padding: 7px;
+        }
+        
+        #Main aside :not(:last-child) {
+            border-bottom: 1px solid #2E454F;
+            box-shadow: 0px 1px 0px 0px #223B44;
+        }
+
+#Video {
+    position: relative;
+    display: inline-block;
+    margin-left: 229px;
+    padding-top: 60px;
+}
+
+    #Video img {
+        position: absolute;;
+        width: 340px;
+        height: 250px;
+    }
+    
+    #Video button {
+        position: absolute;
+        display: inline-block;
+        background-color: Transparent;
+        background-repeat:no-repeat;
+        border: none;
+        cursor:pointer;
+        overflow: hidden;
+        outline:none;
+        font-size: 60px;
+        margin-left: 130px;
+        margin-top: 80px;
+}

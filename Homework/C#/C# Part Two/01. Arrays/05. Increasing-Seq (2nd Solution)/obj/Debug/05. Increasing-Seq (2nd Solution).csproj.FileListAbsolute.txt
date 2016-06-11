@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\05. Increasing-Seq (2nd Solution)\bin\Debug\_05.Increasing_Seq__2nd_Solution_.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\05. Increasing-Seq (2nd Solution)\bin\Debug\_05.Increasing_Seq__2nd_Solution_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\05. Increasing-Seq (2nd Solution)\bin\Debug\_05.Increasing_Seq__2nd_Solution_.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\05. Increasing-Seq (2nd Solution)\obj\Debug\_05.Increasing_Seq__2nd_Solution_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\05. Increasing-Seq (2nd Solution)\obj\Debug\_05.Increasing_Seq__2nd_Solution_.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\05. Increasing-Seq (2nd Solution)\obj\Debug\05. Increasing-Seq (2nd Solution).csprojResolveAssemblyReference.cache

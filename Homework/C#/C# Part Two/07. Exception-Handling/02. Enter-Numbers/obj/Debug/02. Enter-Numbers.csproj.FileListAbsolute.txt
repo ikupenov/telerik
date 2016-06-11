@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\07. Exception-Handling\02. Enter-Numbers\bin\Debug\_02.Enter_Numbers.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\07. Exception-Handling\02. Enter-Numbers\bin\Debug\_02.Enter_Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\07. Exception-Handling\02. Enter-Numbers\bin\Debug\_02.Enter_Numbers.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\07. Exception-Handling\02. Enter-Numbers\obj\Debug\_02.Enter_Numbers.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\07. Exception-Handling\02. Enter-Numbers\obj\Debug\_02.Enter_Numbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\01. HelloWorld\bin\Debug\_01.HelloWorld.exe
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\01. HelloWorld\bin\Debug\_01.HelloWorld.pdb
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\01. HelloWorld\obj\Debug\01. HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\01. HelloWorld\obj\Debug\_01.HelloWorld.exe
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\01. HelloWorld\obj\Debug\_01.HelloWorld.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Intro-Programming-Homework\01. HelloWorld\obj\Debug\_01.HelloWorld.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Intro-Programming-Homework\01. HelloWorld\obj\Debug\_01.HelloWorld.pdb

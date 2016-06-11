@@ -1,0 +1,9 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\03. English-Digit\bin\Debug\_03.English_Digit.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\03. English-Digit\bin\Debug\_03.English_Digit.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\03. English-Digit\bin\Debug\_03.English_Digit.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\03. English-Digit\obj\Debug\03. English-Digit.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\03. English-Digit\obj\Debug\_03.English_Digit.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\Solution1\03. English-Digit\obj\Debug\_03.English_Digit.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\03. English-Digit\bin\Debug\_03.English_Digit.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\03. English-Digit\obj\Debug\_03.English_Digit.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\03. Methods\03. English-Digit\obj\Debug\_03.English_Digit.pdb

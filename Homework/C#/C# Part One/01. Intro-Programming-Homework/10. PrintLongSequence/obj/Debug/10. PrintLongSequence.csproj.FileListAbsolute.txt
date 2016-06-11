@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\10. PrintLongSequence\bin\Debug\_10.PrintLongSequence.exe
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\10. PrintLongSequence\bin\Debug\_10.PrintLongSequence.pdb
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\10. PrintLongSequence\obj\Debug\_10.PrintLongSequence.exe
+C:\Users\Ilian\Documents\Telerik\Homework NEW\Intro-Programming-Homework\10. PrintLongSequence\obj\Debug\_10.PrintLongSequence.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\Intro-Programming-Homework\10. PrintLongSequence\obj\Debug\_10.PrintLongSequence.exe
+C:\Users\Ilian\Documents\Telerik\Homework\Intro-Programming-Homework\10. PrintLongSequence\obj\Debug\_10.PrintLongSequence.pdb

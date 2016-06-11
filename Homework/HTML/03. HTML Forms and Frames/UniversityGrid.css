@@ -1,0 +1,9 @@
+td, tr {
+	margin: 0px;
+	padding: 0px;
+}
+
+.change {
+	font-weight: bold;
+	text-align: center;
+}

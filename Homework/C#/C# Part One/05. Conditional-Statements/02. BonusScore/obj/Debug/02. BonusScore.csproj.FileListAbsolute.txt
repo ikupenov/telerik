@@ -1,0 +1,4 @@
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\02. BonusScore\bin\Debug\_02.BonusScore.exe
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\02. BonusScore\bin\Debug\_02.BonusScore.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\02. BonusScore\obj\Debug\_02.BonusScore.exe
+C:\Users\Ilian\Documents\Telerik\Homework\05. Conditional-Statements\02. BonusScore\obj\Debug\_02.BonusScore.pdb

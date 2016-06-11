@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\07. One-System-To-Another(2nd Sol)\bin\Debug\_07.One_System_To_Another_2nd_Sol_.exe.config
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\07. One-System-To-Another(2nd Sol)\bin\Debug\_07.One_System_To_Another_2nd_Sol_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\07. One-System-To-Another(2nd Sol)\bin\Debug\_07.One_System_To_Another_2nd_Sol_.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\07. One-System-To-Another(2nd Sol)\obj\Debug\07. One-System-To-Another(2nd Sol).csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\07. One-System-To-Another(2nd Sol)\obj\Debug\_07.One_System_To_Another_2nd_Sol_.exe
+C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\04. Numeral-Systems\04. Numeral-Systems\07. One-System-To-Another(2nd Sol)\obj\Debug\_07.One_System_To_Another_2nd_Sol_.pdb

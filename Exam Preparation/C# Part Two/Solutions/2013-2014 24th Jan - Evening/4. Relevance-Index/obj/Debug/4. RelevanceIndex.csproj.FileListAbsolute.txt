@@ -1,0 +1,6 @@
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\4. RelevanceIndex\bin\Debug\_4.RelevanceIndex.exe.config
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\4. RelevanceIndex\bin\Debug\_4.RelevanceIndex.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\4. RelevanceIndex\bin\Debug\_4.RelevanceIndex.pdb
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\4. RelevanceIndex\obj\Debug\4. RelevanceIndex.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\4. RelevanceIndex\obj\Debug\_4.RelevanceIndex.exe
+C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\4. RelevanceIndex\obj\Debug\_4.RelevanceIndex.pdb

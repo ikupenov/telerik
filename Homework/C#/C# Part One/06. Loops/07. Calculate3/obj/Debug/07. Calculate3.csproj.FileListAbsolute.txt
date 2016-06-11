@@ -1,0 +1,5 @@
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\07. Calculate3\bin\Debug\_07.Calculate3.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\07. Calculate3\bin\Debug\_07.Calculate3.pdb
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\07. Calculate3\obj\Debug\07. Calculate3.csprojResolveAssemblyReference.cache
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\07. Calculate3\obj\Debug\_07.Calculate3.exe
+C:\Users\Ilian\Documents\Telerik\Homework\06. Loops\07. Calculate3\obj\Debug\_07.Calculate3.pdb

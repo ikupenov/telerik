@@ -1,0 +1,35 @@
+h1 {
+	color: #5CE600;
+	font-size: 50px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding-left: 150px;
+}
+
+li {
+	display: inline;
+	width: 60px;
+	padding: 15px;
+	font-size: 25px;
+}
+
+#section {
+	padding-top: 60px;
+}
+
+th {
+	font-size: 30px;
+	background-color: #B7D768;
+}
+
+td {
+	text-align: left;
+	border:none;
+}
+
+table {
+	margin-left: 150px;
+}
