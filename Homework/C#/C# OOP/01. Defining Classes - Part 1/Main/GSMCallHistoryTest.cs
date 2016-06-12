@@ -65,6 +65,7 @@
 
         public static void PrintCallHistory ()
         {
+            Console.WriteLine();
             Console.WriteLine(new string('-', 14));
             Console.WriteLine("|Call History|");
             Console.WriteLine(new string('-', 14));
@@ -75,27 +76,31 @@
             }
 
             Console.WriteLine("\r\nAre you sure you want to clear the call history?");
-            Console.WriteLine(@"Select ""1"" to confirm, select ""2"" to cancel:");
+            Console.Write(@"Select ""1"" to confirm, select ""2"" to cancel: ");
 
             int confirm = 0;
 
             try
             {
                 confirm = int.Parse(Console.ReadLine());
+
+                if (confirm > 2 || confirm < 1)
+                    throw new Exception();
             }
             catch (Exception)
             {
-                Console.WriteLine("Invalid Input!\r\nExitting...");
+                Console.WriteLine("\r\nInvalid Input!\r\nExitting...");
             }
 
             switch (confirm)
             {
                 case 1:
                     calls.Clear();
+                    Console.WriteLine("\n\r[{0}] 100%", new string('|', 40));
                     Console.WriteLine("Call History Successfully Cleared!\r\nExitting...");
                     break;
                 case 2:
-                    Console.WriteLine("Call History NOT Cleared\r\nExitting...");
+                    Console.WriteLine("\n\r[{0}] Cancelled", new string('X', 40));
                     break;
             }
         }
