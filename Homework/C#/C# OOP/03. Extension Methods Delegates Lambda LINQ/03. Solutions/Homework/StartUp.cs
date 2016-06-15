@@ -38,9 +38,10 @@
 
             var thirdStudent = new Students("Banio", "Avanov");
             var firstStudent = new Students("Kaloyancho", "Stoykov");
+            var ran1 = new Students("Stoyko", "Stoqnov");
             var secondStudent = new Students("Pesho", "Slaveykov");
 
-            var studentArr = new Students[] { firstStudent, secondStudent, thirdStudent };
+            var studentArr = new Students[] { firstStudent, secondStudent, ran1, thirdStudent };
 
             var listed = studentArr.Where((f) => f.FirstName.CompareTo(f.LastName) == -1).ToArray();
 
