@@ -93,5 +93,36 @@
 
             return min;
         }
+
+        public static List<Student> ExtractAndOrder(this List<Student> stCollection)
+        {
+            var group =  from student in stCollection
+                         where student.GroupNumber == "1"   
+                         select student;
+
+            return new List<Student>(group);
+        }
+
+        public static bool ContainsAtLeast(this List<byte> collection, int element, int times)
+        {
+            bool doesContain = false;
+            int counter = 0;
+
+            foreach (var item in collection)
+            {
+                if (item == element)
+                {
+                    counter++;
+                }
+
+                if (counter == times)
+                {
+                    doesContain = true;
+                    break;
+                }
+            }
+
+            return doesContain;
+        }
     }
 }
