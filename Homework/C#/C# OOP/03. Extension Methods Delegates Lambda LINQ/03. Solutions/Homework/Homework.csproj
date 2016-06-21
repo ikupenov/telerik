@@ -43,12 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConvergentSeries.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="Group.cs" />
+    <Compile Include="08. Events\Listener.cs" />
+    <Compile Include="08. Events\Publisher.cs" />
+    <Compile Include="08. Events\PublisherEventArgs.cs" />
     <Compile Include="StartUp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Student.cs" />
-    <Compile Include="Timer.cs" />
+    <Compile Include="07. Timer\Timer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

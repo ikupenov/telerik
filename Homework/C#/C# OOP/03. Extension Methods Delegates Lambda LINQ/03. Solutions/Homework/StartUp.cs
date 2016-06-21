@@ -54,13 +54,14 @@ the following group functions: sum, product, min, max, average.*/
             var marks4 = new List<byte>() { 2, 2, 3 };
             var marks5 = new List<byte>() { 5, 5, 6 };
 
-            var st1 = new Student("Banio", "Avanov", 21, "02-413-4130", "bavanov@abv.bg", marks1, "107205", "2");
-            var st2 = new Student("Boyano", "Boyanov", 18, "07-409-3313", "bitko.p@abv.bg", marks2, "107205", "1");
-            var st3 = new Student("Kaloyancho", "Stoykov", 19, "07-436-5022", "k.stoykov@gmail.com", marks3, "107206", "2");
-            var st4 = new Student("Stoyko", "Stoqnov", 17, "02-285-8624", "ssm_98@gmail.com", marks4, "107206", "1");
-            var st5 = new Student("Pesho", "Georgiev", 38, "05-352-6526", "pe66@abv.bg", marks5, "107208", "2");
-
-            var studentsArr = new List<Student>() { st1, st2, st3, st4, st5 };
+            var studentsArr = new List<Student>()
+            {
+                new Student("Banio", "Avanov", 21, "02-413-4130", "bavanov@abv.bg", marks1, "107205", "2"),
+                new Student("Boyano", "Boyanov", 18, "07-409-3313", "bitko.p@abv.bg", marks2, "107205", "1"),
+                new Student("Kaloyancho", "Stoykov", 19, "07-436-5022", "k.stoykov@gmail.com", marks3, "107206", "2"),
+                new Student("Stoyko", "Stoqnov", 17, "02-285-8624", "ssm_98@gmail.com", marks4, "107206", "1"),
+                new Student("Pesho", "Georgiev", 38, "05-352-6526", "pe66@abv.bg", marks5, "107208", "2")
+            };
 
             /* Problem 3. First before last
 Write a method that from a given array of students finds all students whose 
@@ -145,13 +146,31 @@ Use the built-in extension methods and lambda expressions. Rewrite the same with
             }
 
             Console.WriteLine();
+            Console.WriteLine();
 
             /*Problem 7. Timer
 Using delegates write a class Timer that can execute certain method at each t seconds.*/
 
+            Console.WriteLine("Uncomment Task 8 To Enable the Timer");
+            Console.WriteLine();
+
             //UNCOMMENT TO ACTIVATE (Disabled since it's printing the current date every second)
 
-            //Timer.SetInterval(new Action(() => Timer.CurrentDate()), 1); /*<--------UNCOMMENT ME--------*/
+            //Timer.SetInterval(new Action(() => Timer.CurrentDate()), 1); /*<--------UNCOMMENT ME--------*/ 
+
+            /*Problem 8.* Events
+Read in MSDN about the keyword event in C# and how to publish events.
+Re-implement the above using .NET events and following the best practices.*/
+
+            Console.WriteLine("Uncomment Task 8 To Enable the Event");
+            Console.WriteLine();
+
+            //Publisher p = new Publisher(1);     ////UNCOMMENT
+            //Listener l = new Listener(60);      ////---ME----
+            //l.Subscribe(p);                     ////---TO----
+            //p.Start();                          ////--START--
+
+            //l.Unsubscribe(p);
 
             /*Problem 9. Student groups
 Create a class Student with properties FirstName, LastName, FN, Tel, Email, Marks (a List), GroupNumber.
@@ -276,16 +295,43 @@ Introduce a property GroupNumber in the Student class.
 Extract all students from "Mathematics" department.
 Use the Join operator.*/
 
+            Console.WriteLine(@"Extract all students from ""Mathematics"" department");
 
+            var grp = new List<Group>()
+            {
+                new Group("1", "Mathematics"),
+                new Group("2", "Sports")
+            };
+
+            var extractedByDepartment = from s in studentsArr
+                                        join g in grp 
+                                        on s.GroupNumber equals g.GroupNumber
+                                        where s.GroupNumber == "1"
+                                        select new { s.FullName, g.DepartmentName };
+
+            foreach (var item in extractedByDepartment)
+            {
+                Console.Write("{0} from the {1} department", item.FullName, item.DepartmentName);
+                Console.WriteLine();
+            }
+
+            Console.WriteLine();
 
             /*Problem 17. Longest string
 Write a program to return the string with maximum length from an array of strings.
 Use LINQ.*/
 
-            string sentence = "Write a program to return the string with maximum length.";
-            var longestString = sentence.Split(new char[] { ' ', ',', '.' }, StringSplitOptions.RemoveEmptyEntries)
-                                        .OrderByDescending(w => w.Length)
-                                        .First();
+            var arrOfStrings = new string[5] 
+            {
+                "write a program",
+                "to return the string",
+                "with maximum length",
+                "from an array of strings",
+                "use LINQ"
+            };    
+
+            var longestString = arrOfStrings.OrderByDescending(s => s.Length)
+                                            .First();
 
             Console.WriteLine("String with maximum length from an array: [" + longestString + "]");
             Console.WriteLine();
@@ -315,6 +361,29 @@ Rewrite the previous using extension methods.*/
                                         group std by std.GroupNumber
                                         into std
                                         select std;
+
+            /*Problem 20.* Infinite convergent series
+
+By using delegates develop an universal static method to calculate the sum of infinite convergent series 
+with given precision depending on a function of its term. By using proper functions for the term calculate 
+with a 2-digit precision the sum of the infinite series:
+1 + 1/2 + 1/4 + 1/8 + 1/16 + …
+1 + 1/2! + 1/3! + 1/4! + 1/5! + …
+1 + 1/2 - 1/4 + 1/8 - 1/16 + …*/
+
+            var result1 = ConvergentSeries.InfiniteSeries(5, (y, x, z) => 1 / x);
+            Console.Write("First Convergent Series:  ");
+            Console.WriteLine("{0:F2}", result1);
+
+            var result2 = ConvergentSeries.InfiniteFactorial(5, (y, x) => 1 / x * y);
+            Console.Write("Second Convergent Series: ");
+            Console.WriteLine("{0:F2}", result2);
+
+            var result3 = ConvergentSeries.InfiniteSeries(5, (y, x, z) => z % 2 == 0 ? -1 / x : 1 / x);
+            Console.Write("Third Convergent Series:  ");
+            Console.WriteLine("{0:F2}", result3);
         }
     }
 }
+ 
+ 
