@@ -17,7 +17,12 @@ function solve(args) {
             console.log("x1=x2=" + x1.toFixed(2));
         }
         else {
-            console.log("x1=" + x2.toFixed(2) + "; x2=" + x1.toFixed(2));
+            if (x1 > x2) {
+                console.log("x1=" + x2.toFixed(2) + "; x2=" + x1.toFixed(2));
+            }
+            else if (x2 > x1) {
+                console.log("x1=" + x1.toFixed(2) + "; x2=" + x2.toFixed(2));
+            }
         }
     }
 }
