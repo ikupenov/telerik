@@ -4,3 +4,9 @@ C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\05. Maximal-
 C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\05. Maximal-Increasing-Sequence\obj\Debug\05. Maximal-Increasing-Sequence.csprojResolveAssemblyReference.cache
 C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\05. Maximal-Increasing-Sequence\obj\Debug\_05.Maximal_Increasing_Sequence.exe
 C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\05. Maximal-Increasing-Sequence\obj\Debug\_05.Maximal_Increasing_Sequence.pdb
+C:\Users\Ilian\Documents\Telerik\Telerik Git\Homework\C#\C# Part Two\01. Arrays\05. Maximal-Increasing-Sequence\bin\Debug\_05.Maximal_Increasing_Sequence.exe.config
+C:\Users\Ilian\Documents\Telerik\Telerik Git\Homework\C#\C# Part Two\01. Arrays\05. Maximal-Increasing-Sequence\obj\Debug\_05.Maximal_Increasing_Sequence.exe
+C:\Users\Ilian\Documents\Telerik\Telerik Git\Homework\C#\C# Part Two\01. Arrays\05. Maximal-Increasing-Sequence\obj\Debug\_05.Maximal_Increasing_Sequence.pdb
+C:\Users\Ilian\Documents\Telerik\Telerik Git\Homework\C#\C# Part Two\01. Arrays\05. Maximal-Increasing-Sequence\bin\Debug\_05.Maximal_Increasing_Sequence.exe
+C:\Users\Ilian\Documents\Telerik\Telerik Git\Homework\C#\C# Part Two\01. Arrays\05. Maximal-Increasing-Sequence\bin\Debug\_05.Maximal_Increasing_Sequence.pdb
+C:\Users\Ilian\Documents\Telerik\Telerik Git\Homework\C#\C# Part Two\01. Arrays\05. Maximal-Increasing-Sequence\obj\Debug\05. Maximal-Increasing-Sequence.csprojResolveAssemblyReference.cache

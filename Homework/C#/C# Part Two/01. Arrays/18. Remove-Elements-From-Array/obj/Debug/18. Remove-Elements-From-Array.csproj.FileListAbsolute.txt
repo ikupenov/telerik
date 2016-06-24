@@ -4,3 +4,6 @@ C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\18. Remove-E
 C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\18. Remove-Elements-From-Array\obj\Debug\18. Remove-Elements-From-Array.csprojResolveAssemblyReference.cache
 C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\18. Remove-Elements-From-Array\obj\Debug\_18.Remove_Elements_From_Array.exe
 C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\01. Arrays\18. Remove-Elements-From-Array\obj\Debug\_18.Remove_Elements_From_Array.pdb
+C:\Users\Ilian\Documents\Telerik\Telerik Git\Homework\C#\C# Part Two\01. Arrays\18. Remove-Elements-From-Array\bin\Debug\_18.Remove_Elements_From_Array.exe.config
+C:\Users\Ilian\Documents\Telerik\Telerik Git\Homework\C#\C# Part Two\01. Arrays\18. Remove-Elements-From-Array\obj\Debug\_18.Remove_Elements_From_Array.exe
+C:\Users\Ilian\Documents\Telerik\Telerik Git\Homework\C#\C# Part Two\01. Arrays\18. Remove-Elements-From-Array\obj\Debug\_18.Remove_Elements_From_Array.pdb
