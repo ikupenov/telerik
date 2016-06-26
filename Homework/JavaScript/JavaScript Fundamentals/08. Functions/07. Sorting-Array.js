@@ -1,6 +1,5 @@
-function solve(args) {
-    var input = args[0].split("\n"),
-        n = +input[0],
+function solve(input) {
+        var n = +input[0],
         numbers = input[1].split(" ").map(Number),
         result = [],
         biggestNumber, i;
