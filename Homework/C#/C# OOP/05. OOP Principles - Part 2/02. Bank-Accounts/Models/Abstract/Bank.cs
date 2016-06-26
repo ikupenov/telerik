@@ -7,9 +7,9 @@
     public abstract class Bank
     {
         private decimal balance;
-        private double interestRate;
+        private decimal interestRate;
 
-        public Bank(CustomerType customer, decimal balance, double interestRate)
+        public Bank(CustomerType customer, decimal balance, decimal interestRate)
         {
             this.Customer = customer;
             this.Balance = balance;
@@ -32,7 +32,7 @@
             }
         }
 
-        public double InterestRate
+        public decimal InterestRate
         {
             get { return this.interestRate; }
             private set

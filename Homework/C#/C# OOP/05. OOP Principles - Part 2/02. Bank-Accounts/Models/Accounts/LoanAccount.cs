@@ -12,7 +12,7 @@
         private const int INDIVIDUAL_MONTHS_WITHOUT_INTEREST = 3;
         private const int COMPANY_MONTHS_WITHOUT_INTEREST = 2;
 
-        public LoanAccount(CustomerType customer, decimal balance, double interestRate) : base(customer, balance, interestRate) { }
+        public LoanAccount(CustomerType customer, decimal balance, decimal interestRate) : base(customer, balance, interestRate) { }
 
         public void Deposit(decimal moneyToDeposit)
         {
@@ -24,14 +24,17 @@
         {
             NegativeVerification.VerifyMonth(numberOfMonths);
 
-            if (base.Customer == CustomerType.Individual && numberOfMonths <= INDIVIDUAL_MONTHS_WITHOUT_INTEREST ||
-                base.Customer == CustomerType.Company && numberOfMonths <= COMPANY_MONTHS_WITHOUT_INTEREST)
+            if (base.Customer == CustomerType.Individual && numberOfMonths > INDIVIDUAL_MONTHS_WITHOUT_INTEREST)
             {
-                return GlobalConstants.ZERO_INTEREST_AMOUNT;
+                return ((base.InterestRate / 100) * base.Balance) * (numberOfMonths - INDIVIDUAL_MONTHS_WITHOUT_INTEREST);
+            }
+            else if (base.Customer == CustomerType.Company && numberOfMonths > COMPANY_MONTHS_WITHOUT_INTEREST)
+            {
+                return ((base.InterestRate / 100) * base.Balance) * (numberOfMonths - COMPANY_MONTHS_WITHOUT_INTEREST);
             }
             else
             {
-                return (decimal)(base.InterestRate * numberOfMonths);
+                return GlobalConstants.ZERO_INTEREST_AMOUNT;
             }
         }
     }
