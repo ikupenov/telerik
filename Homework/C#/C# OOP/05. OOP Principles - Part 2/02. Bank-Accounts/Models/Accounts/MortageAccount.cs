@@ -13,7 +13,8 @@
         private const int COMPANY_MONTHS_WITH_LIMITED_INTEREST = 12;
         private const int INDIVIDUAL_MONTHS_WITHOUT_INTEREST = 6;
 
-        public MortageAccount(CustomerType customer, decimal balance, decimal interestRate) : base(customer, balance, interestRate) { }
+        public MortageAccount(CustomerType customer, decimal balance, decimal interestRate) 
+            : base(customer, balance, interestRate) { }
 
         public void Deposit(decimal moneyToDeposit)
         {
@@ -27,17 +28,18 @@
 
             if (base.Customer == CustomerType.Individual && numberOfMonths > INDIVIDUAL_MONTHS_WITHOUT_INTEREST)
             {
-                return ((base.InterestRate / 100) * base.Balance) * (numberOfMonths - INDIVIDUAL_MONTHS_WITHOUT_INTEREST);
+                return ((base.InterestRate / GlobalConstants.MAX_PERCENT) * base.Balance) * 
+                            (numberOfMonths - INDIVIDUAL_MONTHS_WITHOUT_INTEREST);
             }
             else if (base.Customer == CustomerType.Company && numberOfMonths <= COMPANY_MONTHS_WITH_LIMITED_INTEREST)
             {
-                return ((INITIAL_COMPANY_INTEREST / 100) * base.Balance) * numberOfMonths;
+                return ((INITIAL_COMPANY_INTEREST / GlobalConstants.MAX_PERCENT) * base.Balance) * numberOfMonths;
             }
             else if (base.Customer == CustomerType.Company && numberOfMonths > COMPANY_MONTHS_WITH_LIMITED_INTEREST)
             {
                 int monthsWithoutLimitedInterest = numberOfMonths - COMPANY_MONTHS_WITH_LIMITED_INTEREST;
-                return (((INITIAL_COMPANY_INTEREST / 100) * base.Balance) * COMPANY_MONTHS_WITH_LIMITED_INTEREST) + 
-                        (((base.InterestRate / 100) * base.Balance) * monthsWithoutLimitedInterest);
+                return (((INITIAL_COMPANY_INTEREST / GlobalConstants.MAX_PERCENT) * base.Balance) * COMPANY_MONTHS_WITH_LIMITED_INTEREST) + 
+                        (((base.InterestRate / GlobalConstants.MAX_PERCENT) * base.Balance) * monthsWithoutLimitedInterest);
             }
             else
             {

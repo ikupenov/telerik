@@ -11,7 +11,8 @@
     {
         private const decimal INDIVIDUAL_MIN_INTEREST_AMOUNT = 1000m;
 
-        public DepositAccount(CustomerType customer, decimal balance, decimal interestRate) : base(customer, balance, interestRate) { }
+        public DepositAccount(CustomerType customer, decimal balance, decimal interestRate) 
+            : base(customer, balance, interestRate) { }
 
         public void Deposit(decimal moneyToDeposit)
         {
@@ -35,7 +36,7 @@
             }
             else
             {
-                return ((base.InterestRate / 100) * base.Balance) * numberOfMonths;
+                return ((base.InterestRate / GlobalConstants.MAX_PERCENT) * base.Balance) * numberOfMonths;
             }
         }
     }
