@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "..\Documents\Telerik\Telerik Git\Homework\C#\C# OOP\01. Defining Classes - Part 1\Homework.csproj", "{F6692CFD-8F34-4ECB-9FE9-2DB5FD739BA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6692CFD-8F34-4ECB-9FE9-2DB5FD739BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6692CFD-8F34-4ECB-9FE9-2DB5FD739BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6692CFD-8F34-4ECB-9FE9-2DB5FD739BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6692CFD-8F34-4ECB-9FE9-2DB5FD739BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
