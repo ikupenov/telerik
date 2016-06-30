@@ -1,6 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\07. Largest-Area-In-Matrix\bin\Debug\_07.Largest_Area_In_Matrix.exe.config
-C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\07. Largest-Area-In-Matrix\bin\Debug\_07.Largest_Area_In_Matrix.exe
-C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\07. Largest-Area-In-Matrix\bin\Debug\_07.Largest_Area_In_Matrix.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\07. Largest-Area-In-Matrix\obj\Debug\07. Largest-Area-In-Matrix.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\07. Largest-Area-In-Matrix\obj\Debug\_07.Largest_Area_In_Matrix.exe
-C:\Users\Ilian\Documents\Telerik\Homework\C#\C# Part Two\02. Multidimensional-Arrays\02. Multidimensional-Arrays\07. Largest-Area-In-Matrix\obj\Debug\_07.Largest_Area_In_Matrix.pdb
