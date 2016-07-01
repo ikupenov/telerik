@@ -5,9 +5,7 @@ function solve(args) {
         c3 = +args[3],
         maxSum = 0,
         tempSum,
-        i,
-        j,
-        k;
+        i, j, k;
 
     for (i = 0; i < s / c1 + 1; i += 1) {
         for (j = 0; j < s / c2 + 1; j += 1) {
