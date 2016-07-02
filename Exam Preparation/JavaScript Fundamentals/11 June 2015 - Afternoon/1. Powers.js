@@ -3,7 +3,7 @@ function solve(args) {
         arr = args[1].split(' ').map(Number),
         n = +nk[0], k = +nk[1],
         result = 0, newArr = [],
-        i, j, z;
+        i, j, l;
 
     function mod(n, m) {
         return ((n % m) + m) % m;
@@ -25,8 +25,8 @@ function solve(args) {
     }
 
     if (k === 0) {
-        for (z = 0; z < n; z += 1) {
-            result += arr[z];
+        for (i = 0; i < n; i += 1) {
+            result += arr[i];
         }
     }
     else {
@@ -39,8 +39,8 @@ function solve(args) {
                 result = newArr.reduce((x, y) => x + y);
             }
             else {
-                for (z = 0; z < n; z += 1) {
-                    arr[z] = newArr[z];
+                for (l = 0; l < n; l += 1) {
+                    arr[l] = newArr[l];
                 }
             }
         }
