@@ -1,6 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\2. Bunny-Factory\bin\Debug\_2.Bunny_Factory.exe.config
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\2. Bunny-Factory\bin\Debug\_2.Bunny_Factory.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\2. Bunny-Factory\bin\Debug\_2.Bunny_Factory.pdb
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\2. Bunny-Factory\obj\Debug\2. Bunny-Factory.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\2. Bunny-Factory\obj\Debug\_2.Bunny_Factory.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\2. Bunny-Factory\obj\Debug\_2.Bunny_Factory.pdb

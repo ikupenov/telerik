@@ -1,5 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 2 – Nightmare on Code Street\bin\Debug\Problem 2 – Nightmare on Code Street.exe.config
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 2 – Nightmare on Code Street\bin\Debug\Problem 2 – Nightmare on Code Street.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 2 – Nightmare on Code Street\bin\Debug\Problem 2 – Nightmare on Code Street.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 2 – Nightmare on Code Street\obj\Debug\Problem 2 – Nightmare on Code Street.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 2 – Nightmare on Code Street\obj\Debug\Problem 2 – Nightmare on Code Street.pdb

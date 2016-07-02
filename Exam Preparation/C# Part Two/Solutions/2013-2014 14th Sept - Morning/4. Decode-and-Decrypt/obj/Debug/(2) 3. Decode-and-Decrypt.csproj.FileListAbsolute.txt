@@ -1,6 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\(2) 3. Decode-and-Decrypt\bin\Debug\_2__3.Decode_and_Decrypt.exe.config
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\(2) 3. Decode-and-Decrypt\bin\Debug\_2__3.Decode_and_Decrypt.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\(2) 3. Decode-and-Decrypt\bin\Debug\_2__3.Decode_and_Decrypt.pdb
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\(2) 3. Decode-and-Decrypt\obj\Debug\(2) 3. Decode-and-Decrypt.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\(2) 3. Decode-and-Decrypt\obj\Debug\_2__3.Decode_and_Decrypt.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\(2) 3. Decode-and-Decrypt\obj\Debug\_2__3.Decode_and_Decrypt.pdb

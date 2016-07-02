@@ -1,9 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\2. Two-Girls-One-Path\bin\Debug\_2.Two_Girls_One_Path.exe.config
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\2. Two-Girls-One-Path\bin\Debug\_2.Two_Girls_One_Path.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\2. Two-Girls-One-Path\bin\Debug\_2.Two_Girls_One_Path.pdb
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\2. Two-Girls-One-Path\obj\Debug\_2.Two_Girls_One_Path.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\2. Two-Girls-One-Path\obj\Debug\_2.Two_Girls_One_Path.pdb
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\2. Two-Girls-One-Path\obj\Debug\2. Two-Girls-One-Path.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\2. Two-Girls-One-Path\bin\Debug\_2.Two_Girls_One_Path.exe.config
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\2. Two-Girls-One-Path\obj\Debug\_2.Two_Girls_One_Path.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\2. Two-Girls-One-Path\obj\Debug\_2.Two_Girls_One_Path.pdb

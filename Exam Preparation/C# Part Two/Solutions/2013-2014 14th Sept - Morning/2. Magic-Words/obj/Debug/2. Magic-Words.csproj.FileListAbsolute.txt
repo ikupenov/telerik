@@ -1,9 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\2. Magic-Words\bin\Debug\_2.Magic_Words.exe.config
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\2. Magic-Words\bin\Debug\_2.Magic_Words.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\2. Magic-Words\bin\Debug\_2.Magic_Words.pdb
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\2. Magic-Words\obj\Debug\_2.Magic_Words.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\2. Magic-Words\obj\Debug\_2.Magic_Words.pdb
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 14 Sept - Morning\2. Magic-Words\obj\Debug\2. Magic-Words.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 14th Sept - Morning\2. Magic-Words\bin\Debug\_2.Magic_Words.exe.config
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 14th Sept - Morning\2. Magic-Words\obj\Debug\_2.Magic_Words.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 14th Sept - Morning\2. Magic-Words\obj\Debug\_2.Magic_Words.pdb

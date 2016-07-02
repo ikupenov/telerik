@@ -1,3 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 14th Sept - Morning\4. Decode-and-Decrypt\bin\Debug\_2__3.Decode_and_Decrypt.exe.config
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 14th Sept - Morning\4. Decode-and-Decrypt\obj\Debug\_2__3.Decode_and_Decrypt.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 14th Sept - Morning\4. Decode-and-Decrypt\obj\Debug\_2__3.Decode_and_Decrypt.pdb

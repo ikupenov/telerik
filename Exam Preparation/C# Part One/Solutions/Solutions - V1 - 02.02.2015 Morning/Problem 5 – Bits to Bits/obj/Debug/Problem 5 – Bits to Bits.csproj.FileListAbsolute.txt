@@ -1,6 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 5 – Bits to Bits\bin\Debug\Problem 5 – Bits to Bits.exe.config
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 5 – Bits to Bits\bin\Debug\Problem 5 – Bits to Bits.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 5 – Bits to Bits\bin\Debug\Problem 5 – Bits to Bits.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 5 – Bits to Bits\obj\Debug\Problem 5 – Bits to Bits.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 5 – Bits to Bits\obj\Debug\Problem 5 – Bits to Bits.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 5 – Bits to Bits\obj\Debug\Problem 5 – Bits to Bits.pdb

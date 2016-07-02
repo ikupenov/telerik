@@ -1,6 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\3. Bit-Shift-Matrix\bin\Debug\_3.Bit_Shift_Matrix.exe.config
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\3. Bit-Shift-Matrix\bin\Debug\_3.Bit_Shift_Matrix.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\3. Bit-Shift-Matrix\bin\Debug\_3.Bit_Shift_Matrix.pdb
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\3. Bit-Shift-Matrix\obj\Debug\3. Bit-Shift-Matrix.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\3. Bit-Shift-Matrix\obj\Debug\_3.Bit_Shift_Matrix.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\3. Bit-Shift-Matrix\obj\Debug\_3.Bit_Shift_Matrix.pdb

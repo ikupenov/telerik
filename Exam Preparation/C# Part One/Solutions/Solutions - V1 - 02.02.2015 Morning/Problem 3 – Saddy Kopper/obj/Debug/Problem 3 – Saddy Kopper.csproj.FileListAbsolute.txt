@@ -1,6 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 3 – Saddy Kopper\bin\Debug\Problem 3 – Saddy Kopper.exe.config
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 3 – Saddy Kopper\bin\Debug\Problem 3 – Saddy Kopper.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 3 – Saddy Kopper\bin\Debug\Problem 3 – Saddy Kopper.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 3 – Saddy Kopper\obj\Debug\Problem 3 – Saddy Kopper.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 3 – Saddy Kopper\obj\Debug\Problem 3 – Saddy Kopper.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 3 – Saddy Kopper\obj\Debug\Problem 3 – Saddy Kopper.pdb

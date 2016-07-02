@@ -1,6 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 1 – Printing\bin\Debug\Problem 1 – Printing.exe.config
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 1 – Printing\bin\Debug\Problem 1 – Printing.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 1 – Printing\bin\Debug\Problem 1 – Printing.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 1 – Printing\obj\Debug\Problem 1 – Printing.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 1 – Printing\obj\Debug\Problem 1 – Printing.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 1 – Printing\obj\Debug\Problem 1 – Printing.pdb

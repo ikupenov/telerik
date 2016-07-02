@@ -1,6 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 2 – The Horror\bin\Debug\Problem 2 – The Horror.exe.config
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 2 – The Horror\bin\Debug\Problem 2 – The Horror.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 2 – The Horror\bin\Debug\Problem 2 – The Horror.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 2 – The Horror\obj\Debug\Problem 2 – The Horror.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 2 – The Horror\obj\Debug\Problem 2 – The Horror.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant 2 (2013-12-06)\Problem 2 – The Horror\obj\Debug\Problem 2 – The Horror.csprojResolveAssemblyReference.cache

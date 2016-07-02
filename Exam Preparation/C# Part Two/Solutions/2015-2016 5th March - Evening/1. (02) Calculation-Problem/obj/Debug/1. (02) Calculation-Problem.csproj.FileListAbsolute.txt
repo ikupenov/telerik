@@ -1,6 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 5th March - Evening\1. (02) Calculation-Problem\bin\Debug\_1._02__Calculation_Problem.exe.config
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 5th March - Evening\1. (02) Calculation-Problem\bin\Debug\_1._02__Calculation_Problem.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 5th March - Evening\1. (02) Calculation-Problem\bin\Debug\_1._02__Calculation_Problem.pdb
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 5th March - Evening\1. (02) Calculation-Problem\obj\Debug\1. (02) Calculation-Problem.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 5th March - Evening\1. (02) Calculation-Problem\obj\Debug\_1._02__Calculation_Problem.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 5th March - Evening\1. (02) Calculation-Problem\obj\Debug\_1._02__Calculation_Problem.pdb

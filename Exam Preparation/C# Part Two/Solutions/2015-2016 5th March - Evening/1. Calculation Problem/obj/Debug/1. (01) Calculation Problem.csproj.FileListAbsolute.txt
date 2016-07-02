@@ -1,3 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 5th March - Evening\1. Calculation Problem\bin\Debug\_1.Calculation_Problem.exe.config
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 5th March - Evening\1. Calculation Problem\obj\Debug\_1.Calculation_Problem.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 5th March - Evening\1. Calculation Problem\obj\Debug\_1.Calculation_Problem.pdb

@@ -1,5 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 2 – Decoding\bin\Debug\Problem 2 – Decoding.exe.config
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 2 – Decoding\bin\Debug\Problem 2 – Decoding.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 2 – Decoding\bin\Debug\Problem 2 – Decoding.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 2 – Decoding\obj\Debug\Problem 2 – Decoding.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 2 – Decoding\obj\Debug\Problem 2 – Decoding.pdb

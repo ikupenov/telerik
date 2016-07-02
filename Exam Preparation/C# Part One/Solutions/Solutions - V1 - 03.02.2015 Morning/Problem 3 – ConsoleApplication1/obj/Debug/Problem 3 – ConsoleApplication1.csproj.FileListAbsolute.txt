@@ -1,6 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 3 – ConsoleApplication1\bin\Debug\Problem 3 – ConsoleApplication1.exe.config
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 3 – ConsoleApplication1\bin\Debug\Problem 3 – ConsoleApplication1.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 3 – ConsoleApplication1\bin\Debug\Problem 3 – ConsoleApplication1.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 3 – ConsoleApplication1\obj\Debug\Problem 3 – ConsoleApplication1.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 3 – ConsoleApplication1\obj\Debug\Problem 3 – ConsoleApplication1.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 3 – ConsoleApplication1\obj\Debug\Problem 3 – ConsoleApplication1.pdb

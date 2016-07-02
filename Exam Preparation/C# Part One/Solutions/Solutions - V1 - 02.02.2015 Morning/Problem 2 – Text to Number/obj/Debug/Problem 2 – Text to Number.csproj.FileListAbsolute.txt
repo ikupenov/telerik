@@ -1,5 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 2 – Text to Number\bin\Debug\Problem 2 – Text to Number.exe.config
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 2 – Text to Number\bin\Debug\Problem 2 – Text to Number.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 2 – Text to Number\bin\Debug\Problem 2 – Text to Number.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 2 – Text to Number\obj\Debug\Problem 2 – Text to Number.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - (2 February 2015 Morning)\Problem 2 – Text to Number\obj\Debug\Problem 2 – Text to Number.pdb

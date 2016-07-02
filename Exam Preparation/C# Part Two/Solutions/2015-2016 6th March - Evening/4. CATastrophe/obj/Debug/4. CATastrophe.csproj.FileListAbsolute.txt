@@ -1,6 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\4. CATastrophe\bin\Debug\_4.CATastrophe.exe.config
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\4. CATastrophe\bin\Debug\_4.CATastrophe.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\4. CATastrophe\bin\Debug\_4.CATastrophe.pdb
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\4. CATastrophe\obj\Debug\4. CATastrophe.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\4. CATastrophe\obj\Debug\_4.CATastrophe.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2015-2016 6th March - Evening\4. CATastrophe\obj\Debug\_4.CATastrophe.pdb

@@ -1,6 +1,0 @@
-C:\Users\Ilian\Desktop\04. Eggcelent\04. Eggcelent\bin\Debug\_04.Eggcelent.exe.config
-C:\Users\Ilian\Desktop\04. Eggcelent\04. Eggcelent\bin\Debug\_04.Eggcelent.exe
-C:\Users\Ilian\Desktop\04. Eggcelent\04. Eggcelent\bin\Debug\_04.Eggcelent.pdb
-C:\Users\Ilian\Desktop\04. Eggcelent\04. Eggcelent\obj\Debug\04. Eggcelent.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Desktop\04. Eggcelent\04. Eggcelent\obj\Debug\_04.Eggcelent.exe
-C:\Users\Ilian\Desktop\04. Eggcelent\04. Eggcelent\obj\Debug\_04.Eggcelent.pdb

@@ -1,6 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 1 – 2-4-8\bin\Debug\Problem 1 – 2-4-8.exe.config
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 1 – 2-4-8\bin\Debug\Problem 1 – 2-4-8.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 1 – 2-4-8\bin\Debug\Problem 1 – 2-4-8.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 1 – 2-4-8\obj\Debug\Problem 1 – 2-4-8.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 1 – 2-4-8\obj\Debug\Problem 1 – 2-4-8.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions -  V2 - 06.12.2013\Problem 1 – 2-4-8\obj\Debug\Problem 1 – 2-4-8.pdb

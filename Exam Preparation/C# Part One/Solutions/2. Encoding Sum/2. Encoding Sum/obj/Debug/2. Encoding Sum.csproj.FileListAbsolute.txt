@@ -1,6 +1,0 @@
-C:\Users\Ilian\Desktop\2. Encoding Sum\2. Encoding Sum\bin\Debug\_2.Encoding_Sum.exe.config
-C:\Users\Ilian\Desktop\2. Encoding Sum\2. Encoding Sum\bin\Debug\_2.Encoding_Sum.exe
-C:\Users\Ilian\Desktop\2. Encoding Sum\2. Encoding Sum\bin\Debug\_2.Encoding_Sum.pdb
-C:\Users\Ilian\Desktop\2. Encoding Sum\2. Encoding Sum\obj\Debug\2. Encoding Sum.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Desktop\2. Encoding Sum\2. Encoding Sum\obj\Debug\_2.Encoding_Sum.exe
-C:\Users\Ilian\Desktop\2. Encoding Sum\2. Encoding Sum\obj\Debug\_2.Encoding_Sum.pdb

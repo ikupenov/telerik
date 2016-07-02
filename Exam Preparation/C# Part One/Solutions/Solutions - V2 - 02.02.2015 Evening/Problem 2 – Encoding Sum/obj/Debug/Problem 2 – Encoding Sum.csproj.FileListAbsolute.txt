@@ -1,6 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V2 - 02.02.2015 Evening\Solutions - V2 - 02.02.2015\Problem 2 – Encoding Sum\bin\Debug\Problem 2 – Encoding Sum.exe.config
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V2 - 02.02.2015 Evening\Solutions - V2 - 02.02.2015\Problem 2 – Encoding Sum\bin\Debug\Problem 2 – Encoding Sum.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V2 - 02.02.2015 Evening\Solutions - V2 - 02.02.2015\Problem 2 – Encoding Sum\bin\Debug\Problem 2 – Encoding Sum.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V2 - 02.02.2015 Evening\Solutions - V2 - 02.02.2015\Problem 2 – Encoding Sum\obj\Debug\Problem 2 – Encoding Sum.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V2 - 02.02.2015 Evening\Solutions - V2 - 02.02.2015\Problem 2 – Encoding Sum\obj\Debug\Problem 2 – Encoding Sum.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V2 - 02.02.2015 Evening\Solutions - V2 - 02.02.2015\Problem 2 – Encoding Sum\obj\Debug\Problem 2 – Encoding Sum.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 3 - Second Solution\bin\Debug\Problem 3 - Second Solution.exe.config
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 3 - Second Solution\bin\Debug\Problem 3 - Second Solution.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 3 - Second Solution\bin\Debug\Problem 3 - Second Solution.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 3 - Second Solution\obj\Debug\Problem 3 - Second Solution.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 3 - Second Solution\obj\Debug\Problem 3 - Second Solution.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - V1 - 03.02.2015 Morning\Problem 3 - Second Solution\obj\Debug\Problem 3 - Second Solution.csprojResolveAssemblyReference.cache

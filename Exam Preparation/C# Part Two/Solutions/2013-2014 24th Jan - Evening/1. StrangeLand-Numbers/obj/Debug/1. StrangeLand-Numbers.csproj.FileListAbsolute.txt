@@ -1,9 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\1. StrangeLand-Numbers\bin\Debug\_1.StrangeLand_Numbers.exe.config
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\1. StrangeLand-Numbers\bin\Debug\_1.StrangeLand_Numbers.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\1. StrangeLand-Numbers\bin\Debug\_1.StrangeLand_Numbers.pdb
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\1. StrangeLand-Numbers\obj\Debug\1. StrangeLand-Numbers.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\1. StrangeLand-Numbers\obj\Debug\_1.StrangeLand_Numbers.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two\2013-2014 24th Jan - Evening\1. StrangeLand-Numbers\obj\Debug\_1.StrangeLand_Numbers.pdb
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\1. StrangeLand-Numbers\bin\Debug\_1.StrangeLand_Numbers.exe.config
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\1. StrangeLand-Numbers\obj\Debug\_1.StrangeLand_Numbers.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 24th Jan - Evening\1. StrangeLand-Numbers\obj\Debug\_1.StrangeLand_Numbers.pdb

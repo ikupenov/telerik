@@ -1,6 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\4. Variable-Length-Codes\bin\Debug\_4.Variable_Length_Codes.exe.config
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\4. Variable-Length-Codes\bin\Debug\_4.Variable_Length_Codes.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\4. Variable-Length-Codes\bin\Debug\_4.Variable_Length_Codes.pdb
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\4. Variable-Length-Codes\obj\Debug\4. Variable-Length-Codes.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\4. Variable-Length-Codes\obj\Debug\_4.Variable_Length_Codes.exe
-C:\Users\Ilian\Documents\Telerik\Exam Preparation\C# Part Two (Advanced)\2013-2014 22nd Jan - Evening\4. Variable-Length-Codes\obj\Debug\_4.Variable_Length_Codes.pdb

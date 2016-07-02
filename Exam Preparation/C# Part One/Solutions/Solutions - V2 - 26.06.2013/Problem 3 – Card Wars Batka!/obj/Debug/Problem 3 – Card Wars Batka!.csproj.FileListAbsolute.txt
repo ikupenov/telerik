@@ -1,9 +1,0 @@
-C:\Users\Ilian\Documents\Telerik\Homework\Variant-2 (26.06.2013)\Problem 3 – Card Wars Batka!\bin\Debug\Problem 3 – Card Wars Batka!.exe.config
-C:\Users\Ilian\Documents\Telerik\Homework\Variant-2 (26.06.2013)\Problem 3 – Card Wars Batka!\obj\Debug\Problem 3 – Card Wars Batka!.csprojResolveAssemblyReference.cache
-C:\Users\Ilian\Documents\Telerik\Homework\Variant-2 (26.06.2013)\Problem 3 – Card Wars Batka!\bin\Debug\Problem 3 – Card Wars Batka!.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Variant-2 (26.06.2013)\Problem 3 – Card Wars Batka!\bin\Debug\Problem 3 – Card Wars Batka!.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Variant-2 (26.06.2013)\Problem 3 – Card Wars Batka!\obj\Debug\Problem 3 – Card Wars Batka!.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Variant-2 (26.06.2013)\Problem 3 – Card Wars Batka!\obj\Debug\Problem 3 – Card Wars Batka!.pdb
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant-2 (26.06.2013)\Problem 3 – Card Wars Batka!\bin\Debug\Problem 3 – Card Wars Batka!.exe.config
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant-2 (26.06.2013)\Problem 3 – Card Wars Batka!\obj\Debug\Problem 3 – Card Wars Batka!.exe
-C:\Users\Ilian\Documents\Telerik\Homework\Exams\Solutions\Solutions - Variant-2 (26.06.2013)\Problem 3 – Card Wars Batka!\obj\Debug\Problem 3 – Card Wars Batka!.pdb
