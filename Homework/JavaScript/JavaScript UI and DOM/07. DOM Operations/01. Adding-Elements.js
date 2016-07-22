@@ -1,4 +1,4 @@
-function solve () {
+function solve() {
   return function (element, contents) {
     if (typeof (element) === 'string') {
       element = document.getElementById(element);
@@ -11,13 +11,14 @@ function solve () {
     }
 
     var fragment = document.createDocumentFragment(),
-      len = contents.length, i;
+      len = contents.length,
+      content, div, i;
 
     for (i = 0; i < len; i += 1) {
-      var content = contents[i],
-        div = document.createElement('div');
+      content = contents[i];
+      div = document.createElement('div');
 
-      if (typeof (content) !== 'string' && typeof(content) !== 'number') {
+      if (typeof (content) !== 'string' && typeof (content) !== 'number') {
         throw new Error();
       }
 
