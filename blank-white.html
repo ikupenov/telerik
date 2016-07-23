@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Blank</title>
+    <meta charset="UTF-8">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body style='background-color:rgb(30, 30, 30)'>
+    <button id='changeBG_btn' style='width: 50px; height: 50px'></button>
+
+    <script>
+        var btn = document.getElementById('changeBG_btn');
+        var body = document.getElementsByTagName('body')[0];
+
+        btn.addEventListener('click', function (ev) {
+            if (ev.target === btn) {
+                 if (body.style.backgroundColor === 'rgb(30, 30, 30)') {
+                    body.style.backgroundColor = 'white';
+                 } else {
+                    body.style.backgroundColor = 'rgb(30, 30, 30)';
+                 }   
+             }
+         });
+    </script>
+</body>
+
+</html>
