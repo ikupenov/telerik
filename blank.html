@@ -7,22 +7,50 @@
     <link href="css/style.css" rel="stylesheet">
 </head>
 
-<body style='background-color:rgb(30, 30, 30)'>
-    <button id='changeBG_btn' style='width: 50px; height: 50px'></button>
+<body style='background-color:white'>
+    <div id='wrapper'>
+        <button id='changeBG_white' style='width: 50px; height: 50px; border:none; background-color: white;'></button>
+        <button id='changeBG_warm' style='width: 50px; height: 50px; border:none; background-color: rgb(253, 246, 227);'></button>
+        <button id='changeBG_gray' style='width: 50px; height: 50px; border:none; background-color: rgb(30, 30, 30);'></button>
+    </div>
 
     <script>
-        var btn = document.getElementById('changeBG_btn');
         var body = document.getElementsByTagName('body')[0];
+        var nav = document.getElementById('wrapper');        
 
-        btn.addEventListener('click', function (ev) {
-            if (ev.target === btn) {
-                 if (body.style.backgroundColor === 'rgb(30, 30, 30)') {
-                    body.style.backgroundColor = 'rgb(253, 246, 227)';
-                 } else {
-                    body.style.backgroundColor = 'rgb(30, 30, 30)';
-                 }   
-             }
+        var btnWhite = document.getElementById('changeBG_white');
+        var btnWarm = document.getElementById('changeBG_warm');
+        var btnGray = document.getElementById('changeBG_gray');
+
+        select(btnWhite);
+
+        nav.addEventListener('click', function (ev) {
+            if (ev.target === btnWhite) {
+                body.style.backgroundColor = 'white';
+                clear();
+                select(btnWhite);
+            }
+            else if (ev.target === btnWarm) {
+                body.style.backgroundColor = 'rgb(253, 246, 227)';
+                clear();
+                select(btnWarm);
+            }
+            else if (ev.target === btnGray) {
+                body.style.backgroundColor = 'rgb(30, 30, 30)';
+                clear();
+                select(btnGray);
+            }
          });
+
+         function clear () {
+             btnWhite.style.border = 'none';
+             btnWarm.style.border = 'none';
+             btnGray.style.border = 'none';
+         }
+
+         function select(btn) {
+             btn.style.border = '3px solid rgb(166, 200, 255)';
+         }
     </script>
 </body>
 
