@@ -142,7 +142,7 @@
                 new Card(CardFace.Ace, CardSuit.Spades),
                 new Card(CardFace.Nine, CardSuit.Clubs)
             });
-            //
+            
             Assert.IsFalse(handChecker.IsFourOfAKind(hand));
         }
     }
