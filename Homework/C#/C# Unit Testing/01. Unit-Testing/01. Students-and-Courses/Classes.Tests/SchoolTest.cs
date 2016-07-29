@@ -34,7 +34,6 @@
         {
             var firstStd = new Student("Milen", "Peshov");
             var secondStd = new Student("Nese", "Seshtam");
-
             var school = new School(new List<Student>() { firstStd, secondStd });
 
             Assert.AreNotEqual(firstStd.StudentNumber, secondStd.StudentNumber);
