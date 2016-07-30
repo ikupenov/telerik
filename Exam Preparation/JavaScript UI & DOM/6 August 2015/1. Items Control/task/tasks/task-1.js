@@ -90,7 +90,7 @@ function solve() {
             var searchingFor = inputSearch.value;
 
             for (var i = 0; i < items.length; i += 1) {
-                var text = items[i].getElementsByClassName('inner-text')[0].innerHTML;
+                var text = items[i].querySelector('.inner-text').innerHTML;
                 if (isCaseSensitive) {
                     if (!text.includes(searchingFor)) {
                         items[i].style.display = 'none';
