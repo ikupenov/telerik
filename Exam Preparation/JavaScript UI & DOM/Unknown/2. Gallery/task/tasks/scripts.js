@@ -1,4 +1,4 @@
-// funa
+function solve() {
 $.fn.gallery = function (columns) {
   columns = columns || 4;
 
@@ -69,6 +69,6 @@ $.fn.gallery = function (columns) {
     }
   });
 };
-// }
+}
 
-// module.exports = solve;
+module.exports = solve;
