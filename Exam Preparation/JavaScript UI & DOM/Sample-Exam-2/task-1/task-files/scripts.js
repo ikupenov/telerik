@@ -21,6 +21,8 @@ function createCalendar(selector, events) {
             td.className = 'date';
             td.style.border = '1px solid black';
             td.style.padding = '0';
+            td.style.display = 'table-cell';
+            td.style.verticalAlign = 'top';
 
             var dateTitle = document.createElement('h5');
             dateTitle.innerHTML = `${date.getDayName()} ${date.getDate()} Jun 2014`;
@@ -91,7 +93,7 @@ function createCalendar(selector, events) {
         }
     });
 
-    table.addEventListener('click', function (ev) {
+    document.addEventListener('click', function (ev) {
         var target = ev.target;
 
         if (selected) {
