@@ -9,8 +9,6 @@ function createCalendar(selector, events) {
 
     var table = document.createElement('table');
     table.style.borderCollapse = 'collapse';
-    table.style.width = '740px';
-    table.style.height = '600px';
 
     var date = new Date(2014, 5, 1);
 
@@ -23,6 +21,8 @@ function createCalendar(selector, events) {
             td.style.padding = '0';
             td.style.display = 'table-cell';
             td.style.verticalAlign = 'top';
+            td.style.width = '120px';
+            td.style.height = '120px';
 
             var dateTitle = document.createElement('h5');
             dateTitle.innerHTML = `${date.getDayName()} ${date.getDate()} Jun 2014`;
