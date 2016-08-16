@@ -1,22 +1,25 @@
 /// <reference path="typings/index.d.ts" />
 
 $.fn.tabs = function () {
-    var $tabsContent = $('.tab-item-content').css('display', 'none')
-        .css('position', 'absolute')
-        .css('width', '370px')
-        .css('height', '250px')
-        .css('bottom', '5px')
-        .css('left', '5px')
-        .css('text-align', 'left');
+    var $tabsContent = $('.tab-item-content').css({
+        display: 'none',
+        position: 'absolute',
+        width: '370px',
+        height: '250px',
+        bottom: '5px',
+        left: '5px',
+        textAlign: 'left'
+    });
 
-    var $tabItems = $('.tab-item')
-        .css('float', 'left')
-        .css('padding', '10px')
-        .css('border', '1px solid black')
-        .css('border-top', 'none')
-        .css('width', '14.5%')
-        .css('text-align', 'center')
-        .css('background-color', 'white');
+    var $tabItems = $('.tab-item').css({
+        float: 'left',
+        padding: '10px',
+        border: '1px solid black',
+        borderTop: 'none',
+        width: '14.5%',
+        textAlign: 'center',
+        backgroundColor: 'white'
+    });
 
     var leftTab = $tabItems.first();
     $(leftTab).css('border-left', '0');
@@ -24,13 +27,14 @@ $.fn.tabs = function () {
     var rightTab = $tabItems.last();
     $(rightTab).css('border-right', '0');
 
-    var $tabsContainer = $('#tabs-container')
-        .css('border', '1px solid black')
-        .css('width', '400px')
-        .css('height', '300px')
-        .css('border-radius', '10px')
-        .css('position', 'relative')
-        .css('background-color', '#CCCCCC');
+    var $tabsContainer = $('#tabs-container').css({
+        border: '1px solid black',
+        width: '400px',
+        height: '300px',
+        borderRadius: '10px',
+        position: 'relative',
+        backgroundColor: '#CCCCCC'
+    });
 
     var $selected;
     var $currTab;
@@ -46,8 +50,10 @@ $.fn.tabs = function () {
             }
 
             if ($currTab) {
-                $currTab.css('border-bottom', '1px solid black');
-                $currTab.css('background-color', 'white');
+                $currTab.css({
+                    borderBottom: '1px solid black',
+                    backgroundColor: 'white'
+                });
             }
 
             var $tab;
@@ -61,8 +67,10 @@ $.fn.tabs = function () {
                 $container = $target.parents('.tab-item').find('.tab-item-content');
             }
 
-            $tab.css('border-bottom', 'none')
-                .css('background-color', '#CCCCCC');
+            $tab.css({
+                borderBottom: 'none',
+                backgroundColor: '#CCCCCC'
+            });
 
             $container.css('display', 'block');
 
