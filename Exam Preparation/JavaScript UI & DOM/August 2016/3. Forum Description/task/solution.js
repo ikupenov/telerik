@@ -1,6 +1,7 @@
 function solve() {
 	return function() {
-		var template = ['<h1>{{title}}</h1>' , 
+		var template = [
+'<h1>{{title}}</h1>' , 
 '<ul>' , 
 '{{#each posts}}' , 
 '{{#if deleted}}' , 
@@ -40,8 +41,8 @@ function solve() {
 '</li>' , 
 '{{/if}}' , 
 '{{/each}}' , 
-'</ul>']
-.join('\n');
+'</ul>'
+].join('\n');
 
 		return template;
 	};
