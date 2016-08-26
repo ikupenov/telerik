@@ -1,115 +1,128 @@
-var navName = navigator.appName,
+const CONSTANTS = {
+	NETSCAPE: 'Netscape',
+	TOOLTIP: 'ToolTip',
+
+	VISIBILITY: {
+		VISIBLE: 'visible',
+		HIDDEN: 'hidden'
+	},
+
+	DISPLAY: {
+		SHOW: 'show',
+		HIDE: 'hide'
+	}
+};
+
+let currentBrowserName = navigator.appName,
 	addScroll = false,
-	pointerX = 0,
-	pointerY = 0,
+	positionX = 0,
+	positionY = 0,
 	layer;
 
 document.onmousemove = mouseMove;
 
-if ((navigator.userAgent.indexOf('MSIE 5') > 0) || (navigator.userAgent.indexOf('MSIE 6')) > 0) {
+if ((navigator.userAgent.indexOf('MSIE 5') > 0) ||
+	(navigator.userAgent.indexOf('MSIE 6')) > 0) {
 	addScroll = true;
 }
 
-if (navName === "Netscape") {
+if (currentBrowserName === CONSTANTS.NETSCAPE) {
 	document.captureEvents(Event.MOUSEMOVE);
 }
 
 function mouseMove(ev) {
-	if (navName === "Netscape") {
-		pointerX = ev.pageX - 5;
-		pointerY = ev.pageY;
+	let offSetX = 5;
+
+	if (currentBrowserName === CONSTANTS.NETSCAPE) {
+		positionX = ev.pageX - offSetX;
+		positionY = ev.pageY;
 	} else {
-		pointerX = ev.x - 5;
-		pointerY = ev.y;
+		positionX = ev.x - offSetX;
+		positionY = ev.y;
 	}
 
-	if (navName === "Netscape") {
-		if (document.layers.ToolTip.visibility === 'show') {
-			PopTip();
+	if (currentBrowserName === CONSTANTS.NETSCAPE) {
+		if (document.layers.ToolTip.visibility === CONSTANTS.DISPLAY.SHOW) {
+			showToolTip();
 		}
 	} else {
-		if (document.all.ToolTip.style.visibility === 'visible') {
-			PopTip();
+		if (document.all.ToolTip.style.visibility === CONSTANTS.VISIBILITY.VISIBLE) {
+			showToolTip();
 		}
 	}
 }
 
-function PopTip() {
-	if (navName === "Netscape") {
+function showToolTip() {
+
+	// I would put the "magic numbers" in variables if I had idea what these numbers mean
+
+	if (currentBrowserName === CONSTANTS.NETSCAPE) {
 		layer = document.layers.ToolTip;
 
-		if ((pointerX + 120) > window.innerWidth) {
-			pointerX = window.innerWidth - 150;
+		if ((positionX + 120) > window.innerWidth) {
+			positionX = window.innerWidth - 150;
 		}
 
-		layer.left = pointerX + 10;
-		layer.top = pointerY + 15;
+		layer.left = positionX + 10;
+		layer.top = positionY + 15;
 
-		layer.visibility = 'show';
+		layer.visibility = CONSTANTS.SHOW;
 	} else {
 		layer = document.all.ToolTip;
 
 		if (layer) {
-			pointerX = event.x - 5;
-			pointerY = event.y;
+			positionX = event.x - 5;
+			positionY = event.y;
 
 			if (addScroll) {
-				pointerX = pointerX + document.body.scrollLeft;
-				pointerY = pointerY + document.body.scrollTop;
+				positionX = positionX + document.body.scrollLeft;
+				positionY = positionY + document.body.scrollTop;
 			}
 
-			if ((pointerX + 120) > document.body.clientWidth) {
-				pointerX = pointerX - 150;
+			if ((positionX + 120) > document.body.clientWidth) {
+				positionX = positionX - 150;
 			}
 
-			layer.style.pixelLeft = pointerX + 10;
-			layer.style.pixelTop = pointerY + 15;
+			layer.style.pixelLeft = positionX + 10;
+			layer.style.pixelTop = positionY + 15;
 
-			layer.style.visibility = 'visible';
+			layer.style.visibility = CONSTANTS.VISIBLE;
 		}
 	}
 }
 
-function HideTip() {
-	if (navName === "Netscape") {
-		document.layers.ToolTip.visibility = 'hide';
-	} else {
-		document.all.ToolTip.style.visibility = 'hidden';
-	}
+function hideToolTip() {
+	setVisibilityBasedOnBrowser(CONSTANTS.NETSCAPE, CONSTANTS.TOOLTIP, false);
 }
 
-function HideMenu1() {
-	if (navName === "Netscape") {
-		document.layers.menu1.visibility = 'hide';
-	} else {
-		document.all.menu1.style.visibility = 'hidden';
-	}
+function hideMenu(menu) {
+	setVisibilityBasedOnBrowser(CONSTANTS.NETSCAPE, menu, false);
 }
 
-function ShowMenu1() {
-	if (navName === "Netscape") {
-		layer = document.layers.menu1;
-		layer.visibility = 'show';
-	} else {
-		layer = document.all.menu1;
-		layer.style.visibility = 'visible';
-	}
+function showMenu(menu) {
+	setVisibilityBasedOnBrowser(CONSTANTS.NETSCAPE, menu, true);
 }
 
-function HideMenu2() {
-	if (navName === "Netscape") {
-		document.layers.menu2.visibility = 'hide';
+function setVisibilityBasedOnBrowser(browserName, element, isVisible) {
+	if (currentBrowserName === browserName) {
+		setDisplayType(element, isVisible);
 	} else {
-		document.all.menu2.style.visibility = 'hidden';
+		setVisibility(element, isVisible);
 	}
-}
 
-function ShowMenu2() {
-	if (navName === "Netscape") {
-		layer = document.layers.menu2;
-		layer.visibility = 'show';
-	} else {
-		layer = document.all.menu2;
-		layer.style.visibility = 'visible';
+	function setVisibility(element, isVisible) {
+		layer = document.layers[element];
+
+		layer.style.visibility = isVisible ?
+			CONSTANTS.VISIBILITY.VISIBLE
+			: CONSTANTS.VISIBILITY.HIDDEN;
+	}
+
+	function setDisplayType(element, isVisible) {
+		layer = document.all[element];
+
+		layer.visibility = isVisible ?
+			CONSTANTS.DISPLAY.SHOW
+			: CONSTANTS.DISPLAY.HIDE;
 	}
 }
