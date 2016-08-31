@@ -54,7 +54,7 @@ function mouseMove(ev) {
 
 function showToolTip() {
 
-	// I would put the "magic numbers" in variables if I had idea what these numbers mean
+	// I would put the "magic numbers" in variables if I had idea what they actually mean
 
 	if (currentBrowserName === CONSTANTS.NETSCAPE) {
 		layer = document.layers.ToolTip;
