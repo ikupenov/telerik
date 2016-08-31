@@ -13,17 +13,5 @@ function sum(arr) {
 
     var sum = arr.map(Number).reduce((a, b) => a + b, 0);
 
-    // var sum = 0;
-
-    // for (var i = 0; i < arr.length; i += 1) {
-    //     arr[i] = +arr[i];
-
-    //     if (typeof arr[i] !== 'number') {
-    //         throw 'All elements must be numbers';
-    //     } 
-
-    //     sum += arr[i];
-    // }
-
     return sum;
 }
