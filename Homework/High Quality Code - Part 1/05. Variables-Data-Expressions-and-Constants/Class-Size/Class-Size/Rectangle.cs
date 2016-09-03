@@ -10,7 +10,7 @@
         public Rectangle(double width, double height)
         {
             this.Width = width;
-            this.height = height;
+            this.Height = height;
         }
 
         public double Width
