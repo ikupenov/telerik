@@ -9,11 +9,11 @@
         private bool isCut;
         private bool isPeeled;
 
-        public Vegetable() : this(false, false)
+        protected Vegetable() : this(false, false)
         {
         }
 
-        public Vegetable(bool isPeeled, bool isCut)
+        protected Vegetable(bool isPeeled, bool isCut)
         {
             this.IsCut = isCut;
             this.IsPeeled = isPeeled;
