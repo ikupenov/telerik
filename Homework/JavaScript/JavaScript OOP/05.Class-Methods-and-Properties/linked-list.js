@@ -32,7 +32,7 @@ class LinkedList {
 
     append(...values) {
         if (!values.length) {
-            throw 'At least one item to append must be provided.';
+            throw 'At least one item to append must be provided!';
         }
 
         if (!this._first) {
@@ -62,8 +62,8 @@ class LinkedList {
         }
 
         if (!this._first) {
-            this._initialize(values[0]);
-            values.splice(0, 1);
+            this._initialize(values[values.length - 1]);
+            values.splice(values.length - 1, 1);
         }
 
         for (let i = values.length - 1; i >= 0; i -= 1) {
@@ -88,8 +88,8 @@ class LinkedList {
         }
 
         if (!this._first) {
-            this._initialize(values[0]);
-            values.splice(0, 1);
+            this._initialize(values[values.length - 1]);
+            values.splice(values.length - 1, 1);
         }
 
         for (let i = values.length - 1; i >= 0; i -= 1) {
