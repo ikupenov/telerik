@@ -167,18 +167,16 @@ class LinkedList {
 
     toString() {
         let values = this.toArray(),
-            valuesToString = values.join(' -> ');
+            valuesAsString = values.join(' -> ');
 
-        return valuesToString;
+        return valuesAsString;
     }
 
     toArray() {
-        let values = [],
-            currentNode = this._first;
+        let values = [];
 
-        while (currentNode) {
-            values.push(currentNode.value);
-            currentNode = currentNode.next;
+        for (let value of this) {
+            values.push(value);
         }
 
         return values;
