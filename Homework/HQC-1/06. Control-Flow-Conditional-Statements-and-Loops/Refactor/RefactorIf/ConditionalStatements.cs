@@ -15,7 +15,7 @@
                 throw new NullReferenceException("Potato cannot be null!");
             }
 
-            if (!potato.HasNotBeenPeeled && !potato.IsRotten)
+            if (!potato.HasBeenPeeled && !potato.IsRotten)
             {
                 this.Cook(potato);
             }

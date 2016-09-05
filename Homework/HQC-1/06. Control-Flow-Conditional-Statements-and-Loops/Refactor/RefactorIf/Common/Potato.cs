@@ -9,7 +9,7 @@
             throw new NotImplementedException();
         }
 
-        public bool HasNotBeenPeeled
+        public bool HasBeenPeeled
         {
             get
             {
