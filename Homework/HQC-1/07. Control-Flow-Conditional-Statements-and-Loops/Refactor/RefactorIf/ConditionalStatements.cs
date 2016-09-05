@@ -32,9 +32,9 @@
             bool isXInRange = x >= MIN_X && x <= MAX_X;
             bool isYInRange = y >= MIN_Y && y <= MAX_Y;
 
-            bool shouldNotVisitCell = default(bool);
+            bool shouldVisitCell = default(bool);
 
-            if (isXInRange && isYInRange && !shouldNotVisitCell)
+            if (isXInRange && isYInRange && shouldVisitCell)
             {
                 this.VisitCell();
             }
