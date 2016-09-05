@@ -27,8 +27,6 @@
                     break;
                 }  
 
-                rounds++;
-
                 int positions = int.Parse(commands[0]);
                 string direction = commands[1];
                 int jumps = int.Parse(commands[2]);
@@ -49,6 +47,8 @@
                         result += integers[currentIndex];
                     }
                 }
+
+                rounds++;
             }
 
             Console.WriteLine("{0:F1}", result / rounds);
