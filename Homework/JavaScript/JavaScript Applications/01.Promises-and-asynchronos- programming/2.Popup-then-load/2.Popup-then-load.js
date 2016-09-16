@@ -19,6 +19,7 @@
     function openMsg(msgTitle, msgText) {
         promise.then(msg => {
             let $msgWrapper = msg.wrapper;
+            $msgWrapper.css({ display: 'block' });
             $msgWrapper.animate({
                 opacity: 1,
                 top: '0.5em',
@@ -33,17 +34,18 @@
             return msg;
         }).then(msg => {
             let $msgWrapper = msg.wrapper;
-
             setTimeout(() => {
                 $msgWrapper.animate({
                     opacity: 0,
                     top: '-5em',
-                }, 500);
+                }, 500, () => {
+                    $msgWrapper.css({ display: 'none' });
+                });
             }, 2000);
 
             return msg;
-        }).catch(errMsg => { throw new Error(errMsg) });
+        }).catch(errMsg => { throw new Error(errMsg); });
     }
 
-    openMsg('Message Title!', 'Message text.');
+    openMsg('Logged In', 'You have logged in successfully!');
 } ());

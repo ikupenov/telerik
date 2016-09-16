@@ -7,24 +7,46 @@
 </head>
 
 <style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
     #msg-wrapper {
+        display: none;
         position: absolute;
         right: 1em;
         top: -5em;
         width: 18.750em;
-        height: 6.250em;
-        color: white;
+        height: 5.250em;
         text-align: center;
-        border: 0.125em solid black;
+        border: 0.063em solid black;
         border-radius: 10px;
         background-color: #3EB489;
         opacity: 0;
+    }
+    
+    #msg-title {
+        margin: 5px 0;
+        color: white;
+    }
+    
+    #msg-container {
+        color: #F5F5F5;
+    }
+    
+    hr.separator {
+        margin-bottom: 10px;
+        border: 0;
+        height: 1px;
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
     }
 </style>
 
 <body>
     <div id="msg-wrapper">
         <h3 id="msg-title"></h3>
+        <hr class="separator">
         <p id="msg-container"></p>
     </div>
 
