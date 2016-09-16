@@ -21,8 +21,8 @@
             let $msgWrapper = msg.wrapper;
             $msgWrapper.animate({
                 opacity: 1,
-                top: '0.5em'
-            }, 1000);
+                top: '0.5em',
+            }, 750);
 
             let $msgTitle = msg.title;
             $msgTitle.text(msgTitle);
@@ -37,8 +37,8 @@
             setTimeout(() => {
                 $msgWrapper.animate({
                     opacity: 0,
-                    top: '-5em'
-                }, 1000);
+                    top: '-5em',
+                }, 500);
             }, 2000);
 
             return msg;
