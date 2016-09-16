@@ -47,5 +47,5 @@
         }).catch(errMsg => { throw new Error(errMsg); });
     }
 
-    openMsg('Logged In', 'You have logged in successfully!');
+    openMsg('Logged In', 'You have been logged in successfully!');
 } ());
