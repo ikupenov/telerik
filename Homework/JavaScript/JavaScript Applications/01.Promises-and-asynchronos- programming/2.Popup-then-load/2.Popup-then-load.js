@@ -33,17 +33,20 @@
 
             return msg;
         }).then(msg => {
-            let $msgWrapper = msg.wrapper;
-            setTimeout(() => {
-                $msgWrapper.animate({
-                    opacity: 0,
-                    top: '-5em',
-                }, 500, () => {
-                    $msgWrapper.css({ display: 'none' });
-                });
-            }, 2000);
-
-            return msg;
+            return new Promise((resolve, _) => {
+                let $msgWrapper = msg.wrapper;
+                setTimeout(() => {
+                    $msgWrapper.animate({
+                        opacity: 0,
+                        top: '-5em',
+                    }, 500, () => {
+                        $msgWrapper.css({ display: 'none' });
+                        resolve();
+                    });
+                }, 2000);
+            });
+        }).then(() => {
+            window.location.href = 'https://telerikacademy.com/Forum/Home';
         }).catch(errMsg => { throw new Error(errMsg); });
     }
 
