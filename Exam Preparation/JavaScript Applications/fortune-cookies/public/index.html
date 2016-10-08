@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Fortune Cookies</title>
+    
+    <link rel="stylesheet" href="./bower_components/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="./bower_components/toastr/toastr.css">
+
+    <link rel="stylesheet" href="./styles/main.css">
+</head>
+
+<body>
+    <div id="header"></div>
+
+    <div class="container">
+        <div class="row row-centered">
+            <div id="content" class="col-centered"></div>
+        </div>
+    </div>
+
+    </div>
+
+    <!-- Libraries -->
+    <script src="./bower_components/jquery/dist/jquery.js"></script>
+    <script src="./bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="./bower_components/toastr/toastr.js"></script>
+    <script src="./bower_components/handlebars/handlebars.js"></script>
+    <script src="./bower_components/sammy/lib/sammy.js"></script>
+    <script src="./bower_components/underscore/underscore.js"></script>
+
+    <!-- Source code -->
+    <script src="./views/helpers/template-handler.js"></script>
+    <script src="./views/helpers/html-handler.js"></script>
+    <script src="./scripts/encryptor.js"></script>
+    <script src="./scripts/requester.js"></script>
+
+    <script src="./models/user-model.js"></script>
+
+    <script src="./controllers/general-controller.js"></script>
+    <script src="./controllers/user-controller.js"></script>
+
+    <script src="./app.js"></script>
+</body>
+
+</html>

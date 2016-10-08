@@ -1,0 +1,21 @@
+<div class="action-form">
+    {{#if isSignInForm}}
+        <form action="#/user/sign-in" method="PUT">
+            <h2>Sign In</h2>
+            <input type="text" name="username" placeholder="Enter your username">
+            <br>
+            <input type="password" name="password" placeholder="Enter your password">
+            <br>
+            <button type="submit" class="btn btn-primary">Sign In</button>
+        </form>
+    {{else}}
+        <form action="#/user/sign-up" method="POST">
+            <h2>Sign Up</h2>
+            <input type="text" name="username" placeholder="Enter your username">
+            <br>
+            <input type="password" name="password" placeholder="Enter your password">
+            <br>
+            <button type="submit" class="btn btn-primary">Sign Up</button>
+        </form>
+    {{/if}}
+</div>

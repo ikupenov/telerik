@@ -1,0 +1,25 @@
+<div id="cookies-container">
+    {{#each this}}
+        <div class="cookie" cookie-id="{{id}}">
+            <h2>
+                {{this.text}}
+                <br>
+                <small>Category: {{this.category}}</small>
+            </h2>
+            <img src="{{img}}">
+            <p>Posted on: {{shareDate}}</p>
+
+            <form action="#/cookie/like/{{id}}" method="POST">
+                <button type="submit" class="btn btn-success btn-like">Likes: {{likes}}</button>
+            </form>
+
+            <form action="#/cookie/dislike/{{id}}" method="POST">
+                <button type="submit" class="btn btn-danger btn-dislike">Dislikes: {{dislikes}}</button>
+            </form> 
+
+            <form action="#/cookie/reshare/{{id}}" method="POST">
+                <button type="submit" class="btn btn-primary btn-reshare">Re-share</button>
+            </form> 
+        </div>
+    {{/each}}
+</div>

@@ -1,0 +1,17 @@
+<nav>
+    <a href="#/" class="btn btn-default">Home</a>
+
+    {{#if isLoggedIn}}
+        <a href="#/user/my-cookie" class="btn btn-default">My Cookie</a>
+        <a href="#/user/sign-out" class="btn btn-default">Sign Out</a>
+    {{else}}
+        <a href="#/user/sign-in" class="btn btn-default">Sign In</a>
+        <a href="#/user/sign-up" class="btn btn-default">Sign Up</a>
+    {{/if}}
+
+    <div id="search">
+        <form action="#/home" method="GET">
+            <input type="text" name="category" placeholder="Search by category...">
+        </form>
+    </div>
+</nav>

@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    width: 100%;
+    min-height: 100%;
+}
+
+#header {
+    text-align: center;
+    width: 100%;
+    background-color: #CCC;
+}
+
+nav {
+    width: 100%;
+    background-color: #CCC;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#content {
+    text-align: center;
+}
+
+#cookies-container {
+    text-align: center;
+}
+
+.cookie img {
+    width: 500px;
+    height: 500px;
+}
+
+.cookie form {
+    display: inline-block;
+}
+
+.action-form input {
+    width: 20%;
+    margin-bottom: 10px;
+}
+
+#search {
+    margin: 10px auto;
+}
