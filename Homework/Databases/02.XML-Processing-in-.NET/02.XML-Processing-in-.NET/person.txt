@@ -1,0 +1,3 @@
+name: John Collins
+address: Str. Smith Street, Bld. 20
+phonenumber: 429702166

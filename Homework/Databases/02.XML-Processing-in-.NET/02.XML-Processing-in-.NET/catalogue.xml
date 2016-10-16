@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogue>
+  <album id="1">
+    <name>Album 1</name>
+    <artist>Artist 1</artist>
+    <year>2000</year>
+    <producer>Producer 1</producer>
+    <price>20.00</price>
+    <songs>
+      <song>
+        <title>Title 1</title>
+        <duration>03.00</duration>
+      </song>
+    </songs>
+  </album>
+  <album id="2">
+    <name>Album 2</name>
+    <artist>Artist 2</artist>
+    <year>2000</year>
+    <producer>Producer 2</producer>
+    <price>10.00</price>
+    <songs>
+      <song>
+        <title>Title 2</title>
+        <duration>03.20</duration>
+      </song>
+    </songs>
+  </album>
+  <album id="3">
+    <name>Album 3</name>
+    <artist>Artist 3</artist>
+    <year>2001</year>
+    <producer>Producer 3</producer>
+    <price>20.00</price>
+    <songs>
+      <song>
+        <title>Title 3</title>
+        <duration>04.30</duration>
+      </song>
+    </songs>
+  </album>
+  <album id="4">
+    <name>Album 4</name>
+    <artist>Artist 1</artist>
+    <year>2006</year>
+    <producer>Producer 4</producer>
+    <price>25.00</price>
+    <songs>
+      <song>
+        <title>Title 4</title>
+        <duration>03.00</duration>
+      </song>
+    </songs>
+  </album>
+  <album id="5">
+    <name>Album 5</name>
+    <artist>Artist 5</artist>
+    <year>2014</year>
+    <producer>Producer 5</producer>
+    <price>15.00</price>
+    <songs>
+      <song>
+        <title>Title 5</title>
+        <duration>02.40</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>
