@@ -34,7 +34,7 @@
 
             xDoc.Save(newFileUrl);
 
-            var output = "The file was parsed succeesfully.";
+            var output = "The file was parsed successfully.";
             return output;
         }
     }   

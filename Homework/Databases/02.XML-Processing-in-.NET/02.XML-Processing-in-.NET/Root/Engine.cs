@@ -17,11 +17,7 @@
 
         public void Run(ICommandHandler commandHandler, ILogger logger, IReader reader)
         {
-            logger.WriteLine(@"Enter ""ExtractArtists(URL)"" to extract artists and print their number of albums.");
-            logger.WriteLine(@"Enter ""ExtractTag(URL,TagName)"" to extract all tags and print their value.");
-            logger.WriteLine(@"Enter ""ParseToXml(URL)"" to parse a text file into xml file.");
-            logger.WriteLine(@"Enter ""DeleteAlbums(URL,MaxPrice)"" to extract artists and print their number of albums.");
-            logger.WriteLine(@"Enter ""Quit"" to close the application.");
+            ShowHelp(logger);
 
             while (true)
             {
@@ -58,6 +54,17 @@
             }
 
             return instance;
+        }
+
+        public static void ShowHelp(ILogger logger)
+        {
+            logger.WriteLine(@"Enter ""ExtractArtists(URL)"" to extract artists and print their number of albums.");
+            logger.WriteLine(@"Enter ""ExtractTag(URL,TagName)"" to extract all tags and print their value.");
+            logger.WriteLine(@"Enter ""ExtractFolderInfo(URL,DestinationUrl)"" to exctract all files and subdirectories into xml file.");
+            logger.WriteLine(@"Enter ""ParseToXml(URL)"" to parse a text file into xml file.");
+            logger.WriteLine(@"Enter ""ParseXmlToHtml(XmlURL,XslURL)"" to parse a xml file into html file.");
+            logger.WriteLine(@"Enter ""DeleteAlbums(URL,MaxPrice)"" to extract artists and print their number of albums.");
+            logger.WriteLine(@"Enter ""Quit"" to close the application.");
         }
     }
 }

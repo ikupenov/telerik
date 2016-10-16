@@ -17,13 +17,14 @@
 
             ICollection<string> elementsFound = new LinkedList<string>();
 
-            var xmlDoc = XDocument.Load(url);
+            var xDoc = XDocument.Load(url);
 
-            xmlDoc.Descendants()
+            xDoc.Descendants()
                 .Where(x => x.Name == elementToExtract)
                 .ToList()
                 .ForEach(x => elementsFound.Add(x.Value.ToString()));
 
+            // using XmlReader:
             //using (var reader = XmlReader.Create(url))
             //{
             //    while (reader.Read())
