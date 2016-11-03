@@ -17,8 +17,8 @@ namespace Company.Utilities
         {
             TimeSpan timeSpan = endDate - startDate;
 
-            var randomDays = this.numberGenerator.GetRandomInteger(0, timeSpan.Days);
-            DateTime randomDate = startDate.AddDays(randomDays);
+            var randomSeconds = this.numberGenerator.GetRandomInteger(0, (int)timeSpan.TotalSeconds);
+            DateTime randomDate = startDate.AddSeconds(randomSeconds);
 
             return randomDate;
         }

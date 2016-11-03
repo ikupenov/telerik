@@ -18,7 +18,7 @@ namespace Company.Client
             var dateGenerator = new RandomDateGenerator(numberGenerator);
 
             var startDate = new DateTime(1996, 7, 12, 22, 56, 56);
-            var endDate = new DateTime(2012, 7, 12, 22, 56, 56);
+            var endDate = new DateTime(2012, 8, 7, 8, 30, 05);
 
             var departments = new DepartmentGenerator(stringGenerator).GetDepartments(100);
 
