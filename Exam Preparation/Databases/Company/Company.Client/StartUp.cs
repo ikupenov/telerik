@@ -1,9 +1,8 @@
-﻿using System;
-using System.Linq;
-
-using Company.Utilities;
-using Company.Utilities.DataGenerators;
-using Console.Data;
+﻿using Company.Client.Configuration;
+using Company.Client.Contracts;
+using Company.Utilities.Contracts;
+using Company.Utilities.DataGenerators.Contracts;
+using Ninject;
 
 namespace Company.Client
 {
@@ -11,39 +10,46 @@ namespace Company.Client
     {
         private static void Main()
         {
-            var context = new CompanyEntities();
+            IKernel kernel = new StandardKernel(new CompanyModule());
 
-            var numberGenerator = new RandomNumberGenerator();
-            var stringGenerator = new RandomStringGenerator(numberGenerator);
-            var dateGenerator = new RandomDateGenerator(numberGenerator);
+            IClient client = kernel.Get<IClient>();
+            client.Start();
 
-            var startDate = new DateTime(1996, 7, 12, 22, 56, 56);
-            var endDate = new DateTime(2012, 8, 7, 8, 30, 05);
+            // ------------------------------------------------------------------------------------------------
 
-            var departments = new DepartmentGenerator(stringGenerator).GetDepartments(100);
+            //var context = new CompanyEntities();
 
-            context.Departments.AddRange(departments);
+            //var numberGenerator = new RandomNumberGenerator();
+            //var stringGenerator = new RandomStringGenerator(numberGenerator);
+            //var dateGenerator = new RandomDateGenerator(numberGenerator);
 
-            var employees = new EmployeeGenerator(numberGenerator, stringGenerator, departments.ToList())
-                .GetEmployees(100, 5, 95).ToList();
+            //var startDate = new DateTime(1996, 7, 12, 22, 56, 56);
+            //var endDate = new DateTime(2012, 8, 7, 8, 30, 05);
 
-            context.Employees.AddRange(employees);
+            //var departments = new DepartmentGenerator(stringGenerator).GetDepartments(100);
 
-            var projects = new ProjectGenerator(numberGenerator, stringGenerator, dateGenerator, employees)
-                .GetProjects(1000, startDate, endDate);
+            //context.Departments.AddRange(departments);
 
-            context.Projects.AddRange(projects);
+            //var employees = new EmployeeGenerator(numberGenerator, stringGenerator, departments.ToList())
+            //    .GetEmployees(100, 5, 95).ToList();
 
-            var reports = new ReportGenerator(numberGenerator, dateGenerator, employees)
-                .GetReports(50, startDate, endDate);
+            //context.Employees.AddRange(employees);
 
-            context.Reports.AddRange(reports);
+            //var projects = new ProjectGenerator(numberGenerator, stringGenerator, dateGenerator, employees)
+            //    .GetProjects(1000, startDate, endDate);
 
-            context.SaveChanges();
+            //context.Projects.AddRange(projects);
 
-            var avg = projects.Select(x => x.Employees.Count).Average();
+            //var reports = new ReportGenerator(numberGenerator, dateGenerator, employees)
+            //    .GetReports(50, startDate, endDate);
 
-            System.Console.WriteLine();
+            //context.Reports.AddRange(reports);
+
+            //context.SaveChanges();
+
+            //var avg = projects.Select(x => x.Employees.Count).Average();
+
+            //System.Console.WriteLine();
         }
     }
 }
