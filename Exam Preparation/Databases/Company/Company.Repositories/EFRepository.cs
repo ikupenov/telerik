@@ -40,16 +40,14 @@ namespace Company.Repositories
 
         public void Add(T entity)
         {
-            var entry = this.AttachIfDetached(entity);
-            entry.State = EntityState.Added;
+            this.DbSet.Add(entity);
         }
 
         public void AddMany(IEnumerable<T> entities)
         {
             foreach (var entity in entities)
             {
-                var entry = this.AttachIfDetached(entity);
-                entry.State = EntityState.Added;
+                this.DbSet.Add(entity);
             }
         }
 
@@ -61,8 +59,7 @@ namespace Company.Repositories
 
         public void Delete(T entity)
         {
-            var entry = this.AttachIfDetached(entity);
-            entry.State = EntityState.Deleted;
+            this.DbSet.Remove(entity);
         }
 
         public void Detach(T entity)

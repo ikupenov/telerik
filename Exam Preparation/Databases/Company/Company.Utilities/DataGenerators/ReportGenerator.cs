@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
+using Company.Repositories.Contracts;
 using Company.Utilities.Contracts;
 using Company.Utilities.DataGenerators.Contracts;
 using Console.Data;
@@ -11,16 +13,16 @@ namespace Company.Utilities.DataGenerators
     {
         private readonly INumberGenerator numberGenerator;
         private readonly IDateGenerator dateGenerator;
-        private readonly IEnumerable<Employee> employees;
+        private readonly IRepository<Employee> employeesRepository;
 
         public ReportGenerator(
             INumberGenerator numberGenerator,
             IDateGenerator dateGenerator,
-            IEnumerable<Employee> employees)
+            IRepository<Employee> employeesRepository)
         {
             this.numberGenerator = numberGenerator;
             this.dateGenerator = dateGenerator;
-            this.employees = employees;
+            this.employeesRepository = employeesRepository;
         }
 
         public IEnumerable<Report> GetReports(
@@ -30,7 +32,7 @@ namespace Company.Utilities.DataGenerators
         {
             var reports = new HashSet<Report>();
 
-            foreach (var employee in employees)
+            foreach (var employee in this.employeesRepository.Entities.ToList())
             {
                 int minReportsPerEmployee = averageReportsPerEmployee - averageReportsPerEmployee;
                 int maxReportsPerEmployee = averageReportsPerEmployee + averageReportsPerEmployee;

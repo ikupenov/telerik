@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
+using Company.Repositories.Contracts;
 using Company.Utilities.Contracts;
 using Company.Utilities.DataGenerators.Contracts;
 using Console.Data;
@@ -19,18 +20,18 @@ namespace Company.Utilities.DataGenerators
         private readonly INumberGenerator numberGenerator;
         private readonly IStringGenerator stringGenerator;
         private readonly IDateGenerator dateGenerator;
-        private readonly IList<Employee> employees;
+        private readonly IRepository<Employee> employeeRepository;
 
         public ProjectGenerator(
             INumberGenerator numberGenerator,
             IStringGenerator stringGenerator,
             IDateGenerator dateGenerator,
-            IList<Employee> employees)
+            IRepository<Employee> employeesRepository)
         {
             this.numberGenerator = numberGenerator;
             this.stringGenerator = stringGenerator;
             this.dateGenerator = dateGenerator;
-            this.employees = employees;
+            this.employeeRepository = employeesRepository;
         }
 
         public IEnumerable<Project> GetProjects(int count, DateTime minDate, DateTime maxDate)
@@ -75,7 +76,8 @@ namespace Company.Utilities.DataGenerators
 
         private IEnumerable<Employee> GetRandomEmployees()
         {
-            var employees = new HashSet<Employee>();
+            var employees = this.employeeRepository.Entities.ToList();
+            var employeesToImport = new HashSet<Employee>();
 
             int averageMaxEmployees = this.numberGenerator.GetRandomInteger(MinEmployeesOnProject, MaxEmployeesOnproject);
             int averageEmployees = this.numberGenerator.GetRandomInteger(
@@ -84,13 +86,13 @@ namespace Company.Utilities.DataGenerators
 
             for (int i = 0; i < averageEmployees; i++)
             {
-                int employeePosition = this.numberGenerator.GetRandomInteger(0, this.employees.Count);
-                Employee employee = this.employees[employeePosition];
+                int employeePosition = this.numberGenerator.GetRandomInteger(0, employees.Count);
+                Employee employee = employees[employeePosition];
 
-                employees.Add(employee);
+                employeesToImport.Add(employee);
             }
 
-            return employees;
+            return employeesToImport;
         }
     }
 }

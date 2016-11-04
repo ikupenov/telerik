@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
+using Company.Repositories.Contracts;
 using Company.Utilities.Contracts;
 using Company.Utilities.DataGenerators.Contracts;
 using Console.Data;
@@ -20,40 +21,41 @@ namespace Company.Utilities.DataGenerators
 
         private readonly INumberGenerator numberGenerator;
         private readonly IStringGenerator stringGenerator;
-        private readonly IList<Department> departments;
+        private readonly IRepository<Department> departmentsRepository;
 
         public EmployeeGenerator(
             INumberGenerator numberGenerator,
             IStringGenerator stringGenerator,
-            IList<Department> departments)
+            IRepository<Department> departmentsRepository)
         {
             this.numberGenerator = numberGenerator;
             this.stringGenerator = stringGenerator;
-            this.departments = departments.ToList();
+            this.departmentsRepository = departmentsRepository;
         }
 
         public IEnumerable<Employee> GetEmployees(
-            int count,
+            int totalCount,
             int managersPercentage,
             int employeesPercentage)
         {
-            int totalManagersCount = (count * managersPercentage) / 100;
-            int totalEmployeesCount = (count * employeesPercentage) / 100;
+            int totalManagersCount = (totalCount * managersPercentage) / 100;
+            int totalEmployeesCount = (totalCount * employeesPercentage) / 100;
 
-            var employees = this.GenerateEmployees(count, totalManagersCount, totalEmployeesCount);
+            var employees = this.GenerateEmployees(totalCount, totalManagersCount, totalEmployeesCount);
             return employees;
         }
 
         private IEnumerable<Employee> GenerateEmployees(
-            int count,
+            int totalCount,
             int totalManagersCount,
             int totalEmployeesCount)
         {
+            IList<Department> departments = this.departmentsRepository.Entities.ToList();
             IList<Employee> managers = new List<Employee>(totalManagersCount);
             IList<Employee> employees = new List<Employee>(totalEmployeesCount);
             ICollection<Employee> allEmployees = new HashSet<Employee>();
 
-            for (int i = 0; i < count; i++)
+            for (int i = 0; i < totalCount; i++)
             {
                 var firstName = this.stringGenerator.GetRandomString(
                     MinFirstNameLength,
@@ -67,8 +69,8 @@ namespace Company.Utilities.DataGenerators
                     MinYearSalary,
                     MaxYearSalary);
 
-                var departmentPosition = this.numberGenerator.GetRandomInteger(0, this.departments.Count);
-                var department = this.departments[departmentPosition];
+                var departmentPosition = this.numberGenerator.GetRandomInteger(0, departments.Count);
+                var department = departments[departmentPosition];
 
                 var employee = new Employee
                 {
