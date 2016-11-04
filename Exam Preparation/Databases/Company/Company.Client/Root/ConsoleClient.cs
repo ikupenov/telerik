@@ -10,10 +10,10 @@ namespace Company.Client.Root
 {
     internal class ConsoleClient : IClient
     {
-        private const int DepartmentsCount = 100;
-        private const int EmployeesCount = 1000;
-        private const int ProjectsCount = 3000;
-        private const int AvgReportPerEmployee = 50;
+        private const int DepartmentsCount = 10;
+        private const int EmployeesCount = 100;
+        private const int ProjectsCount = 300;
+        private const int AvgReportPerEmployee = 5;
 
         private const int EmployeesPercentage = 5;
         private const int ManagersPercentage = 95;
@@ -21,25 +21,25 @@ namespace Company.Client.Root
         private readonly DateTime minStartDate = new DateTime(1996, 7, 12, 22, 56, 56);
         private readonly DateTime maxEndtDate = new DateTime(2012, 8, 7, 8, 30, 05);
 
+        private readonly IDepartmentGenerator departmentGenerator;
         private readonly IEmployeeGenerator employeeGenerator;
         private readonly IProjectGenerator projectGenerator;
         private readonly IReportGenerator reportGenerator;
-        private readonly IDepartmentGenerator departmentGenerator;
         private readonly ICompanyContext companyContext;
         private readonly IWorkUnit unitOfWork;
 
         public ConsoleClient(
+            IDepartmentGenerator departmentGenerator,
             IEmployeeGenerator employeeGenerator,
             IProjectGenerator projectGenerator,
             IReportGenerator reportGenerator,
-            IDepartmentGenerator departmentGenerator,
             ICompanyContext companyContext,
             IWorkUnit unitOfWork)
         {
+            this.departmentGenerator = departmentGenerator;
             this.employeeGenerator = employeeGenerator;
             this.projectGenerator = projectGenerator;
             this.reportGenerator = reportGenerator;
-            this.departmentGenerator = departmentGenerator;
             this.companyContext = companyContext;
             this.unitOfWork = unitOfWork;
         }
@@ -47,14 +47,17 @@ namespace Company.Client.Root
         public void Start()
         {
             IEnumerable<Department> departments = this.departmentGenerator.GetDepartments(DepartmentsCount);
+
             IEnumerable<Employee> employees = this.employeeGenerator.GetEmployees(
                 EmployeesCount,
                 ManagersPercentage,
                 EmployeesPercentage);
+
             IEnumerable<Project> projects = this.projectGenerator.GetProjects(
                 ProjectsCount,
                 this.minStartDate,
                 this.maxEndtDate);
+
             IEnumerable<Report> reports = this.reportGenerator.GetReports(
                 AvgReportPerEmployee,
                 this.minStartDate,
@@ -63,10 +66,15 @@ namespace Company.Client.Root
             using (this.unitOfWork)
             {
                 this.companyContext.Departments.AddMany(departments);
-                this.companyContext.Employees.AddMany(employees);
-                this.companyContext.Projects.AddMany(projects);
-                this.companyContext.Reports.AddMany(reports);
+                this.unitOfWork.Commit();
 
+                this.companyContext.Employees.AddMany(employees);
+                this.unitOfWork.Commit();
+
+                this.companyContext.Projects.AddMany(projects);
+                this.unitOfWork.Commit();
+
+                this.companyContext.Reports.AddMany(reports);
                 this.unitOfWork.Commit();
             }
         }
