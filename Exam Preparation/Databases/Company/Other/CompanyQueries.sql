@@ -41,3 +41,4 @@ JOIN Employees_Projects ep
 	ON e.Id = ep.EmployeeId
 JOIN Projects p
 	ON p.Id = ep.ProjectId
+ORDER BY e.Id, p.Id
