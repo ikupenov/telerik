@@ -101,8 +101,8 @@ namespace Company.Utilities
                         new XElement("FirstName", e.FirstName),
                         new XElement("LastName", e.LastName),
                         new XElement("YearlySalary", e.YearSalary),
-                        new XElement("Department", e.Department),
-                        new XElement("Manager", e.Employee1),
+                        new XElement("Department", e.Department?.Name),
+                        new XElement("Manager", $"{e.Employee1?.FirstName} {e.Employee1?.LastName}"),
                         new XElement("Projects", e.Projects.Select(p =>
                             new XElement("Project",
                                 new XElement("Name", p.Name),

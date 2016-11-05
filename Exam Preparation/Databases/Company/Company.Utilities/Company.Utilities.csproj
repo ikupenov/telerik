@@ -67,9 +67,7 @@
     <Compile Include="RandomNumberGenerator.cs" />
     <Compile Include="RandomStringGenerator.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Exporters\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Company.Data\Company.Data.csproj">
       <Project>{3893b23e-d7e1-4975-9747-17d443305f89}</Project>
