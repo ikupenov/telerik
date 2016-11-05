@@ -31,8 +31,7 @@ SELECT
 	,(SELECT
 			COUNT(*)
 		FROM Reports r
-		WHERE r.Time >= p.StartDate
-		AND r.Time <= p.EndDate)
+		WHERE r.Time BETWEEN p.StartDate AND p.EndDate)
 	AS [ReportsCount]
 FROM Employees e
 JOIN Departments d
