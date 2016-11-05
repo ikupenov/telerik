@@ -30,7 +30,16 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -40,6 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CompanyXmlProvider.cs" />
+    <Compile Include="Contracts\IXmlProvider.cs" />
     <Compile Include="Contracts\IDateGenerator.cs" />
     <Compile Include="DataGenerators\Contracts\IDepartmentGenerator.cs" />
     <Compile Include="Contracts\INumberGenerator.cs" />
@@ -56,7 +67,9 @@
     <Compile Include="RandomNumberGenerator.cs" />
     <Compile Include="RandomStringGenerator.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Exporters\" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Company.Data\Company.Data.csproj">
       <Project>{3893b23e-d7e1-4975-9747-17d443305f89}</Project>
@@ -66,6 +79,10 @@
       <Project>{012462b8-4f76-426b-bde7-2cfb09226f00}</Project>
       <Name>Company.Repositories</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -1,15 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Xml.Linq;
 
-using Company.Data;
 using Company.Client.Contracts;
+using Company.Data;
 using Company.Repositories.Contracts;
+using Company.Utilities.Contracts;
 using Company.Utilities.DataGenerators.Contracts;
 
 namespace Company.Client.Root
 {
     internal class ConsoleClient : IClient
     {
+        private const string XmlDirPath = @"..\..\..\XmlOutput";
+
         private const int DepartmentsCount = 10;
         private const int EmployeesCount = 100;
         private const int ProjectsCount = 300;
@@ -27,6 +31,7 @@ namespace Company.Client.Root
         private readonly IReportGenerator reportGenerator;
         private readonly ICompanyContext companyContext;
         private readonly IWorkUnit unitOfWork;
+        private readonly IXmlProvider xmlProvider;
 
         public ConsoleClient(
             IDepartmentGenerator departmentGenerator,
@@ -34,7 +39,8 @@ namespace Company.Client.Root
             IProjectGenerator projectGenerator,
             IReportGenerator reportGenerator,
             ICompanyContext companyContext,
-            IWorkUnit unitOfWork)
+            IWorkUnit unitOfWork,
+            IXmlProvider xmlProvider)
         {
             this.departmentGenerator = departmentGenerator;
             this.employeeGenerator = employeeGenerator;
@@ -42,9 +48,17 @@ namespace Company.Client.Root
             this.reportGenerator = reportGenerator;
             this.companyContext = companyContext;
             this.unitOfWork = unitOfWork;
+            this.xmlProvider = xmlProvider;
         }
 
         public void Start()
+        {
+            this.SeedData();
+            this.SaveAllDepartmentsToXml();
+            this.SaveEmployeesWithHighSalaryToXml();
+        }
+
+        private void SeedData()
         {
             using (this.unitOfWork)
             {
@@ -73,6 +87,23 @@ namespace Company.Client.Root
                 this.companyContext.Reports.AddMany(reports);
                 this.unitOfWork.Commit();
             }
+        }
+
+        private void SaveAllDepartmentsToXml()
+        {
+            XElement departments = this.xmlProvider
+                .GetDepartments();
+
+            departments.Save($@"{XmlDirPath}\Departments.xml");
+        }
+
+        private void SaveEmployeesWithHighSalaryToXml()
+        {
+
+            XElement employeesWithHighSalary = this.xmlProvider
+                .GetEmployeesWithSalaryBetween(180000, 200000);
+
+            employeesWithHighSalary.Save($@"{XmlDirPath}\EmployeesWithHighSalary.xml");
         }
     }
 }
