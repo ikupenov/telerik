@@ -7,17 +7,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Console.Data
+namespace Company.Data
 {
     using System;
     using System.Collections.Generic;
     
-    public partial class sysdiagram
+    public partial class Report
     {
-        public string name { get; set; }
-        public int principal_id { get; set; }
-        public int diagram_id { get; set; }
-        public Nullable<int> version { get; set; }
-        public byte[] definition { get; set; }
+        public int Id { get; set; }
+        public int EmployeeId { get; set; }
+        public System.DateTime Time { get; set; }
+    
+        public virtual Employee Employee { get; set; }
     }
 }

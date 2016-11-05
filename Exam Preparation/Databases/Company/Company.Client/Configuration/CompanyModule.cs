@@ -2,9 +2,9 @@
 using System.IO;
 using System.Reflection;
 
+using Company.Data;
 using Company.Client.Contracts;
 using Company.Client.Root;
-using Console.Data;
 
 using Ninject.Extensions.Conventions;
 using Ninject.Modules;

@@ -1,7 +1,7 @@
 ﻿using System.Data.Entity;
 
+using Company.Data;
 using Company.Repositories.Contracts;
-using Console.Data;
 
 namespace Company.Repositories
 {

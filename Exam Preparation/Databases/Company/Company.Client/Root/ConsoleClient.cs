@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 
+using Company.Data;
 using Company.Client.Contracts;
 using Company.Repositories.Contracts;
 using Company.Utilities.DataGenerators.Contracts;
-using Console.Data;
 
 namespace Company.Client.Root
 {

@@ -58,13 +58,13 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <ProjectReference Include="..\Company.Data\Company.Data.csproj">
+      <Project>{3893b23e-d7e1-4975-9747-17d443305f89}</Project>
+      <Name>Company.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Company.Repositories\Company.Repositories.csproj">
       <Project>{012462b8-4f76-426b-bde7-2cfb09226f00}</Project>
       <Name>Company.Repositories</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Console.Data\Console.Data.csproj">
-      <Project>{3893b23e-d7e1-4975-9747-17d443305f89}</Project>
-      <Name>Console.Data</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

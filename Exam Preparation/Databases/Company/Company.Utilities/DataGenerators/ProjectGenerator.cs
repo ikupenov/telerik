@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 
+using Company.Data;
 using Company.Repositories.Contracts;
 using Company.Utilities.Contracts;
 using Company.Utilities.DataGenerators.Contracts;
-using Console.Data;
 
 namespace Company.Utilities.DataGenerators
 {

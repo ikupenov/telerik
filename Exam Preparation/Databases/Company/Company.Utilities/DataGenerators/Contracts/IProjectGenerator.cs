@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-using Console.Data;
+using Company.Data;
 
 namespace Company.Utilities.DataGenerators.Contracts
 {

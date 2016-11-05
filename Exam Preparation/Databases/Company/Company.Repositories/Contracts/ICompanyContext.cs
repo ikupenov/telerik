@@ -1,4 +1,4 @@
-﻿using Console.Data;
+﻿using Company.Data;
 
 namespace Company.Repositories.Contracts
 {

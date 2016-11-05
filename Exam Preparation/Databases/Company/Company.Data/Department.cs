@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Console.Data
+namespace Company.Data
 {
     using System;
     using System.Collections.Generic;
