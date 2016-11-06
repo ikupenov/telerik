@@ -7,7 +7,7 @@ namespace Dealership.Models
     {
         public int Id { get; set; }
 
-        [Required, MaxLength(11)]
+        [Required, MaxLength(50)]
         public string Model { get; set; }
 
         public int Year { get; set; }

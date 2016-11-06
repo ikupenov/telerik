@@ -68,6 +68,14 @@
       <Project>{473ba49d-a206-4db0-8e25-77f14fe58f0d}</Project>
       <Name>Dealership.Models</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Dealership.Repository\Dealership.Repository.csproj">
+      <Project>{1d69a11b-f134-4d04-b8b9-a1fe47b668b7}</Project>
+      <Name>Dealership.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dealership.Utilities\Dealership.Utilities.csproj">
+      <Project>{072c20b3-bfc4-4bc5-b005-6478922b6936}</Project>
+      <Name>Dealership.Utilities</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

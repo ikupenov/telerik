@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dealership.Data", "Dealersh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dealership.Models", "Dealership.Models\Dealership.Models.csproj", "{473BA49D-A206-4DB0-8E25-77F14FE58F0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dealership.Utilities", "Dealership.Utilities\Dealership.Utilities.csproj", "{072C20B3-BFC4-4BC5-B005-6478922B6936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dealership.Repository", "Dealership.Repository\Dealership.Repository.csproj", "{1D69A11B-F134-4D04-B8B9-A1FE47B668B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{473BA49D-A206-4DB0-8E25-77F14FE58F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{473BA49D-A206-4DB0-8E25-77F14FE58F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{473BA49D-A206-4DB0-8E25-77F14FE58F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{072C20B3-BFC4-4BC5-B005-6478922B6936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072C20B3-BFC4-4BC5-B005-6478922B6936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072C20B3-BFC4-4BC5-B005-6478922B6936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072C20B3-BFC4-4BC5-B005-6478922B6936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D69A11B-F134-4D04-B8B9-A1FE47B668B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D69A11B-F134-4D04-B8B9-A1FE47B668B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D69A11B-F134-4D04-B8B9-A1FE47B668B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D69A11B-F134-4D04-B8B9-A1FE47B668B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

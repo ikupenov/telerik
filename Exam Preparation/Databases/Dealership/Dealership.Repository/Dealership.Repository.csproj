@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{98E97E5B-2C05-4754-BD22-94587F1C17D3}</ProjectGuid>
+    <ProjectGuid>{1D69A11B-F134-4D04-B8B9-A1FE47B668B7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Dealership.Data</RootNamespace>
-    <AssemblyName>Dealership.Data</AssemblyName>
+    <RootNamespace>Dealership.Repository</RootNamespace>
+    <AssemblyName>Dealership.Repository</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -49,35 +49,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DealershipContext.cs" />
-    <Compile Include="Migrations\201611052359301_Initial.cs" />
-    <Compile Include="Migrations\201611052359301_Initial.Designer.cs">
-      <DependentUpon>201611052359301_Initial.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201611062208501_Updated.cs" />
-    <Compile Include="Migrations\201611062208501_Updated.Designer.cs">
-      <DependentUpon>201611062208501_Updated.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Contracts\IRepository.cs" />
+    <Compile Include="Contracts\IWorkUnit.cs" />
+    <Compile Include="EFDealershipRepository.cs" />
+    <Compile Include="EFWorkUnit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-    <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
+    <ProjectReference Include="..\Dealership.Data\Dealership.Data.csproj">
+      <Project>{98e97e5b-2c05-4754-bd22-94587f1c17d3}</Project>
+      <Name>Dealership.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Dealership.Models\Dealership.Models.csproj">
       <Project>{473ba49d-a206-4db0-8e25-77f14fe58f0d}</Project>
       <Name>Dealership.Models</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201611052359301_Initial.resx">
-      <DependentUpon>201611052359301_Initial.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201611062208501_Updated.resx">
-      <DependentUpon>201611062208501_Updated.cs</DependentUpon>
-    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
