@@ -1,4 +1,4 @@
-﻿using Dealership.Configurations;
+﻿using System.Reflection;
 using Dealership.Engine;
 
 using Ninject;
@@ -9,7 +9,8 @@ namespace Dealership
     {
         public static void Main()
         {
-            IKernel kernel = new StandardKernel(new DealershipModule());
+            IKernel kernel = new StandardKernel();
+            kernel.Load(Assembly.GetExecutingAssembly());
 
             IEngine engine = kernel.Get<IEngine>();
             engine.Start();
