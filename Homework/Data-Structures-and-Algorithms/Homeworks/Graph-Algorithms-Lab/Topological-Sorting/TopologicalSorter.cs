@@ -28,7 +28,8 @@ public class TopologicalSorter
             nextNode = this.graph.Keys
                 .FirstOrDefault(node => predecessorsCount[node] == 0);
         }
-
+        
+        // Ensures that a loop has been encountered
         if (this.graph.Count != 0)
         {
             throw new InvalidOperationException();
