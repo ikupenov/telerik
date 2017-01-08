@@ -13,8 +13,8 @@ namespace Portals
 
         static void Main()
         {
-            int[] startIndeces = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
-            int[] matrixSize = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            int[] startIndeces = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            int[] matrixSize = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
             int startRow = startIndeces[0];
             int startCol = startIndeces[1];
